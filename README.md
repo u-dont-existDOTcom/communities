@@ -4,14 +4,14 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 
 ## Current checkpoint
 
-- Volumes **1-34** complete
-- **730** journal PDFs triaged
-- **254** relevant or contextual close reads
-- **118** evidence findings (`F-001` through `F-118`)
+- Volumes **1-35** complete
+- **756** journal PDFs triaged
+- **276** relevant or contextual close reads
+- **121** evidence findings (`F-001` through `F-121`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
-- Next unit: **volume 35, 26 PDFs** (12 in issue 1; 14 in issue 2)
+- Next unit: **volume 36, 21 PDFs** (10 in issue 1; 11 in issue 2)
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-V34-RESEARCH-REPORT.md`](recovered/COMMUNITIES-V34-RESEARCH-REPORT.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-V35-RESEARCH-REPORT.md`](recovered/COMMUNITIES-V35-RESEARCH-REPORT.md).
 
 ## Repository layout
 
@@ -25,14 +25,14 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 
 ## Verification
 
-With the exact local source corpus restored beneath `recovered/corpus-v34/`, run:
+With the exact local source corpus restored beneath `recovered/corpus-v35/`, run:
 
 ```bash
-python recovered/test_v34_workflow.py
-python recovered/verify_v34.py
+python recovered/test_v35_workflow.py
+python recovered/verify_v35.py
 ```
 
-The verifier checks all 29 PDF hashes, page counts, and text extractions, inventory dispositions, sequential finding IDs, gap references, report coverage, cumulative counts, and the volume-35 boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The verifier checks all 26 PDF hashes, page counts, and text extractions, inventory dispositions, sequential finding IDs, gap references, report coverage, cumulative counts, and the volume-36 boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
