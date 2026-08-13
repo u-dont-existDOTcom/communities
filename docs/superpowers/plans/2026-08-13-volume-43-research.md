@@ -278,7 +278,7 @@ git diff --cached --name-only
 
 Assert that no PDF, ZIP, corpus path, context dump, visual render, credential, or non-redacted Drive object ID is staged.
 
-- [ ] **Step 2: Commit the verified checkpoint**
+- [x] **Step 2: Commit the verified checkpoint**
 
 Use commit message:
 
@@ -286,6 +286,6 @@ Use commit message:
 Add verified volume 43 research checkpoint
 ```
 
-- [ ] **Step 3: Publish and read back**
+- [x] **Step 3: Publish and read back**
 
 Publish `agent/volume-43-research`, compare the remote tree SHA and complete file list with the local commit, and read back `COMMUNITIES-RESEARCH-STATE.md` from GitHub before reporting completion.
