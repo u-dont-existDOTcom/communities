@@ -1,0 +1,12 @@
+record_id,file,volume,issue,kind,functional_class,article_title,author,pdf_pages,score,title_hits,danger,sanction,governance,child,exit,clinical,process_allegation,process_assessment,process_intervention,process_review,process_outcome,process_families_present
+M-0986,recovered/corpus-v40/vol40/iss1/008-elopement-and-marriage-among-the-shakers.txt,40,1,article,substantive,Elopement and Marriage Among the Shakers,Tom Sakmyster,29,378,0,10,33,104,34,120,8,8,3,10,0,35,4
+M-0985,recovered/corpus-v40/vol40/iss1/007-communitisms-hunt-for-harmony-the-skaneateles-community-1837-1846.txt,40,1,article,substantive,"Communitismâ•Žs Hunt for Harmony
+The Skaneateles Community: 1837-1846",Mitchell K. Jones,34,330,1,45,16,88,30,24,7,16,0,5,7,11,4
+M-0984,recovered/corpus-v40/vol40/iss1/006-intentional-community-traditions-and-radical-activism-the-rifton-ny-bruderhof-and-blu-magazine.txt,40,1,article,substantive,"Intentional Community Traditions and Radical Activism:
+The Rifton, NY Bruderhof and BLU Magazine",Paul C. Mishler,21,278,0,24,40,31,45,38,4,4,0,3,2,5,4
+M-0983,recovered/corpus-v40/vol40/iss1/005-a-vision-with-a-business-kerista-communes-utopian-capitalism.txt,40,1,article,substantive,A Vision with a Business: Kerista Communeâ•Žs Utopian Capitalism,Annelise Vought,24,130,0,7,6,55,11,22,3,4,2,1,6,8,5
+M-0982,recovered/corpus-v40/vol40/iss1/004-the-evolution-of-the-term-intentional-community.txt,40,1,article,substantive,"The Evolution of the Term â•œIntentional Community""",Donald E. Janzen,15,67,0,0,0,2,43,1,7,0,0,1,1,1,3
+M-0979,recovered/corpus-v40/vol40/iss1/001-front-matter.txt,40,1,front_matter,metadata,Front Matter,,6,8,0,0,2,2,0,2,0,0,0,2,2,0,2
+M-0980,recovered/corpus-v40/vol40/iss1/002-table-of-contents.txt,40,1,table_of_contents,metadata,Table of Contents,,2,4,0,1,0,1,0,0,0,0,0,0,0,0,0
+M-0981,recovered/corpus-v40/vol40/iss1/003-from-the-editors.txt,40,1,editorial,metadata,From the Editors,"Heather Van Wormer, Thomas A. Guiler, and Susan Love Brown",2,2,0,0,0,2,0,0,0,0,1,0,4,0,2
+M-0987,recovered/corpus-v40/vol40/iss1/009-back-matter.txt,40,1,back_matter,metadata,Back Matter,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
