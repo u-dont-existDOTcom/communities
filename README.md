@@ -4,14 +4,14 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 
 ## Current checkpoint
 
-- Volumes **1-41** complete
-- **875** journal PDFs triaged
-- **362** relevant or contextual close reads
-- **148** evidence findings (`F-001` through `F-148`)
+- Volumes **1-42** complete
+- **899** journal PDFs triaged
+- **378** relevant or contextual close reads
+- **151** evidence findings (`F-001` through `F-151`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
-- Next unit: **volume 42, 24 PDFs** (12 in issue 1; 12 in issue 2)
+- Next unit: **volume 43, 37 PDFs** (20 in issue 1; 17 in issue 2)
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-V41-RESEARCH-REPORT.md`](recovered/COMMUNITIES-V41-RESEARCH-REPORT.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-V42-RESEARCH-REPORT.md`](recovered/COMMUNITIES-V42-RESEARCH-REPORT.md).
 
 ## Repository layout
 
@@ -25,14 +25,14 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 
 ## Verification
 
-With the exact local source corpus restored beneath `recovered/corpus-v41/`, run:
+With the exact local source corpus restored beneath `recovered/corpus-v42/`, run:
 
 ```bash
-python recovered/test_v41_workflow.py
-python recovered/verify_v41.py
+python recovered/test_v42_workflow.py
+python recovered/verify_v42.py
 ```
 
-The verifier checks all 20 PDF hashes, page counts, and text extractions, inventory dispositions, sequential finding IDs, gap references, report coverage, cumulative counts, byte-for-byte preservation of the shared archive row, and the volume-42 boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The verifier checks all 24 PDF hashes, page counts, and text extractions, inventory dispositions, sequential finding IDs, gap references, report coverage, cumulative counts, byte-for-byte preservation of the shared archive row, and the volume-43 boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
