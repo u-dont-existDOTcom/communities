@@ -1,0 +1,33 @@
+record_id,file,volume,issue,kind,functional_class,article_title,author,pdf_pages,score,title_hits,danger,sanction,governance,child,exit,clinical,process_allegation,process_assessment,process_intervention,process_review,process_outcome,process_families_present
+M-0002,recovered/corpus-v41/vol41/iss1/001-international-herb-the-career-of-shaker-herbalist-elisha-myrick.txt,41,1,article,substantive,International Herb: The Career of Shaker Herbalist Elisha Myrick,Christian Goodwillie,33,624,0,4,34,56,78,98,104,6,2,8,2,20,5
+M-0018,recovered/corpus-v41/vol41/iss1/017-far-out-west-a-utopian-comic-adventure.txt,41,1,article,substantive,Far Out West: A utopian Comic Adventure,Cheryl Coulthard,27,568,0,42,32,132,24,36,62,8,6,0,18,18,4
+M-0014,recovered/corpus-v41/vol41/iss1/013-the-community-and-the-world-place-making-and-re-making-in-amana.txt,41,1,article,substantive,"â•œThe Communityâ•š and â•œthe Worldâ•š: Place-Making and
+Re-Making in Amana",Jonathan G. Andelson,33,466,0,14,16,139,82,141,10,6,8,2,5,36,5
+M-0013,recovered/corpus-v41/vol41/iss1/012-the-marketplace-migration-and-material-culture-origins-of-distinction-in-kentucky-shaker-furniture.txt,41,1,article,substantive,"The Marketplace, Migration, and Material Culture: Origins
+of Distinction in Kentucky Shaker Furniture",Marc A. Rhorer,30,345,0,8,50,87,54,68,4,0,7,6,0,32,3
+M-0015,recovered/corpus-v41/vol41/iss1/014-the-zoar-artist.txt,41,1,article,substantive,The Zoar Artist,Kathleen Fernandez,21,237,0,2,42,22,10,109,2,20,1,4,1,4,5
+M-0016,recovered/corpus-v41/vol41/iss1/015-self-justification-in-the-artistic-practice-and-artworks-of-kibbutz-women-artists.txt,41,1,article,substantive,"Self-Justification in the Artistic Practice and Artworks of
+Kibbutz Women Artists",Ruth Yurovski,25,183,0,0,26,60,24,32,5,2,8,4,0,29,4
+M-0017,recovered/corpus-v41/vol41/iss1/016-constructing-community-building-design-infrastructure-and-ecological-habitus-at-dancing-rabbit-ecovillage.txt,41,1,article,substantive,"Constructing Community: Building Design, Infrastructure,
+and Ecological Habitus at Dancing Rabbit Ecovillage",Zach Rubin and Joshua Lockyer,26,165,0,2,4,74,10,28,13,0,16,2,2,9,4
+M-0006,recovered/corpus-v41/vol41/iss1/005-review-of-seeing-like-a-commons-eighty-years-of-intentional-community-building-and-commons-stewardship-in-celo.txt,41,1,book_review,substantive,"Review of Seeing Like a Commons: Eighty Years of Intentional
+Community Building and Commons Stewardship in Celo,
+North Carolina",Deborah Altus,7,84,0,0,0,48,26,4,2,0,0,2,9,2,3
+M-0003,recovered/corpus-v41/vol41/iss1/002-contact-tracing-reflections-on-shaker-fever-amid-pandemic-lockdowns.txt,41,1,article,substantive,"Contact Tracing: Reflections on â•œShaker Feverâ•š Amid
+Pandemic Lockdowns",Carol Medlicott,10,64,0,0,4,19,27,4,2,4,6,2,4,9,5
+M-0005,recovered/corpus-v41/vol41/iss1/004-review-of-kingdom-of-nauvoo-the-rise-and-fall-of-a-religious-empire-on-the-american-frontier.txt,41,1,book_review,substantive,"Review of Kingdom of Nauvoo: The Rise and Fall of a Religious
+Empire on the American Frontier",Erik Freeman,5,58,0,8,6,16,2,4,0,0,0,2,5,0,2
+M-0008,recovered/corpus-v41/vol41/iss1/007-review-of-the-benedictine-option-a-strategy-for-christians-in-a-post-christian-nation.txt,41,1,book_review,substantive,"Review of The Benedictine Option: A Strategy for Christians in a
+Post-Christian Nation",Etta Madden,5,58,0,0,4,14,12,6,6,0,0,2,9,2,3
+M-0012,recovered/corpus-v41/vol41/iss1/011-review-of-camphill-and-the-future-spirituality-and-disability-in-an-evolving-communal-movement.txt,41,1,book_review,substantive,"Review of Camphill and the Future: Spirituality and Disability in an
+Evolving Communal Movement",Ann L. Coble,5,56,0,0,0,15,13,4,8,0,0,0,8,3,2
+M-0010,recovered/corpus-v41/vol41/iss1/009-review-of-the-kingdom-of-god-is-at-hand-the-christian-commonwealth-in-georgia-1896-1901.txt,41,1,book_review,substantive,"Review of The Kingdom of God is at Hand: The Christian
+Commonwealth in Georgia, 1896-1901",Cheryl Coulthard,4,44,0,2,4,26,2,2,0,0,0,0,14,0,1
+M-0009,recovered/corpus-v41/vol41/iss1/008-review-of-gentle-words-the-meaning-and-message-of-shaker-music.txt,41,1,book_review,substantive,Review of Gentle Words: The Meaning and Message of Shaker Music,Carol Medlicott,5,24,0,2,6,0,2,4,0,0,0,0,13,4,2
+M-0007,recovered/corpus-v41/vol41/iss1/006-review-of-blessings-and-burdens-100-years-of-hutterites-in-manitoba.txt,41,1,book_review,substantive,Review of Blessings and Burdens: 100 Years of Hutterites in Manitoba,Zach Rubin,3,14,0,0,0,8,2,4,0,0,0,0,5,0,1
+M-0011,recovered/corpus-v41/vol41/iss1/010-review-of-joseph-smith-for-president-the-prophet-the-assassins-and-the-fight-for-american-religious-freedom.txt,41,1,book_review,substantive,"Review of Joseph Smith for President: The Prophet, the Assassins, and
+the Fight for American Religious Freedom",Timothy Miller,3,0,0,0,0,0,0,0,0,0,0,0,5,0,1
+M-0019,recovered/corpus-v41/vol41/iss1/018-from-the-editors.txt,41,1,editorial,metadata,From the Editors,"Thomas A. Guiler, Susan Love Brown, Heather Van Wormer, and Cheryl Coulthard",5,22,0,0,4,10,0,4,0,0,10,0,10,0,2
+M-0021,recovered/corpus-v41/vol41/iss1/020-front-matter.txt,41,1,front_matter,metadata,Front Matter,,6,14,0,0,4,4,0,2,0,0,0,4,4,0,2
+M-0020,recovered/corpus-v41/vol41/iss1/019-table-of-contents.txt,41,1,table_of_contents,metadata,Table of Contents,,4,6,0,0,2,0,0,2,0,0,0,0,2,0,1
+M-0004,recovered/corpus-v41/vol41/iss1/003-back-matter.txt,41,1,back_matter,metadata,Back Matter,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
