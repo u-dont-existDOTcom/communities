@@ -1,0 +1,28 @@
+record_id,file,volume,issue,kind,functional_class,article_title,author,pdf_pages,score,title_hits,danger,sanction,governance,child,exit,clinical,process_allegation,process_assessment,process_intervention,process_review,process_outcome,process_families_present
+M-0970,recovered/corpus-v39/vol39/iss2/004-a-conceptual-model-for-assessing-environmentally-responsible-practices-in-ecological-intentional-communities-e.txt,39,2,article,substantive,"A Conceptual Model for Assessing Environmentally
+Responsible Practices in Ecological Intentional
+Communities: Examples from Texas, USA",Christina W. Lopez and Russell Weaver,33,298,0,16,16,70,24,40,28,20,96,8,6,10,5
+M-0972,recovered/corpus-v39/vol39/iss2/006-frances-wrights-nashoba-seeking-a-utopian-solution-to-the-problem-of-slavery.txt,39,2,article,substantive,"Frances Wrightâ•Žs Nashoba: Seeking a Utopian Solution to
+the Problem of Slavery",Cheryl Coulthard,18,268,0,30,6,72,28,33,11,0,19,5,0,14,3
+M-0960,recovered/corpus-v39/vol39/iss1/005-growth-ideals-and-scarcity-the-complexity-of-financing-the-twin-oaks-community.txt,39,1,article,substantive,"Growth, Ideals and Scarcity: The Complexity of Financing the Twin Oaks Community",Rahima Schwenkbeck,24,240,1,4,6,121,11,57,9,3,0,1,6,6,4
+M-0971,recovered/corpus-v39/vol39/iss2/005-the-centripetal-pull-of-u-s-ashrams-nodes-in-a-sacred-transnational-network.txt,39,2,article,substantive,"The Centripetal Pull of U.S. Ashrams: Nodes in a Sacred
+Transnational Network",Lauren M/ Griffith,26,240,0,0,12,100,18,35,21,2,1,11,10,16,5
+M-0959,recovered/corpus-v39/vol39/iss1/004-a-place-a-spirit-a-ministry-the-persistence-of-koinonia-farm-in-the-post-jordan-years.txt,39,1,article,substantive,"â•œA Place, a Spirit, a Ministryâ•š: The Persistence of Koinonia Farm in the Post-Jordan Years",Ryan Geockner,18,169,0,13,11,62,16,9,7,0,2,3,0,4,3
+M-0977,recovered/corpus-v39/vol39/iss2/011-review-of-zoar-the-story-of-an-intentional-community.txt,39,2,book_review,substantive,Review of Zoar: The Story of an Intentional Community,Christian Goodwillie,6,127,0,14,3,17,2,42,6,0,5,4,5,8,4
+M-0976,recovered/corpus-v39/vol39/iss2/010-review-of-we-went-to-the-woods.txt,39,2,book_review,substantive,Review of We Went to the Woods,Stephanie Carpenter,5,66,0,10,3,18,2,7,1,0,3,0,6,0,2
+M-0963,recovered/corpus-v39/vol39/iss1/008-review-of-this-radical-land-a-natural-history-of-american-dissent.txt,39,1,book_review,substantive,Review of This Radical Land: A Natural History of American Dissent,Erik J. Freeman,5,49,1,7,2,11,1,9,1,0,0,1,5,0,2
+M-0961,recovered/corpus-v39/vol39/iss1/006-the-maverick-woodstocks-bohemian-art-colony.txt,39,1,article,substantive,The Maverick: Woodstockâ•Žs Bohemian Art Colony,John P. Murphy,18,48,0,1,3,17,5,8,3,3,0,3,1,3,4
+M-0975,recovered/corpus-v39/vol39/iss2/009-review-of-communes-in-america-1975-2000.txt,39,2,book_review,substantive,"Review of Communes in America, 1975-2000",Donald E. Pitzer,5,44,0,2,6,5,7,5,3,0,3,0,9,3,3
+M-0973,recovered/corpus-v39/vol39/iss2/007-review-of-american-messiahs-false-prophets-of-a-damned-nation.txt,39,2,book_review,substantive,Review of American Messiahs: False Prophets of a Damned Nation,Zach Rubin,4,43,0,5,5,16,0,2,0,0,0,5,8,1,3
+M-0974,recovered/corpus-v39/vol39/iss2/008-review-of-avant-garde-in-the-cornfields-architecture-landscape-and-preservation-in-new-harmony.txt,39,2,book_review,substantive,"Review of Avant-Garde in the Cornfields: Architecture, Landscape, and Preservation in New Harmony",Martha Bradley-Evans,3,34,1,9,1,2,1,2,0,0,1,1,5,2,4
+M-0962,recovered/corpus-v39/vol39/iss1/007-review-of-greetings-from-utopia-park-surviving-a-transcendent-childhood.txt,39,1,book_review,substantive,Review of Greetings from Utopia Park: Surviving a Transcendent Childhood,Deborah Altus,4,22,1,0,1,5,10,2,1,0,0,1,5,1,3
+M-0964,recovered/corpus-v39/vol39/iss1/009-review-of-ecovillages-around-the-world.txt,39,1,book_review,substantive,Review of Ecovillages Around the World,Bill Metcalf,4,18,0,0,3,5,1,3,1,0,0,0,7,1,2
+M-0965,recovered/corpus-v39/vol39/iss1/010-review-of-elder-rufus-bishops-journals-volumes-1-and-2.txt,39,1,book_review,substantive,Review of Elder Rufus Bishopâ•Žs Journals (Volumes 1 and 2),Marc C. Rhorer,5,16,0,0,0,12,2,2,0,0,0,0,5,2,2
+M-0956,recovered/corpus-v39/vol39/iss1/001-front-matter.txt,39,1,front_matter,metadata,Front Matter,,6,15,0,0,4,3,0,4,0,0,0,4,5,0,2
+M-0968,recovered/corpus-v39/vol39/iss2/002-contents.txt,39,2,contents,metadata,Contents,,3,12,0,1,3,1,0,2,0,0,2,0,6,0,2
+M-0969,recovered/corpus-v39/vol39/iss2/003-from-the-editors.txt,39,2,editorial,metadata,From the Editors,Heather Van Wormer and Susan Love Brown,2,9,0,0,3,1,0,2,0,0,1,0,5,0,2
+M-0957,recovered/corpus-v39/vol39/iss1/002-contents.txt,39,1,contents,metadata,Contents,,3,7,0,0,1,2,1,2,0,0,0,0,1,0,1
+M-0967,recovered/corpus-v39/vol39/iss2/001-front-matter.txt,39,2,front_matter,metadata,Front Matter,,4,7,0,0,2,1,0,2,0,0,0,2,2,0,2
+M-0958,recovered/corpus-v39/vol39/iss1/003-from-the-editors.txt,39,1,editorial,metadata,From the Editors,"Carol Medlicott, Heather Van Wormer, and Susan Love Brown",3,6,0,0,1,3,0,1,0,0,0,0,3,1,2
+M-0966,recovered/corpus-v39/vol39/iss1/011-back-matter.txt,39,1,back_matter,metadata,Back Matter,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M-0978,recovered/corpus-v39/vol39/iss2/012-back-matter.txt,39,2,back_matter,metadata,Back Matter,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
