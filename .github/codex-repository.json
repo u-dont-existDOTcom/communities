@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repository_kind": "research",
+  "active": true,
+  "long_running": true,
+  "visibility": "public",
+  "risk": "high",
+  "commands": {},
+  "current_state": null,
+  "github_controls": {
+    "default_branch_rules": "unverified",
+    "secret_scanning": "unverified",
+    "push_protection": "unverified",
+    "code_scanning": "not_applicable"
+  },
+  "audit_note": "Before adding commands or choosing a current-state path, re-read the repository's current authority/source layout. Apply provenance, citation, privacy, and loss-prevention gates rather than software-only ceremony."
+}
