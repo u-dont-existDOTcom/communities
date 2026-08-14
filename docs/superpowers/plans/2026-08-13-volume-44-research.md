@@ -182,23 +182,23 @@ Expected: 33 ranking rows, 25 nonmetadata sources, 8 functional metadata records
 - Consumes: ranking, contexts, all 25 nonmetadata full texts, and cumulative ledgers.
 - Produces: one traceable disposition per nonmetadata PDF and sequential findings beginning at `F-155` only where a source supplies a materially distinct mechanism, outcome, challenge, or bounded negative result.
 
-- [ ] **Step 1: Metadata-triage the eight functional records**
+- [x] **Step 1: Metadata-triage the eight functional records**
 
 Record `M-0083`, `M-0084`, `M-0101`, `M-0102`, `M-0103`, `M-0104`, `M-0105`, and `M-0115` as functional metadata.
 
-- [ ] **Step 2: Close-read all 5 research articles and 20 book reviews**
+- [x] **Step 2: Close-read all 5 research articles and 20 book reviews**
 
 Inspect each source for admission, governance, founder or asset control, business power, discipline, coercion, dissent, expulsion, ostracism, schism, grievance, protected voice, usable exit, disability and care, external review, transition support, child conduct or protection, and later outcomes. Record exact PDF and printed-page locators where a finding is proposed. For reviews, distinguish the reviewer's direct evaluation from claims that require access to the reviewed book.
 
-- [ ] **Step 3: Resolve every child-danger proximity candidate**
+- [x] **Step 3: Resolve every child-danger proximity candidate**
 
 Classify each candidate as child actor, victim, dependent, student, biographical, theological, fictional, or unrelated mention. Require actor, allegation, assessment, intervention, review, and later outcome before treating a case as responsive to the dangerous-child question.
 
-- [ ] **Step 4: Draft the source report and proposed findings**
+- [x] **Step 4: Draft the source report and proposed findings**
 
 For every promoted row, fill every ledger field and preserve unresolved alternatives. Distinguish direct source claims from participant allegations and verification leads. Give every nonmetadata non-promotion an explicit reason.
 
-- [ ] **Step 5: Reconcile findings into the existing gap bank**
+- [x] **Step 5: Reconcile findings into the existing gap bank**
 
 Retain the 18-row B/C/D architecture unless a genuinely new article gap is established. Add verification leads and explicit non-promotions without treating corroboration as a new finding or gap.
 
@@ -215,11 +215,11 @@ Retain the 18-row B/C/D architecture unless a genuinely new article gap is estab
 - Consumes: completed volume-44 dispositions and findings.
 - Produces: idempotent cumulative artifacts and a verifier that proves the complete volume-44 boundary and exact volume-45 handoff.
 
-- [ ] **Step 1: Write a failing checkpoint contract before the updater**
+- [x] **Step 1: Write a failing checkpoint contract before the updater**
 
 The regression suite must first require the report, updater, verifier, sequential findings beginning at `F-155`, exact statuses, and the complete 25-row disposition table. The full verifier then asserts 33 member hashes, inventoried page counts, nonempty texts, exact dispositions, sequential finding IDs, valid gap references, report coverage, public-ID redaction, byte-for-byte preservation of D-003's archive row and the pre-volume-44 evidence-ledger prefix, and the next boundary at volume 45: 15 PDFs in issue 1 with 15 journal PDFs remaining.
 
-- [ ] **Step 2: Run the checkpoint contract and confirm RED**
+- [x] **Step 2: Run the checkpoint contract and confirm RED**
 
 ```bash
 python -m unittest recovered.test_v44_workflow.Volume44WorkflowTest.test_completed_checkpoint_contract
@@ -227,7 +227,7 @@ python -m unittest recovered.test_v44_workflow.Volume44WorkflowTest.test_complet
 
 Expected: failure because `update_v44.py`, `verify_v44.py`, and the completed checkpoint do not yet exist.
 
-- [ ] **Step 3: Implement and run the idempotent updater**
+- [x] **Step 3: Implement and run the idempotent updater**
 
 ```bash
 python recovered/update_v44.py
@@ -246,7 +246,7 @@ cmp /tmp/v44-readme-once.md README.md
 
 The updater retains D-003's existing container provenance, appends new findings without rewriting prior ledger bytes, and marks only volume-44 member rows with verified dispositions and local corpus paths.
 
-- [ ] **Step 4: Run all final checks**
+- [x] **Step 4: Run all final checks**
 
 ```bash
 python -m py_compile recovered/recover_v44.py recovered/discover_v44.py recovered/update_v44.py recovered/verify_v44.py recovered/test_v44_workflow.py
@@ -268,7 +268,7 @@ Expected: zero failures, exact cumulative counts, and a printed volume-45 receip
 - Consumes: the freshly verified local tree.
 - Produces: a GitHub commit on `agent/volume-44-research` whose complete tree equals the verified local tree.
 
-- [ ] **Step 1: Inspect exact public scope and scan for private locators**
+- [x] **Step 1: Inspect exact public scope and scan for private locators**
 
 ```bash
 git status --short
@@ -278,7 +278,7 @@ git diff --cached --name-only
 
 Assert that no PDF, ZIP, corpus path, context dump, visual render, credential, or non-redacted Drive object ID is staged.
 
-- [ ] **Step 2: Commit the verified checkpoint**
+- [x] **Step 2: Commit the verified checkpoint**
 
 Use commit message:
 
@@ -286,6 +286,6 @@ Use commit message:
 Add verified volume 44 research checkpoint
 ```
 
-- [ ] **Step 3: Publish and read back**
+- [x] **Step 3: Publish and read back**
 
 Publish `agent/volume-44-research`, compare the remote tree SHA and complete file list with the local commit, and read back `COMMUNITIES-RESEARCH-STATE.md` from GitHub before reporting completion.
