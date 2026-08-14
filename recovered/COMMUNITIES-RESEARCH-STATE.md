@@ -1,6 +1,6 @@
 # Communities Research State
 
-Updated: 2026-08-13 (Africa/Dakar)
+Updated: 2026-08-14 (Africa/Dakar)
 
 ## Authority and mode
 
@@ -11,19 +11,19 @@ Updated: 2026-08-13 (Africa/Dakar)
 
 ## Durable completed checkpoint
 
-- *Communal Societies* volumes **1-43** are complete for title and keyword triage.
-- **936 journal PDFs** were triaged: 407 close-read as relevant or contextual, 207 title/keyword-triaged, and 322 metadata-triaged.
-- `COMMUNITIES-EVIDENCE-LEDGER.csv` contains **154 findings** (`F-001` through `F-154`). Volume 43 added three findings: two C and one F-status bounded negative.
+- *Communal Societies* volumes **1-44** are complete for title and keyword triage.
+- **969 journal PDFs** were triaged: 432 close-read as relevant or contextual, 207 title/keyword-triaged, and 330 metadata-triaged.
+- `COMMUNITIES-EVIDENCE-LEDGER.csv` contains **158 findings** (`F-001` through `F-158`). Volume 44 added four findings: three C and one F-status bounded negative.
 - `COMMUNITIES-ARTICLE-GAP-BANK.md` retains 18 reconciled article-gap items: 8 partially present, 7 apparently missing, and 3 challenges to the article.
-- `COMMUNITIES-V43-RESEARCH-REPORT.md` records the completed 37-PDF boundary, close-read disposition, discovery and child-search method, cautions, and exact next unit.
+- `COMMUNITIES-V44-RESEARCH-REPORT.md` records the completed 33-PDF boundary, close-read disposition, discovery and child-search method, cautions, and exact next unit.
 - The source inventory contains 1,005 records total: 984 journal PDFs, 3 archive manifests, and 18 Drive-level source/container records.
-- All 984 journal PDFs have extracted text. Every one of the 37 volume 43 PDFs was independently recovered from the journal's primary publisher, matched its pre-existing archive-member SHA-256 value in the inventory, matched its inventoried page count, and has nonempty extracted text. The shared `COMMUNAL-SOCIETIES-v41-v45.zip` archive container was not locally present or reverified in this checkpoint; its saved size, hash, local-path provenance, and prior integrity-test note remain unchanged.
+- All 984 journal PDFs have extracted text. Every one of the 33 volume 44 PDFs was independently recovered from the journal's primary publisher, matched its pre-existing archive-member SHA-256 value in the inventory, matched its inventoried page count, and has nonempty extracted text. The shared `COMMUNAL-SOCIETIES-v41-v45.zip` archive container was not locally present or reverified in this checkpoint; its saved size, hash, local-path provenance, and prior integrity-test note remain unchanged.
 - M-0398's pre-extracted text ended at printed page 107; printed pages 108-113 were inspected directly from the source PDF and the affected ledger row records that access path.
 
 ## Exact pending boundary
 
-- Volumes **44-45** have not been processed: **48 journal PDFs**.
-- The next bounded journal unit is volume **44: 33 PDFs**, with 20 in issue 1 and 13 in issue 2.
+- Volume **45** has not been processed: **15 journal PDFs**.
+- The next bounded journal unit is volume **45: 15 PDFs**, all in issue 1.
 - Eight standalone Drive sources are inventoried but not yet represented by durable local text or close-read findings:
   1. *The Riddle of Amish Culture* (EPUB)
   2. *Alienation and Charisma*
@@ -38,7 +38,7 @@ Updated: 2026-08-13 (Africa/Dakar)
 ## Current evidence picture
 
 - Adult/community-level evidence now includes ostracism, removal, punitive and unilateral expulsion, confinement to reduce self/other risk, leader and asset capture, crisis-driven expert dependency, dissent and apostate suppression, admission failure under cash pressure, evidence-channel monopoly, sanctions drifting into conformity enforcement, peer practice substituting for medicine, failed-prediction absorption, portable pension protection, civil recovery, arbitration, founder removal after factional violence, protected caucuses, reversible conflict trials, and shadow governance beneath formal democracy.
-- Volume 43 adds: protected objection and verified nonimplementation for an intrusive child-placement proposal; conduct-specific admission, protection, separation, property, and review procedures that remain operable under a rule-averse philosophy; and another bounded dangerous-child null.
+- Volume 44 adds: a child-centered stop rule for placement programs whose institutional-succession purpose fails; independent court and professional routes around therapist-controlled family separation; inclusive external intake for credible disclosed harm; and another bounded dangerous-child null.
 - Existing evidence does **not** validate contribution, productivity, therapeutic fluency, long residence, cohesion, outward consensus, institutional survival, centralization, criminal history, poverty, distress, nonconformity, whole-home compliance, or an administrator's suitability label as safety proxies.
 - Existing child-related evidence concerns exit capacity, peer-group power, education, medical neglect, unequal schooling, dissent rights, custody and contact conflict, broad adult punishment authority, collective childrearing, age-ordered adult sexual authority, non-inherited adult membership, punishment-centered compliance, and system-level safeguarding rules. It still does not answer how a community handled a child who remained gravely dangerous despite ordinary care and accountability.
 - The strongest process contrast remains internal versus independent correction. Consultation, mediation, or settlement can be useful, but they do not substitute for independent evidence review, victim support, offender accountability, appeal, and outcome follow-up.
@@ -47,9 +47,9 @@ Updated: 2026-08-13 (Africa/Dakar)
 
 ## Resume procedure
 
-1. Do not repeat volumes 1-43.
-2. Retrieve and verify the 33 volume 44 publisher PDFs; 20 are in issue 1 and 13 are in issue 2, together forming the next exact bounded journal unit.
-3. Run complete title and keyword discovery, process-family screening, and the separate dangerous-child actor search across all 33 extracted texts.
+1. Do not repeat volumes 1-44.
+2. Retrieve and verify the 15 volume 45 publisher PDFs; all are in issue 1 and together form the final bounded journal unit in the current inventory.
+3. Run complete title and keyword discovery, process-family screening, and the separate dangerous-child actor search across all 15 extracted texts.
 4. Close-read every source that may bear on admission, predation, violence, discipline, expulsion, ostracism, schism, grievance, child conduct, child protection, leader capture, dissent, reintegration, outside intervention, or outcome.
 5. Append only materially distinct findings and preserve source access, what the source does not establish, alternative interpretation, process, outcome, transferability, and verification needs.
 6. Reconcile findings into the existing 18-item gap bank; do not create a new gap merely for corroboration.
