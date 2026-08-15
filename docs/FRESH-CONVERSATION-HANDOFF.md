@@ -60,6 +60,7 @@ Relevant biographical anchors are that Joel grew up visiting intentional communi
 - The autonomy/legal-pluralism correction is complete: LP-001 through LP-009 and F-187 through F-192.
 - The Escuelita descendant audit is complete: ES-001 through ES-018 and F-193 through F-198.
 - No published article prose has been revised in this research phase.
+- A public-facing transparency report now exists at `docs/PUBLIC-RESEARCH-REPORT.md`, with a research-only future appendix-link handoff at `docs/ARTICLE-APPENDIX-RESEARCH-LINK.md`. These are derivative research artifacts, not article edits.
 
 ## What the research currently says
 
@@ -158,6 +159,8 @@ Current repository-contained checks:
 ```bash
 python recovered/test_escuelita_seed_outcomes_workflow.py
 python recovered/verify_escuelita_seed_outcomes.py
+python recovered/test_public_research_report_workflow.py
+python recovered/verify_public_research_report.py
 python -m compileall -q recovered
 git diff --check
 ```
@@ -166,11 +169,12 @@ Source-dependent predecessor checks require the exact private/local corpora reco
 
 ## Current boundary and next request
 
+The public transparency/report unit requested in the fresh-conversation packet is now complete. It adds no new findings and leaves the published article untouched.
+
 The assigned corpus, final horizontal synthesis, five adjacent units, autonomy/legal-pluralism correction, and Escuelita descendant audit are complete. There is no silently authorized unfinished research lane.
 
-When this packet accompanies a new user request, execute that request without repeating completed work. If Joel says only “continue,” two materially different paths remain and require one concise choice:
+When this packet accompanies a new user request, execute that request without repeating completed work. The evidence program itself has reached its research stop rule. The recommended next phase is **article integration plus claim-selective publication verification**: first select the gap-bank findings/examples that will actually be used, externally verify those load-bearing publication claims where the ledger requires it, and only then revise from an authoritative article source after Joel explicitly authorizes editing. This is source-hardening inside integration, not a new open-ended research lane.
 
-1. authorize an editorial pass applying the 20-item gap bank to the published article; or
-2. name or select a new bounded research question.
+A new research phase remains appropriate only when Joel identifies a separate finite question whose answer could materially change a claim, design, or decision.
 
 Do not begin article revision merely because the evidence package is complete. Do not invent an unbounded “more research” pass.
