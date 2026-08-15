@@ -7,11 +7,11 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 - Volumes **1-45** complete
 - **984** journal PDFs triaged
 - **443** relevant or contextual close reads
-- **168** evidence findings (`F-001` through `F-168`)
+- **171** evidence findings (`F-001` through `F-171`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
 - Primary assigned corpus: **complete, 984 journal PDFs plus 8 standalone sources**
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-STANDALONE-RESEARCH-REPORT.md`](recovered/COMMUNITIES-STANDALONE-RESEARCH-REPORT.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md`](recovered/COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md); the finite continuation queue is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
 
 ## Repository layout
 
@@ -28,8 +28,8 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 With the exact local source corpora restored beneath `recovered/corpus-v45/` and `recovered/corpus-standalone/`, run:
 
 ```bash
-python recovered/test_standalone_workflow.py
-python recovered/verify_standalone.py
+python recovered/test_adjacent_child_pilot_workflow.py
+python recovered/verify_adjacent_child_pilot.py
 ```
 
 The verifier checks all eight standalone source sizes and hashes, seven PDF page counts, EPUB integrity, nonempty extracted text, inventory dispositions, sequential finding IDs, gap references, discovery coverage, report coverage, cumulative counts, preservation of all non-standalone inventory rows, and completion of the 984-journal-plus-8-standalone boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
