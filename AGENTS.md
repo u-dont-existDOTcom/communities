@@ -14,8 +14,8 @@ This repository is P0 research unless the owner explicitly authorizes article ed
 
 For an active checkpoint branch:
 
-- Regression suite: `python recovered/test_final_synthesis_workflow.py` (or the current bounded-unit successor)
-- Full source verification: `python recovered/verify_final_synthesis.py`; run source-dependent predecessor checks only when their exact local corpora are restored
+- Regression suite: `python recovered/test_autonomy_legal_pluralism_workflow.py` (current bounded-unit successor)
+- Current repository-contained verification: `python recovered/verify_autonomy_legal_pluralism.py`; run source-dependent predecessor checks only when their exact local corpora are restored
 - Syntax: `python -m compileall recovered`
 - Patch hygiene: `git diff --check`
 

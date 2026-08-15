@@ -2,17 +2,19 @@
 
 Date: 2026-08-15 (Africa/Dakar)  
 Status: completed P0 research synthesis; no article prose revised  
-Evidence base: 186 findings, F-001 through F-186
+Evidence base: 192 findings, F-001 through F-192
 
 ## Direct answer: the gap bank was not the final report
 
-The research needed this additional pass.
+The research needed both the earlier horizontal synthesis and this correction pass.
 
-The [article-gap bank](COMMUNITIES-ARTICLE-GAP-BANK.md) is a strong editorial control document. Its 18 rows ask what each cluster of evidence implies for claims already present in the community article. That is exactly what a later article revision needs. It is not, however, a neutral account of everything the research learned, because the article's current headings and propositions determine the questions, the grouping, and the destination of the evidence.
+The [article-gap bank](COMMUNITIES-ARTICLE-GAP-BANK.md) is an editorial control document. Its rows ask what the evidence implies for claims already present in the community article. It is not a neutral account of everything learned because the article's headings and propositions determine its questions and destinations.
 
-The distinction is visible in the files. The gap bank contains 660 finding references and reaches 183 of the 186 findings, but compresses them into 18 article-facing rows plus verification and non-promotion notes. Three findings do not appear anywhere in it: F-027 on Shaker communities as de facto child-care institutions, F-030 on an access-rich Rajneeshpuram account overtaken by later events, and F-032 on historical communal waves not establishing a present-day surge. More importantly, the same finding can recur under many gaps while the deeper mechanism linking those gaps remains implicit.
+The corrected gap bank reaches 189 of 192 findings. Three findings still do not appear in its article-facing rows: F-027 on Shaker communities as de facto child-care institutions, F-030 on an access-rich Rajneeshpuram account overtaken by later events, and F-032 on historical communal waves not establishing a present-day surge. The [finding crosswalk](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) accounts for all 192 findings.
 
-This report reverses the direction. It begins with all 186 findings, groups them horizontally, preserves counterevidence and negative results, and only then asks what the result means for the article. The [finding crosswalk](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) accounts for every row. The [evidence ledger](COMMUNITIES-EVIDENCE-LEDGER.csv) remains the authority for source facts, limits, alternative interpretations, outcomes, and verification needs.
+The first horizontal synthesis also inherited a sampling-frame error. Intentional communities inside nation-state jurisdiction and adjacent court, regulator, clinical, and inquiry records were allowed to imply that independent correction must be state-external. The autonomous-governance lane, summarized in [the legal-pluralism correction report](COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md), shows that the Zapatistas, Cheran, and CRAC-PC require a different rule: independence from the implicated authority and adequate scale are necessary; state operation is contingent.
+
+The [evidence ledger](COMMUNITIES-EVIDENCE-LEDGER.csv) remains the authority for source facts, limits, alternative interpretations, outcomes, and verification needs.
 
 ## Scope and evidentiary limits
 
@@ -20,11 +22,11 @@ The completed research contains:
 
 - 984 *Communal Societies* journal PDFs across volumes 1-45;
 - eight standalone substantive sources;
-- 20 bounded adjacent records covering child response, assessment and review, durable treatment and transition, official correction, and fair separation, pooled risk, and planned fission;
+- 29 bounded adjacent records covering child response, assessment and review, durable treatment and transition, official correction, fair separation, pooled risk, planned fission, autonomous Indigenous governance, legal pluralism, and translocal federation;
 - 443 relevant or contextual journal close reads; and
-- 186 promoted findings.
+- 192 promoted findings.
 
-The ledger assigns 88 findings high confidence, 22 medium-high, 67 medium, two medium-low, three low-medium, and four low. It marks 124 for external verification and 62 as not needing it at the present checkpoint. “External verification needed” does not mean a finding is false. It commonly means that a review-level source, underlying court record, current policy, implementation record, or later outcome still needs checking before publication-facing reliance.
+The ledger assigns 91 findings high confidence, 25 medium-high, 67 medium, two medium-low, three low-medium, and four low. It marks 128 for external verification and 64 as not needing it at the present checkpoint. “External verification needed” does not mean a finding is false. It commonly means that a review-level source, underlying court record, current policy, implementation record, or later outcome still needs checking before publication-facing reliance.
 
 Twenty-two findings are bounded searches that did not locate the specified persistent-dangerous-child response sequence in volumes 1-45 or the eight standalone sources. They are evidence about this search and corpus, not proof that no relevant case exists anywhere.
 
@@ -42,13 +44,13 @@ The common failure sequence is:
 
 `legitimate function or dependency → role fusion → evidence and remedy capture → stigmatizing classification or retaliation → costly exit → outward cohesion or survival misread as success → crisis and partial outside correction`
 
-The strongest counterdesign is not leaderlessness, bureaucracy, or state control of ordinary life. It is a modular arrangement in which authority is explicit, bounded by function, replaceable, separated from review of its own conduct, constrained by direct individual rights, and tested by later human outcomes. Communities can retain wide authority over voluntary membership, shared life, ordinary conflict, mutual aid, and culture while preserving independent routes for evidence, appeal, medicine, child safeguarding, law, and exit.
+The strongest counterdesign is not leaderlessness, bureaucracy, state control of ordinary life, or isolated local sovereignty. It is a modular and potentially plural legal order in which authority is explicit, bounded by function, replaceable, separated from review of its own conduct, supported at the necessary translocal scale, constrained by direct individual rights, and tested by later human outcomes. Communities can retain wide authority over voluntary membership, shared life, ordinary conflict, mutual aid, and culture while preserving independent routes for evidence, appeal, medicine, child safeguarding, law, and exit.
 
 That combined architecture is synthesis claim S-15. It is model-assisted: no source in this corpus validates the whole package as one system. Its components have different evidentiary status and must remain separately testable.
 
 ## Theme map
 
-The crosswalk assigns each finding one primary theme so that all 186 are accounted for. The themes overlap in the report because the mechanisms do.
+The crosswalk assigns each finding one primary theme so that all 192 are accounted for. The themes overlap in the report because the mechanisms do.
 
 | Theme | Primary findings | Question answered |
 |---|---:|---|
@@ -64,6 +66,7 @@ The crosswalk assigns each finding one primary theme so that all 186 are account
 | T-10 success, outcomes, source quality, and measurement | 9 | What counts as success, and how can the record mislead? |
 | T-11 succession, fission, and movement continuity | 11 | How can people and purpose survive leadership or institutional change? |
 | T-12 dangerous-child bounded null and adjacent response | 33 | What does and does not answer the hardest child-safety question? |
+| T-13 autonomy, legal pluralism, and translocal federation | 6 | Can independent correction and protection be autonomous, and when is a state interface contingent? |
 
 ## 1. Authority must be decomposed, not merely democratized — T-01, S-01
 
@@ -164,28 +167,34 @@ S-12 is a formation and operating rule: map water, food, housing, health capacit
 
 This does not make local autonomy meaningless. It makes autonomy specific. A community can choose how it organizes ordinary life while acknowledging nonoptional duties and external choke points. “Selecting couplings” is useful only if it includes the couplings one cannot ethically or legally decline.
 
-## 9. Outside correction is necessary, function-specific, and fallible — T-09, S-10
+## 9. Independent correction is necessary; state externality is contingent — T-09, T-13, S-10, S-16, S-17
 
-The corpus neither romanticizes state intervention nor treats it as optional in every domain.
+The earlier version of this section overgeneralized from its sampling frame. The corpus was dominated by intentional communities embedded in nation-state jurisdiction, and the adjacent units deliberately selected courts, regulators, clinicians, child-welfare systems, and official inquiries. Those records show why an implicated private authority needs a route it does not control. They do not establish that the route must always be a nation-state institution.
 
-Courts and agencies answer the claim, jurisdiction, evidence, and remedy before them. They may set a property boundary without repairing a relationship (F-036, F-050, F-119), end a criminal or civil case through settlement without a complete accountability record (F-086), or remove an official or licensed authority without producing family repair, survivor recovery, or later institutional safety (F-101, F-180). An official inquiry may document blocked reporting and recommend continuing action without proving implementation (F-181). Police referral and convictions can establish accountability for proven offences without resolving every allegation, redress claim, survivor need, or successor risk (F-182).
+S-16 is the corrected rule: independent correction is a relationship, not a geography. Four locations must stay distinct:
 
-Outside systems can also be conflicted, captured, underprepared, or wrong. Local political institutions can reflect a community voting bloc (F-102). Raids can rest on false premises or unreliable channels (F-123). Civil or clinical process can be initiated against a dissenter by leaders who control the narrative (F-145). Media, professionals, regulators, courts, police, schools, and social services all need conflict, evidence, proportionality, and after-action controls (F-062, F-126, F-127, F-137).
+1. independent of the person or local authority whose conduct is challenged;
+2. outside the immediate household, village, or residential community;
+3. outside the autonomous movement or federation; and
+4. operated by the nation-state.
 
-The answer is not one generic “outside authority.” S-10 assigns distinct functions:
+The first is the recurring anti-capture requirement. Which of the other three is necessary depends on jurisdiction, competence, scale, direct rights, territorial control, enforceability, and the surrounding threat environment.
 
-- emergency services address immediate threats;
-- police and courts investigate and adjudicate legally defined offences and claims;
-- child-protection and custody systems address lawful child safety and family authority;
-- licensed clinicians assess and treat within professional scope;
-- regulators govern professional authority;
-- inspectors address health, building, fire, labor, or environmental duties;
-- independent mediators facilitate voluntary agreement;
-- auditors, trustees, arbitrators, and courts handle defined financial or governance disputes;
-- survivor and leaver services support people without deciding whether an allegation is legally proven; and
-- inquiries preserve systemic evidence and recommend correction.
+The Zapatista case is the decisive counterexample (F-187). In 2003 autonomous municipalities retained justice, health, education, housing, land, work, food, commerce, information, culture, and local-transit functions. Regional Good Government Councils were assigned intermunicipal mediation, complaints against autonomous councils, investigation, correction orders, and compliance monitoring. This was an internal appellate and oversight layer: outside the implicated municipality, but inside Zapatista autonomy. Ethnographic work supports the enactment and local standing of at least some autonomous conflict-resolution forums, while leaving major case-level and rights questions open.
 
-Each route needs a trigger, accessible intake, evidence preservation, conflicts disclosure, least-restrictive and proportionate action, a stopping rule, appeal where applicable, and later outcome review. Community members retain ordinary legal powers to observe, document, de-escalate, protect immediate safety, and seek help. They do not inherit police, court, clinical, custody, restraint, seclusion, licensing, or regulatory powers.
+The 2023 GAL/CGAZ/ACGAZ reorganization further shows governance as iterative (F-188). Local assemblies and governments became the base; regional and zone structures were to convene according to need and remain accountable downward. The same primary statement acknowledges aggression, company invasion, crime, military occupation, epidemics, and disaster. Zapatista autonomy is therefore de facto and contested, not full sovereign control. One current field study reports long coexistence with Mexican authority and recent pressure from cartels, paramilitaries, and COVID; its decline interpretation is a bounded qualitative finding, not a final verdict on the new system.
+
+Cheran supplies a hybrid rather than a no-state case (F-190). Communal organization, security, and government arose after official failure and before judicial recognition. Nested assemblies and a Community Watch handled ordinary governance and security; minor matters went through communal justice, serious crimes were referred to a state prosecutor, a federal court protected Indigenous election rules, and some programs remained subsidy-dependent. State interface was selective and strategic, not the source of the communal order.
+
+The CRAC-PC comparison blocks the opposite overcorrection (F-191). Village custom alone was insufficient against cartel capture. Guerrero communities were more successful when decades of mobilization scaled local accountability into regional policing, justice, information sharing, and cross-village defense. “External protection” there meant external to one village but internal to a regional Indigenous order.
+
+S-17 follows: place each function at the lowest competent layer that is not reviewing itself and cannot disable the person's direct rights. That layer may be a neighboring community, autonomous municipality, regional Indigenous council, movement federation, professional body, public agency, court, state, or international forum. A person may bypass layers when local capture, urgency, rights, or lack of competence requires it.
+
+Courts, agencies, professional bodies, and autonomous forums remain narrow and fallible. Each answers the claim, evidence, jurisdiction, and remedy within its scope. A property judgment may not repair a relationship; a license revocation may not repair a family; a communal settlement may not establish a contested crime; a regional council may share the local authority's loyalties; and an official inquiry may recommend action without proving implementation (F-036, F-050, F-101, F-180 through F-182, F-187, F-190).
+
+UNDRIP Article 34 supplies the normative double boundary (F-192): Indigenous peoples may maintain their institutions and juridical systems, and those systems remain subject to international human-rights standards. Indigenous or communal jurisdiction is not invalid because it is non-state. It is also not inherently rights-protecting.
+
+The practical requirement is a named function, competent jurisdiction, accessible intake, evidence preservation, recusal, proportionality, stopping rule, appeal or bypass, and later outcome review. Community members and autonomous authorities can exercise the powers their legitimate order gives them. No one acquires unlimited police, court, clinical, custody, restraint, seclusion, licensing, or regulatory power merely by calling the institution communal.
 
 ## 10. Success is a vector, not a score — T-10, S-11
 
@@ -246,7 +255,7 @@ The adjacent unit clarifies functions but does not close the gap:
 - One MST trial found favorable official outcomes more than two decades later (F-176), while an FFT effectiveness trial found no statistically significant advantage over active care on its reported registry endpoints (F-177).
 - Treatment foster care outperformed group care on a 24-month delinquency construct in a small bundled trial (F-178), while an added residential iCBT module showed no significant post-release benefit over active care and had low completion (F-179).
 
-No study validates a lay personality or membership screen, transfers professional or statutory authority to an intentional community, or supplies the requested individual intentional-community sequence. The practical synthesis is an interface: a community needs observable-conduct documentation, immediate lawful protection, direct child and caregiver participation, trained independent assessment, a child-rights floor, a qualified plan, fidelity and adverse-effect review, family and school coordination, and post-transition outcomes. Which institution performs each step depends on law and competence; the child cannot be made dependent on the home community's permission to reach it.
+No study validates a lay personality or membership screen, transfers professional or statutory authority to an intentional community, or supplies the requested individual intentional-community sequence. The practical synthesis is an interface: a community needs observable-conduct documentation, immediate lawful protection, direct child and caregiver participation, trained independent assessment, a child-rights floor, a qualified plan, fidelity and adverse-effect review, family and school coordination, and post-transition outcomes. Which institution performs each step depends on rights, jurisdiction, competence, independence, and available autonomous or public capacity; the child cannot be made dependent on the home community's permission to reach it.
 
 ## Cross-theme tensions that must not be flattened
 
@@ -254,7 +263,7 @@ The findings do not support a frictionless blueprint. The final architecture mus
 
 | Tension | What one side protects | What the other side reveals |
 |---|---|---|
-| Local autonomy vs outside correction | culture, intimacy, self-government | some functions require independent, licensed, or statutory authority; outside systems can still be captured or wrong (F-102, F-123, F-145) |
+| Local autonomy vs independent correction | culture, intimacy, self-government | review must escape the implicated authority, but it may be autonomous, federated, Indigenous, professional, public, or state-based; every layer can be captured or wrong (F-102, F-123, F-145, F-187, F-190, F-191) |
 | Inclusion vs exclusion | refuge, diversity, second chances | open access without bounded authority can expose residents to persistent danger or unmanageable load (F-003, F-027, F-153, F-163) |
 | Decisive authority vs capture | coordination, speed, survival | centralized power can suppress evidence and make itself irremovable (F-060, F-073, F-085, F-097) |
 | Solidarity vs portable entitlement | pooled resources and long-term investment | nonvested benefits and community-level gates can make exit or care unusable for the person (F-054, F-183, F-184) |
@@ -271,38 +280,43 @@ These are design problems, not reasons to abandon community. A safeguard should 
 
 ## The combined architecture — S-15
 
-The strongest synthesis is function-specific subsidiarity with direct individual routes. Each function belongs at the lowest level that can perform it competently without reviewing its own conduct or disabling a person's rights. “Lowest level” does not mean “inside the home community” when the home community is the conflict.
+The corrected synthesis is function-specific subsidiarity with direct individual routes and jurisdictional pluralism. Each function belongs at the lowest level that can perform it competently without reviewing its own conduct or disabling a person's rights. “Lowest” is a relationship to the problem, not a presumption that the immediate community or the state is always preferred.
 
-| Function | Local community may do | Independent or federated layer may do | Professional, judicial, or public layer must retain | Direct individual route |
+The available ladder is `person -> immediate community -> autonomous intercommunity review -> regional federation -> public/state/international backstop`. A function may skip levels when urgency, rights, conflict, competence, or enforceability requires it.
+
+| Function | Immediate community may do | Next competent autonomous or federated layer may do | State, professional, public, or international backstop when needed | Direct individual route |
 |---|---|---|---|---|
-| Membership and roles | invite, stage access, define duties, evaluate observable role conduct | hear appeal, check conflicts, maintain intercommunity alternatives | enforce employment, discrimination, contract, or safeguarding law where applicable | obtain terms and records; refuse a role; appeal; leave |
-| Ordinary conflict | dialogue, Hearthwork or other voluntary peer support, cooling, reversible trial, ordinary house boundaries | neutral mediation, facilitated meeting, independent review of a separation decision | adjudicate legal claims or immediate danger within lawful scope | choose support; decline compelled disclosure; report outside |
-| Serious harm | protect immediate safety within ordinary law, document observable conduct, preserve evidence, call help | survivor support, independent intake, records custody, after-action review | investigate crime, assess clinical risk, order lawful restrictions, determine custody | contact emergency, clinical, legal, advocacy, or safeguarding systems directly |
-| Care and medicine | mutual aid, meals, transport, companionship, implement a voluntary qualified plan | pooled financing, patient advocacy, quality and access audit | diagnosis, treatment, medication, restraint, seclusion, licensing, public health | independent care, confidentiality, second opinion, appeal, emergency access |
-| Children and family | provide additional caring adults, schooling support, safe routines, age-appropriate participation | independent child advocate, family-contact support, records and outcome audit | child protection, custody, compulsory education and health duties, lawful restrictive care | child-accessible reporting and advocacy; protected family and outside contact |
-| Evidence and reporting | log events, preserve originals, distinguish allegation from finding, protect correction | confidential intake, duplicate archives, independent review, accessible communication | subpoena, investigate, adjudicate, regulate, or publish official findings within authority | obtain, correct, and export records; report without community permission |
-| Assets and exit | publish accounts, fund reserves, provide transition support, execute ordinary payments | neutral valuation, escrow, audit, pooled risk, leaver network, fork assistance | enforce fiduciary, trust, contract, property, insolvency, pension, and claims law | vested entitlement, advice, records, appeal, emergency withdrawal |
-| Succession and fission | elect or replace leaders, amend rules, plan voluntary division | parity audit, successor support, shared records, intercommunity mobility | resolve contested title, debt, fiduciary, family, or legal claims | refuse assignment, preserve household and family ties, choose affiliation |
-| Outcomes | collect local safety, wellbeing, participation, and capacity data | compare both successors and leavers, audit missing data and adverse effects | maintain official health, education, justice, licensing, or regulatory outcomes | see relevant results; contest the record; participate in evaluation |
+| Membership and roles | invite, stage access, define duties, evaluate observable role conduct | hear appeal, check conflicts, maintain intercommunity alternatives | enforce applicable employment, discrimination, contract, or safeguarding rights when lower remedies are unavailable or ineffective | obtain terms and records; refuse a role; appeal; change community or affiliation |
+| Ordinary conflict | dialogue, voluntary peer support, cooling, reversible trial, ordinary boundaries | neutral intercommunity mediation, autonomous review, appeal of a separation decision | adjudicate legal claims or immediate danger when autonomous jurisdiction lacks scope, consent, independence, or enforceability | choose support; decline compelled disclosure; use a bypass route |
+| Serious harm | protect immediate safety within legitimate scope, document observable conduct, preserve evidence | independent intake, survivor support, regional/autonomous investigation or justice where competent | investigate crime, assess specialized risk, order lawful restrictions, or determine custody where required | contact an autonomous, emergency, clinical, legal, advocacy, safeguarding, or rights forum directly |
+| Care and medicine | mutual aid, meals, transport, companionship, implement a voluntary qualified plan | pooled financing, patient advocacy, regional training, quality and access audit | qualified diagnosis, treatment, medication, public-health action, or licensing oversight where the autonomous order cannot supply or lawfully govern it | independent care, confidentiality, second opinion, appeal, emergency access |
+| Children and family | additional caring adults, schooling support, safe routines, age-appropriate participation | independent child advocate, family-contact support, autonomous safeguarding review where competent | custody, compulsory education, health, and protection backstop where rights, law, conflict, or capacity requires | child-accessible reporting and advocacy; protected family and outside contact |
+| Evidence and reporting | log events, preserve originals, distinguish allegation from finding, protect correction | confidential intake, duplicate archives, independent review, accessible communication, regional appeal | subpoena, investigate, adjudicate, regulate, or publish official findings within legitimate scope when lower layers cannot | obtain, correct, and export records; report without local permission |
+| Assets and exit | publish accounts, fund reserves, provide transition support, execute ordinary payments | neutral valuation, escrow, audit, pooled risk, leaver network, fork assistance | enforce fiduciary, trust, contract, property, insolvency, pension, and claims rights when needed | vested entitlement, advice, records, appeal, emergency withdrawal |
+| Succession and fission | elect or replace leaders, amend rules, plan voluntary division | parity audit, successor support, shared records, intercommunity mobility | resolve contested title, debt, fiduciary, family, or legal claims beyond autonomous competence | refuse assignment, preserve household and family ties, choose affiliation |
+| Territorial security and external threat | local vigilance, mutual aid, ordinary emergency action | translocal information, pooled capacity, coordinated defense within a legitimate order | strategic recognition, protection, rights forum, or public response when useful, requested, lawful, and trustworthy | report capture or abuse at any available competent layer |
+| Outcomes and diffusion | collect local safety, wellbeing, participation, capacity, and learning data | compare communities, successors, leavers, and adaptations; audit missing data and adverse effects | maintain relevant official outcomes or independent evaluation where available | see results, contest the record, participate in evaluation, carry learning elsewhere |
 
-The independent or federated layer is not a new sovereign. It can also be captured. Its authority should be task-specific, time-limited, audited, and bypassable through direct individual routes. Federations are most useful for functions a single community cannot neutrally or economically sustain: appeals, audits, pooled risk, records, training, intercommunity mobility, alumni support, and planned-fission assistance.
+The independent layer may belong to the community's own legal order. It can also be captured. Its authority should be task-specific, reviewable, and bypassable. Federations are most useful for functions a single community cannot neutrally or economically sustain: appeals, audits, pooled risk, records, specialist training, intercommunity mobility, territorial defense, alumni support, and planned-fission assistance (F-184, F-185, F-187, F-188, F-191).
+
+Zapatista outward pedagogy adds a movement criterion to S-15 (F-189). A successful community architecture can teach and adapt practices beyond its territorial core without franchising a fixed blueprint. Diffusion, durable adoption, and better human outcomes remain separate measures.
 
 ## Minimum control set implied by the findings
 
 These are supported components assembled by the synthesis, not a validated package:
 
 1. **A practical power map:** title, accounts, appointments, information, sanctions, emergency powers, family contact, evidence, appeal, and succession—not just an organization chart.
-2. **A direct rights floor:** necessities, safety, privacy, care, outside and family contact, education, records, refusal, reply, appeal, advocacy, and lawful external access.
+2. **A direct rights floor:** necessities, safety, privacy, care, outside and family contact, education, records, refusal, reply, appeal, advocacy, and access to a competent autonomous, federated, public, or state route without local permission.
 3. **Role-specific staged access:** privileges expand by relevant conduct and competence; person-level essence and danger labels do not substitute for evidence.
 4. **A fair-separation protocol:** conduct threshold, intake, immediate protection, recusal, evidence, reply, appeal, proportion, review, and neutral material settlement.
 5. **Care firewalls:** peer support remains separate from clinical authority, custody, discipline, romance, work, benefits, and membership records.
-6. **Independent truth channels:** accessible intake, confidentiality limits, anti-retaliation, preserved dissent, duplicate records, provenance, correction, and external escalation.
+6. **Independent truth channels:** accessible intake, confidentiality limits, anti-retaliation, preserved dissent, duplicate records, provenance, correction, and escalation outside the implicated authority at the necessary scale.
 7. **Pre-crisis exit infrastructure:** individual vesting, sufficient liquid reserves, records, advice, housing and care transition, family contact, escrow, and enforceable deadlines.
 8. **Asset and fiduciary controls:** title plus appointment, removal, succession, dual authorization, conflicts, data timeliness, audit, debt, and purpose review.
 9. **A capacity and dependency budget:** people, land, water, food, housing, health, children, labor, debt, revenue, suppliers, law, transport, education, and emergency alternatives.
 10. **A non-nettable outcome dashboard:** safety and rights alongside mission, ecology, relationships, material viability, institutional survival, later outcomes, and adverse effects.
 11. **Succession and fission rules:** real leader replacement, record custody, voluntary household choice, transparent asset and debt division, and both-successor review.
-12. **Named external interfaces:** purpose, jurisdiction, intake, evidence threshold, conflicts, proportionality, stopping rule, appeal, and after-action review for each outside function.
+12. **Named jurisdictional interfaces:** distinguish intercommunity, autonomous, federated, professional, public, state, and international layers; record purpose, trigger, jurisdiction, competence, conflicts, proportionality, stopping rule, bypass, appeal, and after-action review.
 
 ## What this means for Joel's article and thesis
 
@@ -318,8 +332,8 @@ Four article propositions require the clearest evidentiary boundary:
 
 - **“The community is the therapist.”** Community can be a healing environment and peer-support network; it cannot safely fuse care with discipline, custody, intimate authority, evidence, medicine, or membership. This is a challenge, not a minor addition (G-002; S-05).
 - **Long work is hard for con artists to fake.** The corpus validates no commitment, productivity, spiritual, therapeutic, or duration screen for dangerousness. Use staged, role-specific access and conduct evidence instead (G-018; S-04).
-- **The community can handle the hardest dangerous-child case internally.** The intentional-community evidence is a bounded null. The adjacent evidence supports an interface with trained and lawful systems, not a transfer of their powers (G-009 and G-018; S-06 and S-14).
-- **Legal and medical systems are selected couplings.** Communities can choose providers and institutional forms, but crime, custody, child protection, emergency care, public health, professional licensing, and other duties are not wholly optional (G-013; S-10).
+- **The community can handle the hardest dangerous-child case internally.** The intentional-community evidence is a bounded null. The adjacent evidence supports an interface with trained, competent, independent, and rights-constrained systems. Those may be autonomous or public where genuinely capable; the evidence validates neither lay local monopoly nor automatic state monopoly (G-009 and G-018; S-06, S-14, S-16, and S-17).
+- **Legal and medical systems are selected couplings.** The need for competence, rights, and non-self-review is not optional, but the institutional location is contingent. Zapatista and other Indigenous cases show autonomous justice, health, education, and regional correction; Cheran shows selective state recognition and referral; CRAC-PC shows protective translocal federation. The article should map which layer can legitimately perform each function under actual territorial and legal conditions (G-013 and G-019; S-10, S-16, and S-17).
 
 The article-gap bank should therefore remain the change specification, while this report becomes the conceptual source of truth for why those changes relate.
 
@@ -337,12 +351,13 @@ The completed corpus and finite adjacent roadmap leave real uncertainties:
 8. The historical-wave finding does not establish a present-day 2024-2026 surge in communal formation or interest (F-032).
 9. Evidence-channel performance remains difficult to observe because unreported, destroyed, inaccessible, or institutionally filtered records have no denominator.
 10. It remains unknown which minimum set of safeguards produces the most protection with the least bureaucracy, cost, false-positive exclusion, or loss of local autonomy.
+11. The 2023 Zapatista reorganization has no independent later-outcome evaluation in this unit, and no common outcome panel compares autonomous, hybrid, and state-centered jurisdictional arrangements.
 
 These are not reasons to erase the conclusions that do converge. They are the boundary around them. The assigned research program is complete; any further research should begin with a new, finite question rather than reopening the finished corpus indiscriminately.
 
 ## Final conclusions
 
-Everything learned can be compressed into twelve decisive conclusions:
+Everything learned can be compressed into thirteen decisive conclusions:
 
 1. The recurring danger is not simply a bad leader. It is control that crosses functions and captures its own evidence and correction.
 2. Formal democracy, equality, consensus, or consultation is inadequate unless practical veto, appointment, information, and appeal power can be used against the authority being challenged.
@@ -352,14 +367,16 @@ Everything learned can be compressed into twelve decisive conclusions:
 6. Children need direct rights and advocates because adult voluntariness and exit do not protect them.
 7. Exit is not a sentence in an agreement. It is permission plus liquidity, records, housing and care continuity, family contact, advice, neutral review, and later usability.
 8. Property title, accounts, appointments, records, debt, reserves, and succession are the practical constitution.
-9. Independent reporting and external correction are indispensable for some functions, but each outside system needs its own conflict, evidence, proportionality, and outcome controls.
-10. Survival, cohesion, legal closure, conviction, leader removal, process completion, and in-program gains are not substitutes for disaggregated human outcomes.
-11. A community can preserve purpose through transformation, migration, alumni networks, parallel institutions, succession, or voluntary fission; preserving the original entity is not always the goal.
-12. The most defensible combined design is function-specific subsidiarity with direct individual rights and routes. It is the synthesis of supported components, not a proven finished model.
+9. Independent correction is indispensable for some functions, but independence means separation from the implicated authority; it does not universally mean an institution outside the movement or operated by the state.
+10. The competent layer depends on territorial control, scale, skill, rights, spillover, enforceability, and threat. Translocal federation can provide review and protection that an isolated community cannot.
+11. Survival, cohesion, legal closure, conviction, leader removal, process completion, in-program gains, and worldwide resonance are not substitutes for disaggregated human outcomes.
+12. A community can preserve purpose through transformation, migration, teaching, alumni networks, parallel institutions, succession, or voluntary fission; preserving the original entity is not always the goal.
+13. The most defensible combined design is function-specific subsidiarity with legal pluralism, direct individual rights, and bypass routes. It is a synthesis of supported components, not a proven finished model.
 
 ## Artifact guide
 
 - Read this report for the complete cross-corpus conclusions.
+- Read [COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md](COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md) for the state-monopoly correction, Zapatista synthesis, Indigenous comparators, and transfer boundaries.
 - Use [COMMUNITIES-SYNTHESIS-CROSSWALK.csv](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) to trace every finding to its primary theme, synthesis claims, evidence role, confidence, verification status, and article gaps.
 - Use [COMMUNITIES-EVIDENCE-LEDGER.csv](COMMUNITIES-EVIDENCE-LEDGER.csv) for the exact source observation, what it establishes, what it does not establish, alternative interpretation, process, outcome, and transferability.
 - Use [COMMUNITIES-ARTICLE-GAP-BANK.md](COMMUNITIES-ARTICLE-GAP-BANK.md) for a future article edit.
