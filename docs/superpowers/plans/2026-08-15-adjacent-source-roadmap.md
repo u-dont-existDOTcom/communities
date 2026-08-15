@@ -95,6 +95,14 @@ Initial candidates:
 
 This unit concerns children as alleged victims and institutional correction, not dangerous child actors. Its purpose is to test independence, evidence preservation, recusal, professional discipline, family contact, and later safeguarding outcomes.
 
+Selected official records:
+
+- New York State Office of the Professions and Board of Regents, June and July 1997 psychology enforcement-action summaries for Helen M. Fogarty (a/k/a Helen Moses) and Marc Rice.
+- New Zealand Royal Commission, *Whanaketia* final Gloriavale findings, government-response context, and Recommendation 88 (2024).
+- UK Independent Inquiry into Child Sexual Abuse, *Child protection in religious organisations and settings* investigation report, Jesus Fellowship evidence, conclusions, and recommendations (2021).
+
+Status: completed in `COMMUNITIES-ADJACENT-OFFICIAL-CORRECTION-REPORT.md`. Licensing, inquiry, police/court, survivor-support, and later-outcome functions remain separate; the exact next boundary is Unit E.
+
 ### Unit E — fair separation, pooled risk, and planned fission
 
 Boundary: four underlying instruments or primary records:
