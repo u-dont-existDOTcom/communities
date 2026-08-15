@@ -14,8 +14,8 @@ This repository is P0 research unless the owner explicitly authorizes article ed
 
 For an active checkpoint branch:
 
-- Regression suite: `python recovered/test_standalone_workflow.py` (or the current volume-specific successor)
-- Full source verification: `python recovered/verify_standalone.py` with the exact local corpus restored
+- Regression suite: `python recovered/test_adjacent_child_pilot_workflow.py` (or the current bounded-unit successor)
+- Full source verification: `python recovered/verify_adjacent_child_pilot.py`; run source-dependent predecessor checks only when their exact local corpora are restored
 - Syntax: `python -m compileall recovered`
 - Patch hygiene: `git diff --check`
 

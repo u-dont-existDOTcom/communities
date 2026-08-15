@@ -8,13 +8,16 @@ When an accepted checkpoint exists on `main`, read in this order:
 
 1. `../README.md`
 2. `../recovered/COMMUNITIES-RESEARCH-STATE.md`
-3. the latest bounded report, currently `../recovered/COMMUNITIES-STANDALONE-RESEARCH-REPORT.md`
+3. the latest bounded report, currently `../recovered/COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md`
 4. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
 5. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
 6. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
 7. current discovery, update, test, and verification scripts
 
 Before the first research checkpoint is merged, those files may exist only on the active volume PR branch. Do not reconstruct them from chat summaries.
+
+
+The post-corpus queue is finite and recorded in `superpowers/plans/2026-08-15-adjacent-source-roadmap.md`. Adjacent web and publication records are kept in `../recovered/COMMUNITIES-ADJACENT-SOURCE-INVENTORY.csv`; they do not change the 984-journal-PDF or eight-standalone primary-corpus counts.
 
 ## Evidence classes
 
