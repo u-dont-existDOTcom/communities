@@ -995,9 +995,21 @@ def update_handoffs() -> None:
         text = text.replace(anchor, anchor + layout, 1)
     text = replace_once_or_confirm(
         text,
+        "- `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv` — one-row-per-finding map from all 186 findings to synthesis themes, claims, evidence roles, and article gaps",
+        "- `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv` — one-row-per-finding map from all 192 findings to synthesis themes, claims, evidence roles, and article gaps",
+        "README crosswalk count",
+    )
+    text = replace_once_or_confirm(
+        text,
         "python recovered/test_final_synthesis_workflow.py\npython recovered/verify_final_synthesis.py",
         "python recovered/test_autonomy_legal_pluralism_workflow.py\npython recovered/verify_autonomy_legal_pluralism.py",
         "README commands",
+    )
+    text = replace_once_or_confirm(
+        text,
+        "The current verifier retains all Unit E checks, locks the evidence ledger and article-gap bank against synthesis-time mutation, requires one crosswalk row for every finding, verifies the twelve-theme and fifteen-claim architecture, confirms the three gap-unreferenced findings are nevertheless synthesized, and checks the final report's epistemic and transfer boundaries.",
+        "The current verifier requires 192 sequential ledger and crosswalk rows, validates the nine-source and six-finding legal-pluralism unit, verifies the thirteen-theme and seventeen-claim report architecture, confirms the three gap-unreferenced findings are nevertheless synthesized, and checks the final report's epistemic and transfer boundaries.",
+        "README corrected verifier",
     )
     README.write_text(text, encoding="utf-8")
 

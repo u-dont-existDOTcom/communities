@@ -20,7 +20,7 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 - `recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md` — corpus-directed conclusions, tensions, boundaries, and remaining unknowns
 - `recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md` — Zapatista, Cheran, CRAC-PC, and UNDRIP correction to the prior state-centric interface rule
 - `recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-EVIDENCE-LEDGER.csv` — six bounded correction findings, F-187 through F-192
-- `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv` — one-row-per-finding map from all 186 findings to synthesis themes, claims, evidence roles, and article gaps
+- `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv` — one-row-per-finding map from all 192 findings to synthesis themes, claims, evidence roles, and article gaps
 - `recovered/COMMUNITIES-SOURCE-INVENTORY.csv` — journal metadata, member hashes, extraction state, and dispositions; private Drive object IDs are redacted
 - `recovered/COMMUNITIES-ARTICLE-GAP-BANK.md` — reconciled implications for the article without changing its prose
 - `recovered/COMMUNITIES-V*-RESEARCH-REPORT.md` — bounded checkpoint reports
@@ -37,7 +37,7 @@ python recovered/test_autonomy_legal_pluralism_workflow.py
 python recovered/verify_autonomy_legal_pluralism.py
 ```
 
-The current verifier retains all Unit E checks, locks the evidence ledger and article-gap bank against synthesis-time mutation, requires one crosswalk row for every finding, verifies the twelve-theme and fifteen-claim architecture, confirms the three gap-unreferenced findings are nevertheless synthesized, and checks the final report's epistemic and transfer boundaries. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The current verifier requires 192 sequential ledger and crosswalk rows, validates the nine-source and six-finding legal-pluralism unit, verifies the thirteen-theme and seventeen-claim report architecture, confirms the three gap-unreferenced findings are nevertheless synthesized, and checks the final report's epistemic and transfer boundaries. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
@@ -47,4 +47,3 @@ The current verifier retains all Unit E checks, locks the evidence ledger and ar
 - Keep the dangerous-child branch bounded: a null within processed sources is not a claim of historical absence.
 - Do not diagnose historical actors from conduct descriptions.
 - Do not convert historical punishment, banishment, institutionalization, or state custody directly into modern recommendations.
-

@@ -67,6 +67,9 @@ def main() -> None:
 
     crosswalk = rows(ROOT / "COMMUNITIES-SYNTHESIS-CROSSWALK.csv")
     assert [row["finding_id"] for row in crosswalk] == expected
+    assert {row["primary_theme_id"] for row in crosswalk} == {
+        f"T-{number:02d}" for number in range(1, 14)
+    }
     assert Counter(row["primary_theme_id"] for row in crosswalk)["T-13"] == 6
     assert all(row["primary_theme_id"] == "T-13" for row in crosswalk[-6:])
     claims = {
@@ -86,6 +89,9 @@ def main() -> None:
     gap = (ROOT / "COMMUNITIES-ARTICLE-GAP-BANK.md").read_text(encoding="utf-8")
     gap_rows = re.findall(r"^\| G-\d{3} \| ([BCD]) \|", gap, flags=re.MULTILINE)
     assert Counter(gap_rows) == Counter({"B": 8, "C": 7, "D": 4})
+    assert set(expected) - set(re.findall(r"F-\d{3}", gap)) == {
+        "F-027", "F-030", "F-032"
+    }
     assert gap.count("| G-019 |") == 1
     assert all(finding_id in next(line for line in gap.splitlines() if line.startswith("| G-019 |")) for finding_id in unit_ids)
     assert "state-monopoly inference" in next(line for line in gap.splitlines() if line.startswith("| G-013 |"))
@@ -103,6 +109,8 @@ def main() -> None:
         "everything learned can be compressed into thirteen decisive conclusions",
     ]:
         assert required in report_lower, required
+    for synthesis_claim in [f"s-{number:02d}" for number in range(1, 18)]:
+        assert synthesis_claim in report_lower, synthesis_claim
     for prohibited in [
         "professional, judicial, or public layer must retain",
         "community members retain ordinary legal powers",
@@ -144,6 +152,11 @@ def main() -> None:
     ).read_text(encoding="utf-8")
     assert "**192 findings** (`F-001` through `F-192`)" in state
     assert "all 192 findings mapped across 13 themes" in readme
+    assert "one-row-per-finding map from all 192 findings" in readme
+    assert "thirteen-theme and seventeen-claim report architecture" in readme
+    assert "all 186 findings" not in readme
+    assert "twelve-theme and fifteen-claim" not in readme
+    assert "locks the evidence ledger and article-gap bank" not in readme
     assert "COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md" in index
     assert "test_autonomy_legal_pluralism_workflow.py" in agents
     assert "## What is falsified, qualified, and retained" in plan
