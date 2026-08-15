@@ -7,11 +7,11 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 - Volumes **1-45** complete
 - **984** journal PDFs triaged
 - **443** relevant or contextual close reads
-- **171** evidence findings (`F-001` through `F-171`)
+- **175** evidence findings (`F-001` through `F-175`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
 - Primary assigned corpus: **complete, 984 journal PDFs plus 8 standalone sources**
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md`](recovered/COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md); the finite continuation queue is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-ASSESSMENT-REVIEW-REPORT.md`](recovered/COMMUNITIES-ADJACENT-ASSESSMENT-REVIEW-REPORT.md); the finite continuation queue is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
 
 ## Repository layout
 
@@ -28,11 +28,11 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 With the exact local source corpora restored beneath `recovered/corpus-v45/` and `recovered/corpus-standalone/`, run:
 
 ```bash
-python recovered/test_adjacent_child_pilot_workflow.py
-python recovered/verify_adjacent_child_pilot.py
+python recovered/test_adjacent_assessment_review_workflow.py
+python recovered/verify_adjacent_assessment_review.py
 ```
 
-The verifier checks all eight standalone source sizes and hashes, seven PDF page counts, EPUB integrity, nonempty extracted text, inventory dispositions, sequential finding IDs, gap references, discovery coverage, report coverage, cumulative counts, preservation of all non-standalone inventory rows, and completion of the 984-journal-plus-8-standalone boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The current verifier checks sequential findings through F-175, the nine-record cumulative adjacent inventory, the four Unit B source dispositions, unchanged gap classes, boundary-map and report coverage, the Unit C handoff, and exclusion of source binaries outside known local-only corpus roots. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
