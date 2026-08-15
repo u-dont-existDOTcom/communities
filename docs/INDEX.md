@@ -8,7 +8,7 @@ When an accepted checkpoint exists on `main`, read in this order:
 
 1. `../README.md`
 2. `../recovered/COMMUNITIES-RESEARCH-STATE.md`
-3. the latest bounded report, currently `../recovered/COMMUNITIES-ADJACENT-ASSESSMENT-REVIEW-REPORT.md`
+3. the latest bounded report, currently `../recovered/COMMUNITIES-ADJACENT-DURABLE-TRANSITION-REPORT.md`
 4. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
 5. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
 6. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
