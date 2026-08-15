@@ -82,9 +82,7 @@ Use only cases appropriate for duplicate review; sensitive personal/safety cases
 
 Continuity engineering already treats an unexercised backup plan as unproven. Intentional communities may nevertheless underuse this practice. Under bounded conditions, simulate or safely induce loss of a key person, account, permission, facilitator, communication channel, supplier, vehicle, or record store and observe what actually fails.
 
-Examples: founder unavailable for one governance cycle; treasurer unavailable; ordinary facilitator absent; internet/phone unavailable; key supplier/vehicle unavailable. For health, children, housing, medication, legal rights, or other high-stakes necessities, use tabletop/sandbox simulation rather than live failure injection.
-
-**Why retained here:** the idea failed the Creative Tail originality test because continuity exercises already own the mechanism, but it still plausibly improves communal practice.
+For health, children, housing, medication, legal rights, or other high-stakes necessities, use tabletop/sandbox simulation rather than live failure injection.
 
 ---
 
@@ -101,7 +99,7 @@ The corpus does not validate charisma, productivity, therapeutic fluency, long r
 
 Applicant value can be non-separable: A may be weak alone but excellent with B; A and B may each look good but compose badly. When several openings **and several plausible applicants genuinely overlap**, compare candidate sets and interaction effects rather than finalizing everyone sequentially.
 
-**Scope correction:** probably most useful at founding, daughter formation, new sites, expansion waves, or several simultaneous vacancies. Mature communes with sparse applicants should not delay admission merely to manufacture a batch. Compare expected composition benefit with vacancy, delay, and applicant-attrition costs. Forming cohousing groups already sometimes think in this direction through affinity-group matchmaking.
+**Scope correction:** probably most useful at founding, daughter formation, new sites, expansion waves, or several simultaneous vacancies. Mature communes with sparse applicants should not delay admission merely to manufacture a batch. Compare expected composition benefit with vacancy, delay, and applicant-attrition costs.
 
 ## L014 — Functional community is not the same variable as sociability
 **Status:** PRACTICAL / KNOWN
@@ -128,6 +126,26 @@ Thick multi-role ties can be resilient, but concentrating housing, money, sex, c
 
 When most relationships specialize, romantic partners can become the remaining lover + family + best friend + household/economic unit + emergency contact + coparent + confidant + leisure/future-planning partner. Deliberately distribute friendship, care, childcare, practical support, recreation, and emergency dependence beyond couples.
 
+## L041 — Pool applicant markets across a federation when individual communities are too thin
+**Status:** TAIL-PROVISIONAL + PRACTICAL  
+**Creative Tail:** C013
+
+Matching markets are well studied and Israel's Mechinot residential-program network is a strong adjacent precedent. What appears underused in intentional-community networks is a true **two-sided coordinated clearing process** across multiple autonomous communities rather than only directories, classifieds, profiles, and local waitlists.
+
+**Operational lesson:** a federation can make the movement-wide applicant market thicker without forcing one commune to wait for a large batch.
+
+A non-coercive architecture:
+
+1. communities publish openings, hard constraints, trial windows, and relevant characteristics;
+2. seekers/households publish hard constraints, needs, mobility limits, and preferences;
+3. the network proposes several plausible mutual exploration matches rather than one assignment;
+4. visits/trials allow preference discovery;
+5. both sides later mark or rank acceptable matches;
+6. a coordinated round recommends commitments while preserving opt-out and local admission authority;
+7. C009 cohort-composition analysis is used only where a community actually has several openings/candidates.
+
+Do not force everyone to rank communities before they have enough information. Avoid algorithmic “fit scores” that obscure legal/ethical discrimination issues or acquire undeserved authority.
+
 ---
 
 # C. Care, children, safety, and direct rights
@@ -146,6 +164,18 @@ Guarantee age-appropriate food, sleep, healthcare, education, privacy, bodily sa
 **Status:** EVIDENCE-SUPPORTED
 
 Separate observable conduct, evidence, situational risk, role-specific restrictions, and qualified assessment from claims about a person’s stable moral essence.
+
+## L042 — Estimate reporting-system blind spots across communities, not “hidden guilty people”
+**Status:** TAIL-PROVISIONAL + RESEARCH-CONTROL  
+**Creative Tail:** C014
+
+Capture–recapture / Multiple Systems Estimation is established statistics, public-health, trafficking, and human-rights methodology. Its possible communal value is **federation-scale surveillance auditing**, not individual adjudication.
+
+If one narrowly defined harmful outcome appears in several distinct channels—internal complaints, independent/federation reports, confidential exit interviews, lawful safeguarding/care records, anonymous follow-up, relevant external records—the pattern of overlap can help assess how incomplete known-case counts may be.
+
+**Hard limits:** source referrals/dependence, heterogeneous reporting probabilities, small samples, inconsistent case definitions, record-linkage uncertainty, model sensitivity, privacy, and deductive disclosure can make estimates misleading. A small commune usually cannot support this analysis credibly.
+
+Use only to improve reporting/surveillance systems and generate hypotheses. Never infer that a modeled unseen case belongs to a particular person, and never use a population estimate as evidence for sanction.
 
 ---
 
@@ -176,6 +206,11 @@ Maintain a capacity/dependency budget: water/soil; food; housing; health/childca
 
 Different services may all depend on cash, identity papers, transport, electricity, phone/platform access, legal status, or one outside institution. Do not count providers as independent redundancy until underlying access dependencies are mapped.
 
+## L043 — Use dual control and threshold recovery for critical digital/financial access
+**Status:** PRACTICAL / KNOWN
+
+Do not let one person's password, device, signing key, bank authorization, domain account, or recovery email become an institutional single point of failure. Use established dual-control/threshold-recovery practices so no one person can silently monopolize critical access, while a defined subset can recover it when necessary. Preserve audit trails and distinguish emergency recovery from ordinary authority.
+
 ---
 
 # E. Reproduction, diffusion, succession, and movement design
@@ -186,9 +221,9 @@ Different services may all depend on cash, identity papers, transport, electrici
 
 A movement can have many daughters because most mature parents reproduce or because a few superstar parents generate almost everything. Track `P(K=0)`, mean/median/variance K, variance/mean, top-decile daughter share, generation interval, granddaughter reproduction, and parent/federation subsidy.
 
-The Manitoba Schmiedeleut reconstruction was broad-based; Batch 17 replicated the same qualitative pattern in standardized mature Lehrerleut and Dariusleut cohorts. In the Dariusleut 1918–1953 cohort, every listed mature parent had at least one daughter by the 1973 cutoff; Lehrerleut `P(K=0)` was ~3.45%. Historical-source caveats apply.
+The Manitoba Schmiedeleut reconstruction was broad-based; standardized mature Lehrerleut and Dariusleut cohorts showed the same qualitative pattern. In the Dariusleut 1918–1953 cohort, every listed mature parent had at least one daughter by the 1973 cutoff; Lehrerleut `P(K=0)` was ~3.45%. Historical-source caveats apply.
 
-Batch 18 found only aggregate non-Hutterite comparators, not a parent-resolved dataset. U.S. church-planting research reports much lower fractions producing daughters over shorter windows, which is suggestive but **not quantitatively comparable** to the >=20-year Hutterite cohorts.
+Aggregate church-planting evidence suggests organizational reproduction is far less routine in other reproduction-oriented movements, but is not quantitatively comparable to the >=20-year Hutterite cohorts.
 
 **Operational shorthand: make reproduction boring.** Daughter formation should become an ordinary lifecycle event for the median competent community, not an exceptional accomplishment by a few charismatic founders.
 
@@ -235,6 +270,11 @@ Plan leader replacement, amendment, alumni/relationship continuity, record custo
 
 If only canonical daughter forms inherit land, tools, treasury, reputation, or credit, alternatives may die before selection can test them. Movements claiming to encourage experimentation should audit whether genuinely different branches can obtain enough portable capital to become viable competitors.
 
+## L046 — Use temporary experienced-member secondments to transfer tacit competence
+**Status:** PRACTICAL / KNOWN
+
+Staff rotation, secondment, and boundary-spanner research already owns this mechanism. It may nevertheless be useful for community movements: temporarily move experienced members into daughters or struggling sister communities to transfer routines that manuals cannot carry, then return/rotate rather than permanently draining the parent. Track whether the recipient becomes independently capable rather than dependent on itinerant experts.
+
 ---
 
 # F. Evaluation and institutional learning
@@ -261,28 +301,28 @@ When consequence latency is longer than reform cadence, groups can thrash betwee
 
 ## L040 — Test constitutional invariants even when nobody knows the “right answer”
 **Status:** TAIL-PROVISIONAL  
-**Creative Tail:** C012
+**Creative Tail:** C012, narrowed Batch 19
 
-A difficult case may have no agreed ground-truth answer, but the community may still claim certain **relations** must hold. Test those relations with minimally altered paired cases.
+Paired identity-swap testing is already a standard discrimination/audit method and is **not** claimed as novel. The potentially distinctive communal practice is a standing suite of several predeclared constitutional relations—irrelevance, symmetry, monotonicity, jurisdiction invariance, etc.—tested against minimally changed cases and preserved across governance versions.
 
-Examples:
+This does not prove which answer is morally correct. It detects hidden decision rules, inconsistent application, or ambiguity in what the community actually regards as relevant. Do not treat real structural differences as irrelevant merely to force superficial symmetry.
 
-- if founder/newcomer status is irrelevant to a property right, swap only that status and test whether treatment changes;
-- if faction identity is irrelevant, swap it while holding the material facts fixed;
-- if two parties are normatively equivalent, swapping them should swap treatment symmetrically;
-- if stronger admissible evidence of the same relevant kind is added, a response that should be monotonic should not inexplicably weaken;
-- if jurisdiction is subject-matter based, changing who proposes an action should not change the competent body.
+## L044 — Separate evidence-content assessment from source/status effects when feasible
+**Status:** PRACTICAL / KNOWN
 
-**Protocol:** state the expected relation before seeing results; build paired past/hypothetical cases; randomize/blind where feasible; process independently; compare decisions **and reasons**; diagnose failed invariants; preserve informative pairs as regression tests.
+For selected decisions, first assess the substance of a claim or proposal without unnecessary author/status cues, then reveal provenance, conflicts, expertise, and credibility information in a second phase. Blind review and structured analysis already use this idea. Do not hide provenance when it is itself materially relevant to reliability or rights.
 
-This does **not** prove which answer is morally correct. It detects hidden decision rules, inconsistent application, or an ambiguity in what the community actually regards as relevant. Do not treat real structural differences as irrelevant merely to force superficial symmetry.
+## L045 — Use sister communities as comparators when testing institutional changes
+**Status:** RESEARCH-CONTROL / KNOWN
+
+When one community changes a rule, compare later outcomes with similar communities that did not make the same change, while documenting pre-existing differences. This does not create a randomized trial, but it is generally stronger than interpreting one community's before/after story in isolation. Where enough communities exist, use explicit comparative or quasi-experimental designs rather than anecdotal benchmarking.
 
 ---
 
 # Near-term experiments
 
 ### E1 — Founding/expansion cohort test
-When several viable applicants/households and several openings coexist, compare sequential admission with explicit candidate-set analysis. Record whether interaction-aware analysis actually changes decisions and whether predicted interactions materialize.
+When several viable applicants/households and several openings coexist, compare sequential admission with explicit candidate-set analysis. Record whether interaction-aware analysis changes decisions and whether predicted interactions materialize.
 
 ### E2 — Constitutional edge-case bank
 Build 20–50 concrete high-stakes value/governance cases; collect independent judgments; identify high-disagreement cases; resolve operationally important differences; preserve as regression tests.
@@ -300,13 +340,22 @@ Give daughters the current handbook **plus** failed policies, decision history, 
 Publish distinct success dimensions and later leaver/child/successor outcomes where feasible.
 
 ### E7 — Governance dependency drill
-Choose one bounded dependency per quarter/year, predict the fallback, simulate its loss, record unexpected failures, repair, and rerun. Use tabletop rather than live injection when rights/safety/necessities could be harmed. **This is retained as known continuity practice, not a Creative Tail novelty claim.**
+Choose one bounded dependency per quarter/year, predict the fallback, simulate its loss, record unexpected failures, repair, and rerun. Use tabletop rather than live injection when rights/safety/necessities could be harmed. **Known continuity practice, not a Creative Tail novelty claim.**
 
 ### E8 — Shadow governance comparison
 Before a major governance switch, run the proposed process nonbinding on an appropriate subset of the same decisions, examine divergence cases, then decide whether a live pilot is justified.
 
-### E9 — Constitutional metamorphic test
-Choose 5–10 archived or hypothetical cases and define one claimed invariance/symmetry/monotonicity for each. Create minimally transformed paired versions, randomize order/identity where possible, process them independently, and audit any decision/reasoning changes that violate the predeclared relation.
+### E9 — Constitutional relation test
+Choose 5–10 archived or hypothetical cases and define one claimed invariance/symmetry/monotonicity for each. Create minimally transformed paired versions, randomize order/identity where possible, process independently, and audit changes that violate the predeclared relation.
+
+### E10 — Federated applicant matching pilot
+Recruit several autonomous communities with real vacancies and willing seekers. Run one or two synchronized exploration windows. Measure viable mutual matches identified, unmatched compatible pairs, time-to-commitment, applicant/community satisfaction, six-/twelve-month retention, and whether any C009 cohort interaction changed a decision. Compare with ordinary directory/search intake where possible.
+
+### E11 — Federation reporting-completeness audit
+Choose one narrow, ethically appropriate outcome definition. Across multiple communities/years, map overlap among two or more reporting/outcome channels. Before fitting any hidden-population model, test case-definition consistency, referrals/source dependence, sample size, privacy, and linkage feasibility. If assumptions are weak, stop at descriptive overlap rather than forcing a population estimate.
+
+### E12 — Cross-community policy comparison
+When several sister communities are willing, stagger or naturally compare a specific governance/operational change and predeclare a small set of outcomes and feedback horizons. Preserve differences and failures, not only favorable examples.
 
 ---
 
