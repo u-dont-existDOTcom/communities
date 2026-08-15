@@ -84,6 +84,113 @@ Continuity engineering already treats an unexercised backup plan as unproven. In
 
 For health, children, housing, medication, legal rights, or other high-stakes necessities, use tabletop/sandbox simulation rather than live failure injection.
 
+## L054 — Treat important rights as reachable procedures, not clauses
+**Status:** TAIL-PROVISIONAL  
+**Creative Tail:** C015
+
+A constitution can promise an appeal, records access, exit settlement, safeguarding bypass, succession route, or independent review while its own procedural dependencies make the promise unusable in a reachable state.
+
+**Operational lesson:** for high-value rights, explicitly test:
+
+- **safety:** forbidden actors/actions never gain authority;
+- **liveness:** every valid invocation still has a path to the promised review/remedy;
+- **bounded liveness:** the path can complete within a practical deadline.
+
+Stress combinations of recusal, vacancy, quorum, conflict, jurisdiction, deadlines, delegation and escalation. Example: an appeal panel exists, but two recusals + one vacancy destroy quorum, and only the conflicted local body may fill the seat. The right exists in text but is procedurally dead.
+
+Do not assume a conflicted or captured actor will “eventually cooperate” unless the architecture makes their cooperation unnecessary. Formal modeling can help, but the useful principle does not require sophisticated software: even bounded state-table/exhaustive scenario review is better than clause-only review.
+
+## L055 — Measure authority-revocation latency after role changes
+**Status:** PRACTICAL / KNOWN
+
+Security/access-control practice already recognizes privilege creep and stale access. Communities should apply the same discipline across digital, financial, physical and governance authority.
+
+When a treasurer, founder, officer, committee member, records custodian or emergency delegate leaves or changes role, measure how long it takes to remove all authority derived from that role: bank signatures, passwords, cloud/admin access, keys, document permissions, external legal authority, private records, delegated permissions and standing committee powers.
+
+The target is not “trust nobody.” It is to stop old authority silently outliving the role that justified it.
+
+## L056 — Revoke derivative authority when the grant that created it disappears
+**Status:** PRACTICAL / KNOWN
+
+Delegation/revocation systems already model cascading authority. Communal governance should record **where delegated power came from** so it is possible to distinguish:
+
+- an independent grant that survives a role change;
+- authority that exists only because a current officeholder delegated it;
+- subdelegations downstream from that grant.
+
+If the parent grant expires or is revoked, downstream authority should not survive accidentally unless the constitution explicitly says it does.
+
+## L057 — Define the deadlock default before the deadlock
+**Status:** PRACTICAL / KNOWN
+
+For consequential processes, predefine what happens when the ordinary procedure cannot complete. Depending on the right/power, the correct default may be:
+
+- preserve status quo;
+- suspend coercive action;
+- permit a narrowly bounded emergency action;
+- route to an alternate/federation forum;
+- trigger a temporary replacement appointment;
+- automatically escalate after a deadline.
+
+Do not let the body that benefits from delay discover during the conflict that “nothing happens” is effectively the default.
+
+## L058 — Complex transitions need compensating actions, and some steps are not compensable
+**Status:** PRACTICAL / KNOWN
+
+Distributed systems call this a Saga/compensating-transaction problem; contracts use adjacent structures such as escrow and conditions precedent. The communal application matters whenever a change spans several steps that cannot be atomically completed or rolled back: admission + housing + work + records + accounts; fission + land + debt + custody of records; leader removal + replacement + bank authority; etc.
+
+Before starting, specify what happens if failure occurs after each step. More importantly, mark **uncompensable steps**—private information disclosed, a household moved, a relationship destroyed, an external opportunity lost. Those deserve stronger preconditions because “rollback” is fiction.
+
+## L059 — Temporary emergency authority should expire automatically
+**Status:** PRACTICAL / KNOWN
+
+Emergency roles and exceptions should carry explicit scope and sunset rules rather than persist until someone remembers to revoke them. Self-extension by the emergency authority should require an independent authorization route where feasible.
+
+## L060 — Conformance-check governance in use against governance on paper when records make this feasible
+**Status:** PRACTICAL / KNOWN
+
+Process-mining/compliance systems already compare event logs to reference processes. A community with adequate records can periodically ask whether actual high-stakes decisions followed the declared sequence: notice, recusal, evidence access, quorum, reply, appeal, deadlines, authority and closure.
+
+Do not create a surveillance bureaucracy merely to support this. Use it where the process is already important enough to justify durable procedural records.
+
+## L061 — Make random federation audits unpredictable before selection and verifiable afterward
+**Status:** TAIL-PROVISIONAL  
+**Creative Tail:** C016
+
+Random audits are old. The potentially useful communal architecture is stronger:
+
+1. make audit scope, member rights and permitted uses public;
+2. **freeze/commit the complete eligible universe before the random seed is knowable**;
+3. precommit the deterministic sampling algorithm, sample size and exclusions/strata;
+4. use future randomness that federation leaders/auditees cannot choose;
+5. derive the sample deterministically;
+6. preserve enough information to replay and verify the selection afterward.
+
+This separates transparency from predictability: the rules are public, the future sample is not knowable, and the realized sample can later be audited.
+
+Critical caveat: perfectly random sampling from a manipulated eligible list is still manipulable. Universe completeness must be protected separately. Use this for quality/process/financial oversight—not randomized suspicion or punishment of individual members.
+
+## L062 — When harm is cumulative, do not let per-event thresholds erase the pattern
+**Status:** PRACTICAL / KNOWN
+
+Anti-structuring, harassment and pattern-of-conduct law already recognize the general problem: a strategic actor can split conduct into individually subthreshold events.
+
+Where the underlying harm is genuinely cumulative, define how repeated conduct is aggregated. Do not use “pattern” as a vague excuse to convert benign repeated acts into violations; specify relevant time windows, context, similarity, effect and evidence standards.
+
+## L063 — Protect complaint/review systems from procedural denial-of-service without silencing complainants
+**Status:** PRACTICAL / KNOWN
+
+Courts and information-access systems already confront vexatious/repetitive use of procedures. A commune can face the same resource problem, but broad local power to label someone “vexatious” is dangerous because it can suppress dissent.
+
+Prefer independent/proportionate tools: consolidate duplicative matters, prioritize urgent rights impacts, require one coherent filing instead of dozens of fragments, impose narrowly tailored conditions only after review, and preserve an appeal/bypass route.
+
+## L064 — Count independent power centers by dependency/control, not names
+**Status:** PRACTICAL / KNOWN
+
+Five officeholders do not create five independent checks if all five depend on the same employer, family, charismatic leader, housing patron, faction or economic controller. Beneficial-ownership/related-party ideas already capture the general mechanism.
+
+When independence matters, map common control and material dependency explicitly rather than counting formal seats.
+
 ---
 
 # B. Membership, composition, and social structure
@@ -132,8 +239,6 @@ When most relationships specialize, romantic partners can become the remaining l
 
 Matching markets are well studied, and historical kibbutz practice already included movement-level centralized applicant screening. The potentially underused element is therefore **not** centralized recruitment or screening. It is reciprocal preference clearing across autonomous communities **after** enough exploration has occurred to reveal actual preferences.
 
-**Operational lesson:** a federation can make the movement-wide applicant market thicker without forcing one commune to wait for a large batch.
-
 A non-coercive architecture:
 
 1. communities publish openings, hard constraints, trial windows, and relevant characteristics;
@@ -143,8 +248,6 @@ A non-coercive architecture:
 5. both sides later mark or rank acceptable matches;
 6. a coordinated round recommends commitments while preserving opt-out and local admission authority;
 7. C009 cohort-composition analysis is used only where a community actually has several openings/candidates.
-
-Do not force everyone to rank communities before they have enough information. Avoid algorithmic “fit scores” that obscure legal/ethical discrimination issues or acquire undeserved authority.
 
 ---
 
@@ -342,8 +445,6 @@ A 2026 legal-overfitting paper directly proposes ML-style holdout cases and regu
 
 When enough archived or hypothetical cases exist, formulate a rule using only part of the case bank, then test it on cases deliberately withheld from the drafting debate. Prefer a simpler rule when extra exceptions improve fit to the drafting cases but fail to improve genuinely unseen cases.
 
-**Caution:** small communities rarely have enough observations for literal statistical cross-validation. The point is to preserve some out-of-sample discipline, not to manufacture fake precision. Once a holdout case is repeatedly used to tune the rule, it is no longer a holdout.
-
 ## L044 — Separate evidence-content assessment from source/status effects when feasible
 **Status:** PRACTICAL / KNOWN
 
@@ -352,21 +453,19 @@ For selected decisions, first assess the substance of a claim or proposal withou
 ## L045 — Use sister communities as comparators when testing institutional changes
 **Status:** RESEARCH-CONTROL / KNOWN
 
-When one community changes a rule, compare later outcomes with similar communities that did not make the same change, while documenting pre-existing differences. This does not create a randomized trial, but it is generally stronger than interpreting one community's before/after story in isolation. Where enough communities exist, use explicit comparative or quasi-experimental designs rather than anecdotal benchmarking.
+When one community changes a rule, compare later outcomes with similar communities that did not make the same change, while documenting pre-existing differences. This does not create a randomized trial, but it is generally stronger than interpreting one community's before/after story in isolation.
 
 ## L048 — Sister-daughter comparisons are especially useful, but fission self-sorting can defeat the control
 **Status:** RESEARCH-CONTROL / KNOWN
 
 Two daughter communities from the same parent share more history than two unrelated communes, so divergence after fission can sometimes create a strong matched comparison. But members often choose sides during the split. If the people selecting into daughter A versus B already differ on the trait later linked to outcomes, the comparison is confounded.
 
-Prefer sibling-daughter comparisons where the divergence came from an external/legal/resource event or another plausibly exogenous difference. Never describe a factional fission as randomized merely because the daughters share a parent.
+Prefer sibling-daughter comparisons where the divergence came from an external/legal/resource event or another plausibly exogenous difference.
 
 ## L051 — Pool rare failures and near misses across the federation
 **Status:** PRACTICAL / KNOWN
 
 One community may operate for decades without seeing enough rare failures to learn their pattern. A federation can accumulate de-identified or appropriately governed incident and near-miss reports across communities, preserve the failure mechanism and mitigation, and update shared tests/checklists so daughters do not rediscover the same problem independently.
-
-The model is established high-reliability/safety learning, not a novel communal theory. Preserve local context so the shared library does not turn one unusual event into a universal rule.
 
 ---
 
@@ -400,7 +499,7 @@ Before a major governance switch, run the proposed process nonbinding on an appr
 Choose 5–10 archived or hypothetical cases and define one claimed invariance/symmetry/monotonicity for each. Create minimally transformed paired versions, randomize order/identity where possible, process independently, and audit changes that violate the predeclared relation.
 
 ### E10 — Federated applicant matching pilot
-Recruit several autonomous communities with real vacancies and willing seekers. Run one or two synchronized exploration windows. Measure viable mutual matches identified, unmatched compatible pairs, time-to-commitment, applicant/community satisfaction, six-/twelve-month retention, and whether any C009 cohort interaction changed a decision. Compare with ordinary directory/search intake where possible.
+Recruit several autonomous communities with real vacancies and willing seekers. Run one or two synchronized exploration windows. Measure viable mutual matches identified, unmatched compatible pairs, time-to-commitment, applicant/community satisfaction, six-/twelve-month retention, and whether any C009 cohort interaction changed a decision.
 
 ### E11 — Federation reporting-completeness audit
 Choose one narrow, ethically appropriate outcome definition. Across multiple communities/years, map overlap among two or more reporting/outcome channels. Before fitting any hidden-population model, test case-definition consistency, referrals/source dependence, sample size, privacy, and linkage feasibility. If assumptions are weak, stop at descriptive overlap rather than forcing a population estimate. **Known methodology; retained for practical value only.**
@@ -409,7 +508,7 @@ Choose one narrow, ethically appropriate outcome definition. Across multiple com
 When several sister communities are willing, stagger or naturally compare a specific governance/operational change and predeclare a small set of outcomes and feedback horizons. Preserve differences and failures, not only favorable examples.
 
 ### E13 — Lineage-aware comparative audit
-For any multi-community dataset, attach parent/lineage identifiers and rerun key associations with lineage-level clustering or another appropriate shared-ancestry control. Check whether the apparent pattern was carried mainly by one prolific lineage. Record major cross-lineage borrowing that makes a tree model misleading.
+For any multi-community dataset, attach parent/lineage identifiers and rerun key associations with lineage-level clustering or another appropriate shared-ancestry control. Check whether the apparent pattern was carried mainly by one prolific lineage.
 
 ### E14 — Sister-daughter natural experiment bank
 Identify sibling daughter communities that later diverged on governance, property, schooling, relationship norms, production, or external integration. For each pair, document member sorting at fission, pre-split differences, external shocks, and later outcomes before deciding whether the comparison is causally useful.
@@ -418,10 +517,25 @@ Identify sibling daughter communities that later diverged on governance, propert
 For a highly successful communal lineage, list distinctive inherited practices and mark which have direct evidence of causal contribution versus mere co-transmission. Prioritize naturally occurring daughter variants or historical removals that let the research center test whether costly/restrictive practices can disappear without damaging the valued outcomes.
 
 ### E16 — Constitutional holdout test
-When revising a rule from an existing case bank, reserve a small set of appropriate cases before drafting. After the rule is written, test whether it handles the holdouts coherently without adding ad hoc exceptions. Then retire those cases from holdout status if they become part of the next revision cycle.
+When revising a rule from an existing case bank, reserve a small set of appropriate cases before drafting. After the rule is written, test whether it handles the holdouts coherently without adding ad hoc exceptions.
 
 ### E17 — Federation near-miss library
-Create a standardized low-burden record for serious near misses and unusual failures: context, mechanism, detection route, consequences avoided/incurred, mitigation, and whether the lesson generalized elsewhere. Review periodically for repeated mechanisms rather than raw event counts.
+Create a standardized low-burden record for serious near misses and unusual failures: context, mechanism, detection route, consequences avoided/incurred, mitigation, and whether the lesson generalized elsewhere.
+
+### E18 — Rights-liveness/deadlock test
+Pick one high-value right (for example expulsion appeal or exit settlement). Build a small state table containing relevant roles, recusals, quorum, vacancies, deadlines and escalation. Enumerate combinations or use a model checker. Record every state where a valid request cannot reach closure and repair the procedure. Explicitly test noncooperation rather than assuming every enabled actor eventually acts.
+
+### E19 — Revocation-latency audit
+Choose several recent role transitions. Starting from the role-change timestamp, reconstruct when each bank, cloud, password, records, physical-key, legal-signature, committee and delegated permission was actually removed or transferred. Fix the slowest/stale pathways and rerun after later transitions.
+
+### E20 — Non-atomic transition map
+For one complex process such as admission or fission, list each irreversible/semi-reversible step and the compensating action available if the next step fails. Mark steps for which no genuine compensation exists; move stronger preconditions ahead of them.
+
+### E21 — Verifiable random federation audit pilot
+For a benign process-quality audit: publish the eligible universe and sampling algorithm commitment; freeze the universe; use future public randomness; derive the sample deterministically; then let independent members replay the selection. Compare trust, manipulation concerns, burden and actual audit value with ordinary auditor-selected sampling.
+
+### E22 — Procedural pattern/overload audit
+Review whether any current rule can be evaded by splitting cumulative conduct below a per-event threshold, and whether any grievance/records pathway can be exhausted by repeated duplicate filings. Add narrowly defined aggregation/triage rules without weakening bypass/appeal rights.
 
 ---
 
