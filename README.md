@@ -7,11 +7,11 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 - Volumes **1-45** complete
 - **984** journal PDFs triaged
 - **443** relevant or contextual close reads
-- **179** evidence findings (`F-001` through `F-179`)
+- **182** evidence findings (`F-001` through `F-182`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
 - Primary assigned corpus: **complete, 984 journal PDFs plus 8 standalone sources**
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-DURABLE-TRANSITION-REPORT.md`](recovered/COMMUNITIES-ADJACENT-DURABLE-TRANSITION-REPORT.md); the finite continuation queue is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-OFFICIAL-CORRECTION-REPORT.md`](recovered/COMMUNITIES-ADJACENT-OFFICIAL-CORRECTION-REPORT.md); the finite continuation queue is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
 
 ## Repository layout
 
@@ -28,11 +28,11 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 With the exact local source corpora restored beneath `recovered/corpus-v45/` and `recovered/corpus-standalone/`, run:
 
 ```bash
-python recovered/test_adjacent_durable_transition_workflow.py
-python recovered/verify_adjacent_durable_transition.py
+python recovered/test_adjacent_official_correction_workflow.py
+python recovered/verify_adjacent_official_correction.py
 ```
 
-The current verifier checks sequential findings through F-179, the 13-record cumulative adjacent inventory, the four Unit C source dispositions, unchanged gap classes, durable-transition and report coverage, the Unit D handoff, and exclusion of source binaries outside known local-only corpus roots. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The current verifier checks sequential findings through F-182, the 16-record cumulative adjacent inventory, the three Unit D official-record dispositions, unchanged gap classes, official-correction and report coverage, the Unit E handoff, and exclusion of source binaries outside known local-only corpus roots. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
