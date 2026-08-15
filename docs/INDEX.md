@@ -24,6 +24,8 @@ Before the first research checkpoint is merged, those files may exist only on th
 
 `FRESH-CONVERSATION-HANDOFF.md` preserves the owner thesis, current evidence boundary, completed-unit inventory, transfer rules, read order, validation sequence, and exact choice between editorial and new-research work after recovery.
 
+`PUBLIC-RESEARCH-REPORT.md` is the public-readable transparency layer. It summarizes the completed synthesis, links to the ledger/crosswalk/corrections, discloses verification status, and keeps Joel's thesis separate from what this corpus was designed to test. `ARTICLE-APPENDIX-RESEARCH-LINK.md` records the future article-link target without editing article prose.
+
 `../COMMUNITY-DEVELOPMENT-LESSONS.md` is the operational lessons layer. Unlike the evidence ledger or Creative Tail Sampling findings, it intentionally retains familiar, previously studied, and provisional ideas when they plausibly improve communal development. Each lesson carries an epistemic label so practical usefulness is not confused with originality or direct validation.
 
 
@@ -32,6 +34,8 @@ The corpus-directed synthesis method is recorded in `superpowers/plans/2026-08-1
 The autonomy and legal-pluralism correction is recorded in `superpowers/plans/2026-08-15-autonomy-legal-pluralism-correction.md`; it was a bounded response to an owner-identified sampling-frame error and does not reopen the completed primary corpus.
 
 The Escuelita descendant audit is recorded in `superpowers/plans/2026-08-15-escuelita-seed-outcomes.md`; it is a bounded response to an owner-identified diffusion question and does not reopen the completed primary corpus.
+
+The public transparency derivative is recorded in `superpowers/plans/2026-08-15-public-research-report.md`; it adds no finding and does not authorize an editorial pass.
 
 The post-corpus queue is finite and recorded in `superpowers/plans/2026-08-15-adjacent-source-roadmap.md`. Adjacent web and publication records are kept in `../recovered/COMMUNITIES-ADJACENT-SOURCE-INVENTORY.csv`; they do not change the 984-journal-PDF or eight-standalone primary-corpus counts.
 
