@@ -119,6 +119,15 @@ Questions:
 - Does a planned fork preserve individual choice and both successors’ viability?
 - Are later outcomes reported rather than inferred from legal survival?
 
+Selected records:
+
+- The Mothership LLC operating agreement, explicitly labelled draft dated March 20, 2016.
+- PEACH's current official governance page and a 2013 first-person administrator claim account.
+- *Walter Estate v. Walter* and the Hutterites.org member-managed Daughter Colony record, kept in separate dissolution and planned-fission lanes.
+- Jesus Fellowship Community Trust Schedule 1A Notice under the July 25, 2025 High Court order and current closure-phase records.
+
+Status: completed in `COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`. Permission, usable liquidity, individual entitlement, aggregate parity, neutral review, claim finality, and later human outcomes remain separate. This completes the finite adjacent-source roadmap; no article drafting or revision is authorized by this research checkpoint.
+
 ## Cross-lane exclusions
 
 - No retrospective diagnosis of a child or historical actor.
