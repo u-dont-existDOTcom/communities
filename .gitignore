@@ -1,8 +1,11 @@
 # Copyrighted source containers and full-text derivatives stay local.
 recovered/corpus-v*/
+recovered/corpus-standalone/
 recovered/*.zip
 recovered/*-keyword-contexts.txt
 recovered/*-child-danger-contexts.txt
+recovered/standalone-keyword-contexts.txt
+recovered/standalone-child-danger-contexts.txt
 recovered/*.openai-download-*
 
 # Generated caches and partial transfers.
