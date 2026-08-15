@@ -2,7 +2,7 @@
 
 Date: 2026-08-15 (Africa/Dakar)  
 Status: completed P0 research synthesis; no article prose revised  
-Evidence base: 192 findings, F-001 through F-192
+Evidence base: 198 findings, F-001 through F-198
 
 ## Direct answer: the gap bank was not the final report
 
@@ -10,7 +10,7 @@ The research needed both the earlier horizontal synthesis and this correction pa
 
 The [article-gap bank](COMMUNITIES-ARTICLE-GAP-BANK.md) is an editorial control document. Its rows ask what the evidence implies for claims already present in the community article. It is not a neutral account of everything learned because the article's headings and propositions determine its questions and destinations.
 
-The corrected gap bank reaches 189 of 192 findings. Three findings still do not appear in its article-facing rows: F-027 on Shaker communities as de facto child-care institutions, F-030 on an access-rich Rajneeshpuram account overtaken by later events, and F-032 on historical communal waves not establishing a present-day surge. The [finding crosswalk](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) accounts for all 192 findings.
+The updated gap bank reaches 195 of 198 findings. Three findings still do not appear in its article-facing rows: F-027 on Shaker communities as de facto child-care institutions, F-030 on an access-rich Rajneeshpuram account overtaken by later events, and F-032 on historical communal waves not establishing a present-day surge. The [finding crosswalk](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) accounts for all 198 findings.
 
 The first horizontal synthesis also inherited a sampling-frame error. Intentional communities inside nation-state jurisdiction and adjacent court, regulator, clinical, and inquiry records were allowed to imply that independent correction must be state-external. The autonomous-governance lane, summarized in [the legal-pluralism correction report](COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md), shows that the Zapatistas, Cheran, and CRAC-PC require a different rule: independence from the implicated authority and adequate scale are necessary; state operation is contingent.
 
@@ -22,11 +22,11 @@ The completed research contains:
 
 - 984 *Communal Societies* journal PDFs across volumes 1-45;
 - eight standalone substantive sources;
-- 29 bounded adjacent records covering child response, assessment and review, durable treatment and transition, official correction, fair separation, pooled risk, planned fission, autonomous Indigenous governance, legal pluralism, and translocal federation;
+- 47 bounded adjacent records covering child response, assessment and review, durable treatment and transition, official correction, fair separation, pooled risk, planned fission, autonomous Indigenous governance, legal pluralism, and translocal federation;
 - 443 relevant or contextual journal close reads; and
-- 192 promoted findings.
+- 198 promoted findings.
 
-The ledger assigns 91 findings high confidence, 25 medium-high, 67 medium, two medium-low, three low-medium, and four low. It marks 128 for external verification and 64 as not needing it at the present checkpoint. “External verification needed” does not mean a finding is false. It commonly means that a review-level source, underlying court record, current policy, implementation record, or later outcome still needs checking before publication-facing reliance.
+The ledger assigns 92 findings high confidence, 28 medium-high, 69 medium, two medium-low, three low-medium, and four low. It marks 133 for external verification and 65 as not needing it at the present checkpoint. “External verification needed” does not mean a finding is false. It commonly means that a review-level source, underlying court record, current policy, implementation record, or later outcome still needs checking before publication-facing reliance.
 
 Twenty-two findings are bounded searches that did not locate the specified persistent-dangerous-child response sequence in volumes 1-45 or the eight standalone sources. They are evidence about this search and corpus, not proof that no relevant case exists anywhere.
 
@@ -50,7 +50,7 @@ That combined architecture is synthesis claim S-15. It is model-assisted: no sou
 
 ## Theme map
 
-The crosswalk assigns each finding one primary theme so that all 192 are accounted for. The themes overlap in the report because the mechanisms do.
+The crosswalk assigns each finding one primary theme so that all 198 are accounted for. The themes overlap in the report because the mechanisms do.
 
 | Theme | Primary findings | Question answered |
 |---|---:|---|
@@ -63,10 +63,10 @@ The crosswalk assigns each finding one primary theme so that all 192 are account
 | T-07 assets, exit, records, and material security | 21 | When is a formal right to leave or share assets actually usable? |
 | T-08 capacity, infrastructure, labor, and external dependence | 7 | What material limits precede personality and governance explanations? |
 | T-09 external correction, law, and professional boundaries | 19 | Which outside functions are necessary, and why are they not automatically complete? |
-| T-10 success, outcomes, source quality, and measurement | 9 | What counts as success, and how can the record mislead? |
-| T-11 succession, fission, and movement continuity | 11 | How can people and purpose survive leadership or institutional change? |
+| T-10 success, outcomes, source quality, and measurement | 11 | What counts as success, and how can the record mislead? |
+| T-11 succession, fission, and movement continuity | 13 | How can people and purpose survive leadership or institutional change? |
 | T-12 dangerous-child bounded null and adjacent response | 33 | What does and does not answer the hardest child-safety question? |
-| T-13 autonomy, legal pluralism, and translocal federation | 6 | Can independent correction and protection be autonomous, and when is a state interface contingent? |
+| T-13 autonomy, legal pluralism, and translocal federation | 8 | Can independent correction and protection be autonomous, and when is a state interface contingent? |
 
 ## 1. Authority must be decomposed, not merely democratized — T-01, S-01
 
@@ -196,7 +196,21 @@ UNDRIP Article 34 supplies the normative double boundary (F-192): Indigenous peo
 
 The practical requirement is a named function, competent jurisdiction, accessible intake, evidence preservation, recusal, proportionality, stopping rule, appeal or bypass, and later outcome review. Community members and autonomous authorities can exercise the powers their legitimate order gives them. No one acquires unlimited police, court, clinical, custody, restraint, seclusion, licensing, or regulatory power merely by calling the institution communal.
 
-## 10. Success is a vector, not a score — T-10, S-11
+## 10. Outward diffusion needs a lineage ladder — T-10, T-11, T-13, S-18
+
+The Escuelita seed-outcomes unit separates six endpoints that the language of inspiration can collapse: encounter, continued alumni relation, practice transfer, creation of a new organization, durable communal institution, and later human outcomes.
+
+The evidence is strongest at the first three levels. Official records document a large, deliberately immersive school with an outward teaching intention. Alumni then appeared as collective actors in several regions through statements, fundraisers, marches, and cultural-political events from 2014 through 2016 (F-193). CIIS follow-up and qualitative seed-pedagogics research report participants carrying principles into care, organizing, political, and NGO work and describe collective political learning beyond Chiapas (F-194). These are real movement outcomes, but the exposure includes other Zapatista encounters and prior activism.
+
+Espacio de Coordinacion Grietas en el Muro is the strongest organization-level candidate (F-195). A 2016 notice says collectives and individuals including Escuelita students created a local CompArte site and names the coordination space; it remains visible in 2019 and 2022 organizing records and a 2024 CNI signatory list. Its origin was explicitly mixed, and the record does not show continuous membership, internal governance, residential life, or human outcomes. A named former student, Levi Gahman, supplies a smaller trace from attendance to later solidarity organizing and knowledge work without proving that the Escuelita created the organization or caused the later activity (F-196).
+
+Pre-2013 controls prevent false credit. Transnational activist reflexivity, Casa del Pueblo, and Universidad de la Tierra Califas were already documented as Zapatista-inspired practices or institutions before the Escuelita (F-197). Later similarity may reflect older roots, reinforcement, or grafting. It is not enough to establish descent.
+
+The bounded search located no alumni registry, longitudinal cohort, counted adoption or failure rate, directly descended residential commune or autonomous federation, or later safety, child-wellbeing, autonomy, voluntary-retention, material-viability, and relational-outcome panel (F-198). This is not proof that no such project exists. It fixes the current evidence ceiling.
+
+S-18 is therefore the diffusion rule: credit the highest demonstrated lineage level and do not promote a network, practice adaptation, or named organization into a successful communal replication without evidence of durability, shared-life or governance function, and later human outcomes. The detailed audit is in [the Escuelita seed-outcomes report](COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md).
+
+## 11. Success is a vector, not a score — T-10, S-11
 
 Longevity, size, cohesion, reputation, member fulfillment, environmental practice, founder removal, conviction, license revocation, asset preservation, process completion, and in-program improvement are different endpoints. They can conflict.
 
@@ -219,7 +233,7 @@ S-11 requires an outcome vector with separate, non-nettable dimensions:
 
 Benefits do not offset non-waivable harms. A community may be productive, loving, ecological, spiritually meaningful, or durable while still failing a safety or rights floor. Dissolution may be adaptive; survival may be failure. The dimensions should be reported separately rather than collapsed into a single success label.
 
-## 11. Continuity can outlive the institution — T-11, S-13
+## 12. Continuity can outlive the institution — T-11, S-13
 
 The evidence repeatedly separates the community as a legal institution from the movement of people, practices, and relationships.
 
@@ -231,7 +245,7 @@ S-13 treats continuity at several levels: person, household, alumni network, res
 
 This is not a presumption that fission is always healthy. A fork can become expulsion, family division, asset capture, or abandonment. Planned fission is different from a court allocation after breakdown, and both are different from an individual's usable right to refuse.
 
-## 12. The persistent-dangerous-child question remains unanswered — T-12, S-14
+## 13. The persistent-dangerous-child question remains unanswered — T-12, S-14
 
 The most important negative result should remain explicit.
 
@@ -334,6 +348,7 @@ Four article propositions require the clearest evidentiary boundary:
 - **Long work is hard for con artists to fake.** The corpus validates no commitment, productivity, spiritual, therapeutic, or duration screen for dangerousness. Use staged, role-specific access and conduct evidence instead (G-018; S-04).
 - **The community can handle the hardest dangerous-child case internally.** The intentional-community evidence is a bounded null. The adjacent evidence supports an interface with trained, competent, independent, and rights-constrained systems. Those may be autonomous or public where genuinely capable; the evidence validates neither lay local monopoly nor automatic state monopoly (G-009 and G-018; S-06, S-14, S-16, and S-17).
 - **Legal and medical systems are selected couplings.** The need for competence, rights, and non-self-review is not optional, but the institutional location is contingent. Zapatista and other Indigenous cases show autonomous justice, health, education, and regional correction; Cheran shows selective state recognition and referral; CRAC-PC shows protective translocal federation. The article should map which layer can legitimately perform each function under actual territorial and legal conditions (G-013 and G-019; S-10, S-16, and S-17).
+- **Zapatismo produces worldwide communal innovation.** The Escuelita clearly produced continued alumni relations, reported practice transfer, and at least one durable mixed-lineage coordination candidate. The evidence does not yet establish a population of new residential or governing communities or later human outcomes. State the demonstrated lineage level and require a descendant and outcome audit before upgrading diffusion into successful communal replication (G-020; S-18).
 
 The article-gap bank should therefore remain the change specification, while this report becomes the conceptual source of truth for why those changes relate.
 
@@ -352,6 +367,8 @@ The completed corpus and finite adjacent roadmap leave real uncertainties:
 9. Evidence-channel performance remains difficult to observe because unreported, destroyed, inaccessible, or institutionally filtered records have no denominator.
 10. It remains unknown which minimum set of safeguards produces the most protection with the least bureaucracy, cost, false-positive exclusion, or loss of local autonomy.
 11. The 2023 Zapatista reorganization has no independent later-outcome evaluation in this unit, and no common outcome panel compares autonomous, hybrid, and state-centered jurisdictional arrangements.
+12. No public Escuelita alumni registry or longitudinal cohort shows how many participants adopted practices, formed projects, abandoned attempts, or changed existing organizations.
+13. No located directly descended residential commune or autonomous federation has a complete durability and human-outcome panel.
 
 These are not reasons to erase the conclusions that do converge. They are the boundary around them. The assigned research program is complete; any further research should begin with a new, finite question rather than reopening the finished corpus indiscriminately.
 
@@ -370,13 +387,14 @@ Everything learned can be compressed into thirteen decisive conclusions:
 9. Independent correction is indispensable for some functions, but independence means separation from the implicated authority; it does not universally mean an institution outside the movement or operated by the state.
 10. The competent layer depends on territorial control, scale, skill, rights, spillover, enforceability, and threat. Translocal federation can provide review and protection that an isolated community cannot.
 11. Survival, cohesion, legal closure, conviction, leader removal, process completion, in-program gains, and worldwide resonance are not substitutes for disaggregated human outcomes.
-12. A community can preserve purpose through transformation, migration, teaching, alumni networks, parallel institutions, succession, or voluntary fission; preserving the original entity is not always the goal.
+12. A community can preserve purpose through transformation, migration, teaching, alumni networks, parallel institutions, succession, or voluntary fission; preserving the original entity is not always the goal. Outward diffusion must still be reported by lineage level so inspiration, network continuity, organization creation, durable communal replication, and human outcomes remain distinct.
 13. The most defensible combined design is function-specific subsidiarity with legal pluralism, direct individual rights, and bypass routes. It is a synthesis of supported components, not a proven finished model.
 
 ## Artifact guide
 
 - Read this report for the complete cross-corpus conclusions.
 - Read [COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md](COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md) for the state-monopoly correction, Zapatista synthesis, Indigenous comparators, and transfer boundaries.
+- Read [COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md](COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md) for the alumni, practice-transfer, candidate-descendant, causal-attribution, and outcome audit.
 - Use [COMMUNITIES-SYNTHESIS-CROSSWALK.csv](COMMUNITIES-SYNTHESIS-CROSSWALK.csv) to trace every finding to its primary theme, synthesis claims, evidence role, confidence, verification status, and article gaps.
 - Use [COMMUNITIES-EVIDENCE-LEDGER.csv](COMMUNITIES-EVIDENCE-LEDGER.csv) for the exact source observation, what it establishes, what it does not establish, alternative interpretation, process, outcome, and transferability.
 - Use [COMMUNITIES-ARTICLE-GAP-BANK.md](COMMUNITIES-ARTICLE-GAP-BANK.md) for a future article edit.

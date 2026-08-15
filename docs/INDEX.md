@@ -11,20 +11,24 @@ When an accepted checkpoint exists on `main`, read in this order:
 3. `../recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`
 4. `../COMMUNITY-DEVELOPMENT-LESSONS.md`
 5. `../recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md`
-6. `../recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
-7. the prior finite-roadmap endpoint, `../recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`
-8. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
-9. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
-10. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
-11. current discovery, update, test, and verification scripts
+6. `../recovered/COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md`
+7. `../recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
+8. the prior finite-roadmap endpoint, `../recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`
+9. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
+10. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
+11. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
+12. current discovery, update, test, and verification scripts
 
 Before the first research checkpoint is merged, those files may exist only on the active volume PR branch. Do not reconstruct them from chat summaries.
 
 `../COMMUNITY-DEVELOPMENT-LESSONS.md` is the operational lessons layer. Unlike the evidence ledger or Creative Tail Sampling findings, it intentionally retains familiar, previously studied, and provisional ideas when they plausibly improve communal development. Each lesson carries an epistemic label so practical usefulness is not confused with originality or direct validation.
 
+
 The corpus-directed synthesis method is recorded in `superpowers/plans/2026-08-15-final-synthesis-pass.md`. The gap bank remains the article-change specification; it is not the final research report.
 
 The autonomy and legal-pluralism correction is recorded in `superpowers/plans/2026-08-15-autonomy-legal-pluralism-correction.md`; it was a bounded response to an owner-identified sampling-frame error and does not reopen the completed primary corpus.
+
+The Escuelita descendant audit is recorded in `superpowers/plans/2026-08-15-escuelita-seed-outcomes.md`; it is a bounded response to an owner-identified diffusion question and does not reopen the completed primary corpus.
 
 The post-corpus queue is finite and recorded in `superpowers/plans/2026-08-15-adjacent-source-roadmap.md`. Adjacent web and publication records are kept in `../recovered/COMMUNITIES-ADJACENT-SOURCE-INVENTORY.csv`; they do not change the 984-journal-PDF or eight-standalone primary-corpus counts.
 

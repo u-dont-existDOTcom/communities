@@ -200,9 +200,9 @@ Prolific lineages mechanically contribute more descendants to present-day sample
 
 ## L029 — Treat teachability/adaptation as separate movement-success dimensions
 **Status:** EVIDENCE-SUPPORTED + SYNTHESIS  
-**Related:** F-189
+**Related:** F-189; F-193–F-198
 
-Separately measure spread of ideas, formation of new collectivities, durable adoption/adaptation, and verified human outcomes. A durable flagship is not automatically a reproducing/teaching movement.
+Separately measure encounter, continued alumni relation, practice transfer, formation of new collectivities, durable shared-life or governance adoption, and verified human outcomes. The Escuelita audit reaches practice transfer and one durable mixed-lineage coordination candidate, but not a directly descended commune or outcome panel. A durable flagship, alumni network, or visible coordination space is not automatically a successful communal-replication engine.
 
 ## L030 — Export failure history, not only the current rulebook
 **Status:** PRACTICAL / KNOWN

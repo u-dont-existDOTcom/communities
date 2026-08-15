@@ -14,8 +14,8 @@ This repository is P0 research unless the owner explicitly authorizes article ed
 
 For an active checkpoint branch:
 
-- Regression suite: `python recovered/test_autonomy_legal_pluralism_workflow.py` (current bounded-unit successor)
-- Current repository-contained verification: `python recovered/verify_autonomy_legal_pluralism.py`; run source-dependent predecessor checks only when their exact local corpora are restored
+- Regression suite: `python recovered/test_escuelita_seed_outcomes_workflow.py` (current bounded-unit successor)
+- Current repository-contained verification: `python recovered/verify_escuelita_seed_outcomes.py`; run source-dependent predecessor checks only when their exact local corpora are restored
 - Syntax: `python -m compileall recovered`
 - Patch hygiene: `git diff --check`
 
