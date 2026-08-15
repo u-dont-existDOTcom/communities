@@ -97,4 +97,4 @@
 - [ ] **Step 3: Build a ZIP containing the public report, appendix handoff, final synthesis, crosswalk, evidence ledger, gap bank, legal-pluralism report, Escuelita report, and SHA-256 manifest.**
 - [ ] **Step 4: Re-resolve the live GitHub branch head immediately before writing; create a fast-forward commit only if the expected parent is still current.**
 - [ ] **Step 5: Fetch committed files and compare Git blob SHAs/content with the verified local artifacts.**
-- [ ] **Step 6: Report the checkpoint in at most five bullets, the research-vs-integration decision, GitHub durability, and ZIP link.
+- [ ] **Step 6: Report the checkpoint in at most five bullets, the research-vs-integration decision, GitHub durability, and ZIP link.**
