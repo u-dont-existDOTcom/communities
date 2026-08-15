@@ -21,6 +21,7 @@ Updated: 2026-08-15 (Africa/Dakar)
 - `COMMUNITIES-ADJACENT-DURABLE-TRANSITION-REPORT.md` completes the four-study durable-treatment and transition unit. It preserves two favorable and two null comparative results, release-anchored follow-up, active-comparator and completion limits, developer disclosures, and separate family/community and residential/group-care lanes.
 - `COMMUNITIES-ADJACENT-OFFICIAL-CORRECTION-REPORT.md` completes the three-record official-correction unit. It separates professional authority removal, inquiry findings and recommendations, police and court outcomes, survivor support, implementation, family contact, child wellbeing, and later institutional safety.
 - `COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md` completes the four-record fair-separation, pooled-risk, and planned-fission unit. It separates permission from usable exit, institutional equity from individual entitlement, aggregate parity from consent, court finality from pre-crisis exit, and procedure from later human outcomes.
+- `COMMUNITIES-FINAL-SYNTHESIS-REPORT.md` is the corpus-directed final report. It horizontally synthesizes all 186 findings across twelve themes, preserves counterevidence and transfer limits, and keeps the combined subsidiarity architecture explicitly model-assisted rather than source-validated.
 - The source inventory contains 1,005 records total: 984 journal PDFs, 3 archive manifests, and 18 Drive-level source/container records.
 - All 984 journal PDFs have extracted text. The Google Drive `vol41-45.zip` object matched the saved D-003 size and SHA-256 exactly, passed a ZIP integrity test, and supplied all 15 volume 45 PDFs. Each volume 45 member matched both the archive manifest and its pre-existing inventory SHA-256, matched its inventoried page count, and has nonempty extracted text. The source container and full text remain outside Git.
 - M-0398's pre-extracted text ended at printed page 107; printed pages 108-113 were inspected directly from the source PDF and the affected ledger row records that access path.
@@ -30,10 +31,12 @@ Updated: 2026-08-15 (Africa/Dakar)
 
 - The assigned primary corpus is complete: **984 of 984 journal PDFs** across volumes 1-45 and **8 of 8 standalone substantive sources** have been triaged and dispositioned.
 - The four-record fair-separation, pooled-risk, and planned-fission unit is complete. The assigned primary corpus and all five units in the finite adjacent-source roadmap are complete. There is no next research unit in the accepted roadmap.
+- The post-corpus horizontal synthesis is complete. Every finding is mapped in `COMMUNITIES-SYNTHESIS-CROSSWALK.csv`; the synthesis adds no evidence rows and does not replace the article-directed gap bank.
 - Article drafting or revision remains outside scope unless separately authorized.
 
 ## Current evidence picture
 
+- The final horizontal synthesis identifies one recurring system failure across otherwise different cases: legitimate authority in one domain becomes unreviewable control over other domains, captures the evidence and remedy channels, makes exit costly, and can turn cohesion or survival into a false success signal. The counterdesign is bounded and replaceable authority, direct rights, independent reporting and review, usable exit and fission, and later human-outcome measurement. This assembled architecture is model-assisted; no source validates it as a complete package.
 - Adult/community-level evidence now includes ostracism, removal, punitive and unilateral expulsion, confinement to reduce self/other risk, leader and asset capture, crisis-driven expert dependency, dissent and apostate suppression, admission failure under cash pressure, evidence-channel monopoly, sanctions drifting into conformity enforcement, peer practice substituting for medicine, failed-prediction absorption, portable pension protection, civil recovery, arbitration, founder removal after factional violence, protected caucuses, reversible conflict trials, and shadow governance beneath formal democracy.
 - Volume 45 adds: subgroup health outcomes and exposure controls that override communal-care reputation; explicit pooled catastrophic-health reserve rules with current-status and audit limits; planned fission with a scale trigger, fair member and asset division, independent successor finances, and mother-colony parity review; and the final journal-volume dangerous-child bounded null.
 - The standalone pass adds: an explicit-separation-authority failure paired with a response-repertoire table; one role-specific childcare gate during provisional admission; a traditional-society example separating productive skill from allocation authority; a traditional-society conflict ladder spanning interruption, cooling, fission, and outside court; an internally graduated Amish discipline and reintegration process with a documented capture weakness; and the bounded standalone dangerous-child null.
@@ -50,7 +53,7 @@ Updated: 2026-08-15 (Africa/Dakar)
 
 ## Resume procedure
 
-1. Do not repeat volumes 1-45 or the eight standalone sources; the assigned primary corpus is complete.
+1. Start with `COMMUNITIES-FINAL-SYNTHESIS-REPORT.md` and `COMMUNITIES-SYNTHESIS-CROSSWALK.csv`; do not repeat volumes 1-45 or the eight standalone sources.
 2. The finite adjacent-source roadmap is complete. Do not invent another research unit; await explicit authority for article editing or a new bounded research question.
 3. Preserve the existing discovery, process-screening, close-read, disposition, ledger, gap-reconciliation, and verification sequence.
 4. Keep traditional-society, clinical, legal, and intentional-community evidence separate until a transfer argument is made.

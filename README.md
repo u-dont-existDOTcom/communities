@@ -10,12 +10,15 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 - **186** evidence findings (`F-001` through `F-186`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
 - Primary assigned corpus: **complete, 984 journal PDFs plus 8 standalone sources**
+- Final cross-corpus synthesis: **complete; all 186 findings mapped**
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`](recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md); the completed finite roadmap is [`docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`](docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The corpus-wide conclusion is [`recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`](recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md), with finding-level coverage in [`recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`](recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv). The latest bounded source report remains [`recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`](recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md).
 
 ## Repository layout
 
 - `recovered/COMMUNITIES-EVIDENCE-LEDGER.csv` — finding-level evidence, source limits, alternative interpretations, outcomes, and verification needs
+- `recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md` — corpus-directed conclusions, tensions, boundaries, and remaining unknowns
+- `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv` — one-row-per-finding map from all 186 findings to synthesis themes, claims, evidence roles, and article gaps
 - `recovered/COMMUNITIES-SOURCE-INVENTORY.csv` — journal metadata, member hashes, extraction state, and dispositions; private Drive object IDs are redacted
 - `recovered/COMMUNITIES-ARTICLE-GAP-BANK.md` — reconciled implications for the article without changing its prose
 - `recovered/COMMUNITIES-V*-RESEARCH-REPORT.md` — bounded checkpoint reports
@@ -28,11 +31,11 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 With the exact local source corpora restored beneath `recovered/corpus-v45/` and `recovered/corpus-standalone/`, run:
 
 ```bash
-python recovered/test_adjacent_fair_separation_workflow.py
-python recovered/verify_adjacent_fair_separation.py
+python recovered/test_final_synthesis_workflow.py
+python recovered/verify_final_synthesis.py
 ```
 
-The current verifier checks sequential findings through F-186, the 20-record cumulative adjacent inventory, the four Unit E source dispositions, unchanged gap classes, fair-separation report coverage, finite-roadmap completion, and exclusion of source binaries outside known local-only corpus roots. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The current verifier retains all Unit E checks, locks the evidence ledger and article-gap bank against synthesis-time mutation, requires one crosswalk row for every finding, verifies the twelve-theme and fifteen-claim architecture, confirms the three gap-unreferenced findings are nevertheless synthesized, and checks the final report's epistemic and transfer boundaries. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 

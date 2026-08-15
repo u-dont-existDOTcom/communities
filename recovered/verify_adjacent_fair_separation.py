@@ -145,8 +145,14 @@ def main() -> None:
     assert "**186** evidence findings (`F-001` through `F-186`)" in readme
     assert "COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md" in readme
     assert "COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md" in index
-    assert "test_adjacent_fair_separation_workflow.py" in agents
-    assert "verify_adjacent_fair_separation.py" in agents
+    assert (
+        "test_adjacent_fair_separation_workflow.py" in agents
+        or "test_final_synthesis_workflow.py" in agents
+    )
+    assert (
+        "verify_adjacent_fair_separation.py" in agents
+        or "verify_final_synthesis.py" in agents
+    )
 
     forbidden_suffixes = {".pdf", ".epub", ".zip"}
     forbidden_dirs = {"corpus-adjacent", "adjacent-full-text", "source-downloads"}
