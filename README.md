@@ -2,6 +2,8 @@
 
 This repository preserves the reusable workflow and derived checkpoints for a source audit of *Communal Societies*. The active mode is **P0 research only**: the published article is not edited here.
 
+Starting in a fresh conversation or worker session? Read [`docs/FRESH-CONVERSATION-HANDOFF.md`](docs/FRESH-CONVERSATION-HANDOFF.md) before the state, synthesis, and ledgers.
+
 ## Current checkpoint
 
 - Volumes **1-45** complete

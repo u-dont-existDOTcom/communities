@@ -17,6 +17,7 @@ TRACKED = [
     "AGENTS.md",
     "COMMUNITY-DEVELOPMENT-LESSONS.md",
     "README.md",
+    "docs/FRESH-CONVERSATION-HANDOFF.md",
     "docs/INDEX.md",
     "docs/superpowers/plans/2026-08-15-escuelita-seed-outcomes.md",
     "recovered/COMMUNITIES-ADJACENT-SOURCE-INVENTORY.csv",

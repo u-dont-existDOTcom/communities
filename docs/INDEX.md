@@ -6,20 +6,23 @@ The default mode is P0 research. Article prose is outside scope unless the owner
 
 When an accepted checkpoint exists on `main`, read in this order:
 
-1. `../README.md`
-2. `../recovered/COMMUNITIES-RESEARCH-STATE.md`
-3. `../recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`
-4. `../COMMUNITY-DEVELOPMENT-LESSONS.md`
-5. `../recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md`
-6. `../recovered/COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md`
-7. `../recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
-8. the prior finite-roadmap endpoint, `../recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`
-9. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
-10. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
-11. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
-12. current discovery, update, test, and verification scripts
+1. `FRESH-CONVERSATION-HANDOFF.md`
+2. `../README.md`
+3. `../recovered/COMMUNITIES-RESEARCH-STATE.md`
+4. `../recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`
+5. `../COMMUNITY-DEVELOPMENT-LESSONS.md`
+6. `../recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md`
+7. `../recovered/COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md`
+8. `../recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
+9. the prior finite-roadmap endpoint, `../recovered/COMMUNITIES-ADJACENT-FAIR-SEPARATION-REPORT.md`
+10. `../recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
+11. `../recovered/COMMUNITIES-SOURCE-INVENTORY.csv`
+12. `../recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
+13. current discovery, update, test, and verification scripts
 
 Before the first research checkpoint is merged, those files may exist only on the active volume PR branch. Do not reconstruct them from chat summaries.
+
+`FRESH-CONVERSATION-HANDOFF.md` preserves the owner thesis, current evidence boundary, completed-unit inventory, transfer rules, read order, validation sequence, and exact choice between editorial and new-research work after recovery.
 
 `../COMMUNITY-DEVELOPMENT-LESSONS.md` is the operational lessons layer. Unlike the evidence ledger or Creative Tail Sampling findings, it intentionally retains familiar, previously studied, and provisional ideas when they plausibly improve communal development. Each lesson carries an epistemic label so practical usefulness is not confused with originality or direct validation.
 

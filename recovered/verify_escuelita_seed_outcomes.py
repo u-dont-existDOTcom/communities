@@ -194,6 +194,9 @@ def main() -> None:
     state = (ROOT / "COMMUNITIES-RESEARCH-STATE.md").read_text(encoding="utf-8")
     readme = (REPOSITORY / "README.md").read_text(encoding="utf-8")
     index = (REPOSITORY / "docs" / "INDEX.md").read_text(encoding="utf-8")
+    handoff = (REPOSITORY / "docs" / "FRESH-CONVERSATION-HANDOFF.md").read_text(
+        encoding="utf-8"
+    )
     agents = (REPOSITORY / "AGENTS.md").read_text(encoding="utf-8")
     plan = (
         REPOSITORY
@@ -208,10 +211,20 @@ def main() -> None:
     assert "all 198 findings mapped across 13 themes" in readme
     assert "one-row-per-finding map from all 198 findings" in readme
     assert "thirteen-theme and eighteen-claim report architecture" in readme
+    assert "docs/FRESH-CONVERSATION-HANDOFF.md" in readme
+    assert "1. `FRESH-CONVERSATION-HANDOFF.md`" in index
     assert "COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md" in index
     assert "test_escuelita_seed_outcomes_workflow.py" in agents
     assert "## Seed lineage ladder" in plan
     assert "pre-2013" in plan
+    for required in [
+        "communal living is a return to our evolved ancestral pattern",
+        "large societies breed anomie and capture by psychopaths",
+        "movement school and network generator",
+        "there is no silently authorized unfinished research lane",
+        "do not begin article revision",
+    ]:
+        assert required in handoff.lower(), required
     lessons_path = REPOSITORY / "COMMUNITY-DEVELOPMENT-LESSONS.md"
     if lessons_path.exists():
         lessons = lessons_path.read_text(encoding="utf-8")
