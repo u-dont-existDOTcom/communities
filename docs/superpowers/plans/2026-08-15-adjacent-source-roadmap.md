@@ -52,6 +52,15 @@ Questions:
 
 Stop after four sources. Do not produce a community screening instrument. The output is a boundary map: what residents can observe and document, what requires independent professional assessment, and what requires lawful emergency action.
 
+Selected sources:
+
+- NICE guideline NG10, current published recommendations plus its active full-update status.
+- Gammelgård et al. (2008), six-month SAVRY validation in 208 institutionalized adolescents, DOI 10.1080/14789940802114475.
+- De Beuf et al. (2023), prospective START:AV field validation in 106 secure-care adolescents, DOI 10.1177/10731911211063228.
+- Shepherd et al. (2024), TALK post-event debrief implementation in acute child and adolescent mental-health units, DOI 10.1136/bmjoq-2023-002704.
+
+Status: completed in `COMMUNITIES-ADJACENT-ASSESSMENT-REVIEW-REPORT.md`. No lay screening tool was produced; the exact next boundary is Unit C.
+
 ### Unit C — durable treatment and transition
 
 Boundary: four primary comparative studies: two family/community interventions and two residential or group-care interventions with follow-up beyond the active treatment window.

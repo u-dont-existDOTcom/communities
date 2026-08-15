@@ -13,10 +13,11 @@ Updated: 2026-08-15 (Africa/Dakar)
 
 - *Communal Societies* volumes **1-45** are complete for title and keyword triage.
 - **984 journal PDFs** were triaged: 443 close-read as relevant or contextual, 207 title/keyword-triaged, and 334 metadata-triaged.
-- `COMMUNITIES-EVIDENCE-LEDGER.csv` contains **171 findings** (`F-001` through `F-171`). The adjacent child-response pilot added three findings in explicitly separate residential and clinical lanes.
+- `COMMUNITIES-EVIDENCE-LEDGER.csv` contains **175 findings** (`F-001` through `F-175`). The assessment/review unit added four findings in explicitly separate authoritative clinical, forensic, secure youth-care, and inpatient quality-improvement lanes.
 - `COMMUNITIES-ARTICLE-GAP-BANK.md` retains 18 reconciled article-gap items: 8 partially present, 7 apparently missing, and 3 challenges to the article.
 - `COMMUNITIES-STANDALONE-RESEARCH-REPORT.md` records recovery, exact source verification, all eight close-read dispositions, six promoted findings, source cautions, and completion of the assigned primary corpus.
 - `COMMUNITIES-ADJACENT-CHILD-PILOT-REPORT.md` completes the first five-record adjacent unit. The Brown dissertation remains an access-limited retrieval lead; three primary evaluations produced F-169 through F-171 without supplying the complete individual dangerous-child sequence.
+- `COMMUNITIES-ADJACENT-ASSESSMENT-REVIEW-REPORT.md` completes the four-source assessment, immediate-safety, and review unit. It preserves the current-guidance update flag, group-prediction and reliability limits, the distinction between prediction and management effect, and the negative event-rate result for internal staff debriefing.
 - The source inventory contains 1,005 records total: 984 journal PDFs, 3 archive manifests, and 18 Drive-level source/container records.
 - All 984 journal PDFs have extracted text. The Google Drive `vol41-45.zip` object matched the saved D-003 size and SHA-256 exactly, passed a ZIP integrity test, and supplied all 15 volume 45 PDFs. Each volume 45 member matched both the archive manifest and its pre-existing inventory SHA-256, matched its inventoried page count, and has nonempty extracted text. The source container and full text remain outside Git.
 - M-0398's pre-extracted text ended at printed page 107; printed pages 108-113 were inspected directly from the source PDF and the affected ledger row records that access path.
@@ -25,7 +26,7 @@ Updated: 2026-08-15 (Africa/Dakar)
 ## Exact pending boundary
 
 - The assigned primary corpus is complete: **984 of 984 journal PDFs** across volumes 1-45 and **8 of 8 standalone substantive sources** have been triaged and dispositioned.
-- The first five-record adjacent child-response pilot is complete. The next bounded unit is Unit B in `docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`: four sources on assessment, immediate safety, and independent review.
+- The four-source assessment, immediate-safety, and review unit is complete. The next bounded unit is Unit C in `docs/superpowers/plans/2026-08-15-adjacent-source-roadmap.md`: four comparative studies on durable treatment and transition beyond the active treatment window.
 - Article drafting or revision remains outside scope unless separately authorized.
 
 ## Current evidence picture
@@ -34,6 +35,7 @@ Updated: 2026-08-15 (Africa/Dakar)
 - Volume 45 adds: subgroup health outcomes and exposure controls that override communal-care reputation; explicit pooled catastrophic-health reserve rules with current-status and audit limits; planned fission with a scale trigger, fair member and asset division, independent successor finances, and mother-colony parity review; and the final journal-volume dangerous-child bounded null.
 - The standalone pass adds: an explicit-separation-authority failure paired with a response-repertoire table; one role-specific childcare gate during provisional admission; a traditional-society example separating productive skill from allocation authority; a traditional-society conflict ladder spanning interruption, cooling, fission, and outside court; an internally graduated Amish discipline and reintegration process with a documented capture weakness; and the bounded standalone dangerous-child null.
 - The adjacent child-response pilot adds three bounded contrasts: family-style residential gains that did not remain statistically significant one year after exit; setting-level residential reductions in some but not all incident categories; and randomized child-plus-caregiver improvements during a period that included continuing individualized services. None is an intentional-community case or a validated danger screen.
+- The assessment/review unit adds a professional process boundary: developmentally informed assessment, safeguarding, de-escalation, least-restrictive lawful action, immediate debrief, external review, plan correction, and governing oversight are separate functions. SAVRY and START:AV findings show group-level and outcome-specific predictive value with material error, reliability, history, and implementation limits. A staff debrief implementation reported learning and care-plan discussion but no significant reduction in behavioral-event rate or severity. None creates a lay danger screen or transfers clinical and statutory powers to a private community.
 - Existing evidence does **not** validate contribution, productivity, therapeutic fluency, long residence, cohesion, outward consensus, institutional survival, centralization, criminal history, poverty, distress, nonconformity, whole-home compliance, or an administrator's suitability label as safety proxies.
 - Existing child-related evidence concerns exit capacity, peer-group power, education, medical neglect, unequal schooling, dissent rights, custody and contact conflict, broad adult punishment authority, collective childrearing, age-ordered adult sexual authority, non-inherited adult membership, punishment-centered compliance, and system-level safeguarding rules. It still does not answer how a community handled a child who remained gravely dangerous despite ordinary care and accountability.
 - The strongest process contrast remains internal versus independent correction. Consultation, mediation, or settlement can be useful, but they do not substitute for independent evidence review, victim support, offender accountability, appeal, and outcome follow-up.
@@ -43,7 +45,7 @@ Updated: 2026-08-15 (Africa/Dakar)
 ## Resume procedure
 
 1. Do not repeat volumes 1-45 or the eight standalone sources; the assigned primary corpus is complete.
-2. Continue with Unit B in the adjacent-source roadmap; stop after one current authoritative practice guideline, two prospective structured-professional-judgment validation studies, and one primary implementation study.
+2. Continue with Unit C in the adjacent-source roadmap; stop after four primary comparative studies on durable treatment and transition, keeping family/community and residential/group-care lanes separate.
 3. Preserve the existing discovery, process-screening, close-read, disposition, ledger, gap-reconciliation, and verification sequence.
 4. Keep traditional-society, clinical, legal, and intentional-community evidence separate until a transfer argument is made.
 5. Add findings only for materially distinct evidence; corroboration and theory receive explicit non-promotion dispositions.
