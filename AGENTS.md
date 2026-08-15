@@ -14,8 +14,8 @@ This repository is P0 research unless the owner explicitly authorizes article ed
 
 For an active checkpoint branch:
 
-- Regression suite: `python recovered/test_adjacent_assessment_review_workflow.py` (or the current bounded-unit successor)
-- Full source verification: `python recovered/verify_adjacent_assessment_review.py`; run source-dependent predecessor checks only when their exact local corpora are restored
+- Regression suite: `python recovered/test_adjacent_durable_transition_workflow.py` (or the current bounded-unit successor)
+- Full source verification: `python recovered/verify_adjacent_durable_transition.py`; run source-dependent predecessor checks only when their exact local corpora are restored
 - Syntax: `python -m compileall recovered`
 - Patch hygiene: `git diff --check`
 

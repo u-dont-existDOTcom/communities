@@ -74,6 +74,15 @@ Questions:
 
 Stop after four studies or when two independent high-quality studies converge on the same transfer limit.
 
+Selected sources:
+
+- Sawyer and Borduin (2011), 21.9-year MST follow-up, DOI 10.1037/a0024862.
+- Olseth, Høstmælingen, and Bjørnebekk (2026), Norwegian FFT registry effectiveness trial, DOI 10.1007/s11292-026-09736-6.
+- Chamberlain, Leve, and DeGarmo (2007), treatment foster care versus group care at 24 months, DOI 10.1037/0022-006X.75.1.187.
+- Lardén, Högström, and Långström (2021), residential iCBT add-on with 24-month post-release follow-up, DOI 10.3389/fpsyt.2021.670957.
+
+Status: completed in `COMMUNITIES-ADJACENT-DURABLE-TRANSITION-REPORT.md`. The two family/community and two residential/group-care studies remain separate; the exact next boundary is Unit D.
+
 ### Unit D — official correction records for communal child safeguarding
 
 Boundary: three official inquiry, court, licensing, or regulator records selected from existing F-status leads, with at least two sources per case where the official record itself is contested.
