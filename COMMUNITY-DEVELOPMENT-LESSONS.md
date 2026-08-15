@@ -77,12 +77,14 @@ Communities sometimes live-pilot new governance systems. A safer intermediate pa
 Use only cases appropriate for duplicate review; sensitive personal/safety cases may be unsuitable. Shadow agreement does not prove legitimacy or live behavior.
 
 ## L011 — Test dependencies, not just succession documents
-**Status:** TAIL-PROVISIONAL  
-**Creative Tail:** C010
+**Status:** PRACTICAL / KNOWN  
+**Creative Tail:** former C010, demoted in Batch 18
 
-Borrow fault-injection/continuity-testing logic: under bounded conditions, deliberately simulate or safely induce loss of a key person, account, permission, facilitator, communication channel, supplier, vehicle, or record store and observe what actually fails.
+Continuity engineering already treats an unexercised backup plan as unproven. Intentional communities may nevertheless underuse this practice. Under bounded conditions, simulate or safely induce loss of a key person, account, permission, facilitator, communication channel, supplier, vehicle, or record store and observe what actually fails.
 
 Examples: founder unavailable for one governance cycle; treasurer unavailable; ordinary facilitator absent; internet/phone unavailable; key supplier/vehicle unavailable. For health, children, housing, medication, legal rights, or other high-stakes necessities, use tabletop/sandbox simulation rather than live failure injection.
+
+**Why retained here:** the idea failed the Creative Tail originality test because continuity exercises already own the mechanism, but it still plausibly improves communal practice.
 
 ---
 
@@ -186,6 +188,8 @@ A movement can have many daughters because most mature parents reproduce or beca
 
 The Manitoba Schmiedeleut reconstruction was broad-based; Batch 17 replicated the same qualitative pattern in standardized mature Lehrerleut and Dariusleut cohorts. In the Dariusleut 1918–1953 cohort, every listed mature parent had at least one daughter by the 1973 cutoff; Lehrerleut `P(K=0)` was ~3.45%. Historical-source caveats apply.
 
+Batch 18 found only aggregate non-Hutterite comparators, not a parent-resolved dataset. U.S. church-planting research reports much lower fractions producing daughters over shorter windows, which is suggestive but **not quantitatively comparable** to the >=20-year Hutterite cohorts.
+
 **Operational shorthand: make reproduction boring.** Daughter formation should become an ordinary lifecycle event for the median competent community, not an exceptional accomplishment by a few charismatic founders.
 
 ## L028 — Choose the sampling unit before comparing community success
@@ -255,6 +259,24 @@ A mediation, expulsion, conviction, regulator decision, court result, claim paym
 
 When consequence latency is longer than reform cadence, groups can thrash between governance changes without learning what any one change did. Define expected feedback horizons and avoid overlapping reforms when causal attribution matters.
 
+## L040 — Test constitutional invariants even when nobody knows the “right answer”
+**Status:** TAIL-PROVISIONAL  
+**Creative Tail:** C012
+
+A difficult case may have no agreed ground-truth answer, but the community may still claim certain **relations** must hold. Test those relations with minimally altered paired cases.
+
+Examples:
+
+- if founder/newcomer status is irrelevant to a property right, swap only that status and test whether treatment changes;
+- if faction identity is irrelevant, swap it while holding the material facts fixed;
+- if two parties are normatively equivalent, swapping them should swap treatment symmetrically;
+- if stronger admissible evidence of the same relevant kind is added, a response that should be monotonic should not inexplicably weaken;
+- if jurisdiction is subject-matter based, changing who proposes an action should not change the competent body.
+
+**Protocol:** state the expected relation before seeing results; build paired past/hypothetical cases; randomize/blind where feasible; process independently; compare decisions **and reasons**; diagnose failed invariants; preserve informative pairs as regression tests.
+
+This does **not** prove which answer is morally correct. It detects hidden decision rules, inconsistent application, or an ambiguity in what the community actually regards as relevant. Do not treat real structural differences as irrelevant merely to force superficial symmetry.
+
 ---
 
 # Near-term experiments
@@ -278,10 +300,13 @@ Give daughters the current handbook **plus** failed policies, decision history, 
 Publish distinct success dimensions and later leaver/child/successor outcomes where feasible.
 
 ### E7 — Governance dependency drill
-Choose one bounded dependency per quarter/year, predict the fallback, simulate its loss, record unexpected failures, repair, and rerun. Use tabletop rather than live injection when rights/safety/necessities could be harmed.
+Choose one bounded dependency per quarter/year, predict the fallback, simulate its loss, record unexpected failures, repair, and rerun. Use tabletop rather than live injection when rights/safety/necessities could be harmed. **This is retained as known continuity practice, not a Creative Tail novelty claim.**
 
 ### E8 — Shadow governance comparison
 Before a major governance switch, run the proposed process nonbinding on an appropriate subset of the same decisions, examine divergence cases, then decide whether a live pilot is justified.
+
+### E9 — Constitutional metamorphic test
+Choose 5–10 archived or hypothetical cases and define one claimed invariance/symmetry/monotonicity for each. Create minimally transformed paired versions, randomize order/identity where possible, process them independently, and audit any decision/reasoning changes that violate the predeclared relation.
 
 ---
 
