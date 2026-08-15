@@ -128,9 +128,9 @@ When most relationships specialize, romantic partners can become the remaining l
 
 ## L041 — Pool applicant markets across a federation when individual communities are too thin
 **Status:** TAIL-PROVISIONAL + PRACTICAL  
-**Creative Tail:** C013
+**Creative Tail:** C013, narrowed Batch 20
 
-Matching markets are well studied and Israel's Mechinot residential-program network is a strong adjacent precedent. What appears underused in intentional-community networks is a true **two-sided coordinated clearing process** across multiple autonomous communities rather than only directories, classifieds, profiles, and local waitlists.
+Matching markets are well studied, and historical kibbutz practice already included movement-level centralized applicant screening. The potentially underused element is therefore **not** centralized recruitment or screening. It is reciprocal preference clearing across autonomous communities **after** enough exploration has occurred to reveal actual preferences.
 
 **Operational lesson:** a federation can make the movement-wide applicant market thicker without forcing one commune to wait for a large batch.
 
@@ -166,16 +166,23 @@ Guarantee age-appropriate food, sleep, healthcare, education, privacy, bodily sa
 Separate observable conduct, evidence, situational risk, role-specific restrictions, and qualified assessment from claims about a person’s stable moral essence.
 
 ## L042 — Estimate reporting-system blind spots across communities, not “hidden guilty people”
-**Status:** TAIL-PROVISIONAL + RESEARCH-CONTROL  
-**Creative Tail:** C014
+**Status:** PRACTICAL / KNOWN + RESEARCH-CONTROL  
+**Creative Tail:** former C014, demoted Batch 20
 
-Capture–recapture / Multiple Systems Estimation is established statistics, public-health, trafficking, and human-rights methodology. Its possible communal value is **federation-scale surveillance auditing**, not individual adjudication.
+Capture–recapture / Multiple Systems Estimation is established methodology and has already been applied directly to family violence and child abuse using multiple organizations. It therefore fails the Creative Tail originality bar. It may still improve a **federation-scale research/surveillance system**, not individual adjudication.
 
 If one narrowly defined harmful outcome appears in several distinct channels—internal complaints, independent/federation reports, confidential exit interviews, lawful safeguarding/care records, anonymous follow-up, relevant external records—the pattern of overlap can help assess how incomplete known-case counts may be.
 
 **Hard limits:** source referrals/dependence, heterogeneous reporting probabilities, small samples, inconsistent case definitions, record-linkage uncertainty, model sensitivity, privacy, and deductive disclosure can make estimates misleading. A small commune usually cannot support this analysis credibly.
 
 Use only to improve reporting/surveillance systems and generate hypotheses. Never infer that a modeled unseen case belongs to a particular person, and never use a population estimate as evidence for sanction.
+
+## L052 — Do not punish communities for detecting and reporting more problems
+**Status:** PRACTICAL / KNOWN
+
+Raw incident/complaint counts mix at least two variables: underlying harm and ascertainment/reporting quality. A community with better reporting can look worse than one where the same harm stays invisible, creating a perverse incentive to suppress disclosure.
+
+**Operational lesson:** never rank community safety from raw known-case counts alone. Track reporting access, independent channels, survey/exit evidence, resolution quality, repeat incidents, and later outcomes. Where possible, distinguish improvement in detection from deterioration in underlying conditions.
 
 ---
 
@@ -233,6 +240,13 @@ Aggregate church-planting evidence suggests organizational reproduction is far l
 
 Prolific lineages mechanically contribute more descendants to present-day samples. State whether the estimand is a random founding attempt/root, lineage, extant community, current resident, or future movement contribution. Do not silently switch units.
 
+## L047 — Treat related daughter communities as lineage-correlated observations
+**Status:** RESEARCH-CONTROL / KNOWN
+
+Cultural phylogenetic methods already address this as `Galton's problem`: societies sharing ancestry are not independent observations. As community genealogies become available, record parentage and avoid counting ten closely related daughters as ten independent confirmations of a design feature.
+
+**Operational lesson:** use lineage-aware multilevel/phylogenetic comparisons where appropriate, and record horizontal borrowing too—community cultures do not always form clean trees.
+
 ## L029 — Treat teachability/adaptation as separate movement-success dimensions
 **Status:** EVIDENCE-SUPPORTED + SYNTHESIS  
 **Related:** F-189; F-193–F-198
@@ -275,6 +289,20 @@ If only canonical daughter forms inherit land, tools, treasury, reputation, or c
 
 Staff rotation, secondment, and boundary-spanner research already owns this mechanism. It may nevertheless be useful for community movements: temporarily move experienced members into daughters or struggling sister communities to transfer routines that manuals cannot carry, then return/rotate rather than permanently draining the parent. Track whether the recipient becomes independently capable rather than dependent on itinerant experts.
 
+## L049 — Do not infer that every trait in a successful lineage caused its success
+**Status:** PRACTICAL / KNOWN
+
+Cultural-evolution research directly models **cultural hitchhiking**: neutral or detrimental traits can spread because they are transmitted as part of a successful package containing genuinely adaptive traits.
+
+**Operational lesson:** Hutterite, Zapatista, kibbutz, commune, religious, or other movement success does not validate every distinctive inherited practice. Treat the package as causally unresolved. Use naturally divergent daughters, historical changes, safe ablations, recombinations, or other comparative evidence to separate load-bearing practices from hitchhikers before copying restrictive or costly features.
+
+## L053 — Preserve harmless institutional variation unless standardization has a demonstrated gain
+**Status:** PRACTICAL / KNOWN
+
+Organizational-evolution research already shows that neutral variation can contribute to later evolvability. A federation should not automatically eliminate two equally successful local variants merely because one can be standardized movement-wide.
+
+Preserve variation when it is safe and inexpensive enough to maintain, while standardizing genuinely load-bearing interoperability, rights, safety, accounting, or other functions where divergence imposes clear costs.
+
 ---
 
 # F. Evaluation and institutional learning
@@ -307,6 +335,15 @@ Paired identity-swap testing is already a standard discrimination/audit method a
 
 This does not prove which answer is morally correct. It detects hidden decision rules, inconsistent application, or ambiguity in what the community actually regards as relevant. Do not treat real structural differences as irrelevant merely to force superficial symmetry.
 
+## L050 — Hold back some cases when writing rules so the constitution is not tuned only to its own history
+**Status:** PRACTICAL / KNOWN
+
+A 2026 legal-overfitting paper directly proposes ML-style holdout cases and regularization in precedential reasoning, so this is not a Creative Tail finding. It remains a useful communal design discipline.
+
+When enough archived or hypothetical cases exist, formulate a rule using only part of the case bank, then test it on cases deliberately withheld from the drafting debate. Prefer a simpler rule when extra exceptions improve fit to the drafting cases but fail to improve genuinely unseen cases.
+
+**Caution:** small communities rarely have enough observations for literal statistical cross-validation. The point is to preserve some out-of-sample discipline, not to manufacture fake precision. Once a holdout case is repeatedly used to tune the rule, it is no longer a holdout.
+
 ## L044 — Separate evidence-content assessment from source/status effects when feasible
 **Status:** PRACTICAL / KNOWN
 
@@ -316,6 +353,20 @@ For selected decisions, first assess the substance of a claim or proposal withou
 **Status:** RESEARCH-CONTROL / KNOWN
 
 When one community changes a rule, compare later outcomes with similar communities that did not make the same change, while documenting pre-existing differences. This does not create a randomized trial, but it is generally stronger than interpreting one community's before/after story in isolation. Where enough communities exist, use explicit comparative or quasi-experimental designs rather than anecdotal benchmarking.
+
+## L048 — Sister-daughter comparisons are especially useful, but fission self-sorting can defeat the control
+**Status:** RESEARCH-CONTROL / KNOWN
+
+Two daughter communities from the same parent share more history than two unrelated communes, so divergence after fission can sometimes create a strong matched comparison. But members often choose sides during the split. If the people selecting into daughter A versus B already differ on the trait later linked to outcomes, the comparison is confounded.
+
+Prefer sibling-daughter comparisons where the divergence came from an external/legal/resource event or another plausibly exogenous difference. Never describe a factional fission as randomized merely because the daughters share a parent.
+
+## L051 — Pool rare failures and near misses across the federation
+**Status:** PRACTICAL / KNOWN
+
+One community may operate for decades without seeing enough rare failures to learn their pattern. A federation can accumulate de-identified or appropriately governed incident and near-miss reports across communities, preserve the failure mechanism and mitigation, and update shared tests/checklists so daughters do not rediscover the same problem independently.
+
+The model is established high-reliability/safety learning, not a novel communal theory. Preserve local context so the shared library does not turn one unusual event into a universal rule.
 
 ---
 
@@ -352,10 +403,25 @@ Choose 5–10 archived or hypothetical cases and define one claimed invariance/s
 Recruit several autonomous communities with real vacancies and willing seekers. Run one or two synchronized exploration windows. Measure viable mutual matches identified, unmatched compatible pairs, time-to-commitment, applicant/community satisfaction, six-/twelve-month retention, and whether any C009 cohort interaction changed a decision. Compare with ordinary directory/search intake where possible.
 
 ### E11 — Federation reporting-completeness audit
-Choose one narrow, ethically appropriate outcome definition. Across multiple communities/years, map overlap among two or more reporting/outcome channels. Before fitting any hidden-population model, test case-definition consistency, referrals/source dependence, sample size, privacy, and linkage feasibility. If assumptions are weak, stop at descriptive overlap rather than forcing a population estimate.
+Choose one narrow, ethically appropriate outcome definition. Across multiple communities/years, map overlap among two or more reporting/outcome channels. Before fitting any hidden-population model, test case-definition consistency, referrals/source dependence, sample size, privacy, and linkage feasibility. If assumptions are weak, stop at descriptive overlap rather than forcing a population estimate. **Known methodology; retained for practical value only.**
 
 ### E12 — Cross-community policy comparison
 When several sister communities are willing, stagger or naturally compare a specific governance/operational change and predeclare a small set of outcomes and feedback horizons. Preserve differences and failures, not only favorable examples.
+
+### E13 — Lineage-aware comparative audit
+For any multi-community dataset, attach parent/lineage identifiers and rerun key associations with lineage-level clustering or another appropriate shared-ancestry control. Check whether the apparent pattern was carried mainly by one prolific lineage. Record major cross-lineage borrowing that makes a tree model misleading.
+
+### E14 — Sister-daughter natural experiment bank
+Identify sibling daughter communities that later diverged on governance, property, schooling, relationship norms, production, or external integration. For each pair, document member sorting at fission, pre-split differences, external shocks, and later outcomes before deciding whether the comparison is causally useful.
+
+### E15 — Hitchhiker/ablation audit
+For a highly successful communal lineage, list distinctive inherited practices and mark which have direct evidence of causal contribution versus mere co-transmission. Prioritize naturally occurring daughter variants or historical removals that let the research center test whether costly/restrictive practices can disappear without damaging the valued outcomes.
+
+### E16 — Constitutional holdout test
+When revising a rule from an existing case bank, reserve a small set of appropriate cases before drafting. After the rule is written, test whether it handles the holdouts coherently without adding ad hoc exceptions. Then retire those cases from holdout status if they become part of the next revision cycle.
+
+### E17 — Federation near-miss library
+Create a standardized low-burden record for serious near misses and unusual failures: context, mechanism, detection route, consequences avoided/incurred, mitigation, and whether the lesson generalized elsewhere. Review periodically for repeated mechanisms rather than raw event counts.
 
 ---
 
