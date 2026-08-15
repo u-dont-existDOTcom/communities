@@ -4,14 +4,14 @@ This repository preserves the reusable workflow and derived checkpoints for a so
 
 ## Current checkpoint
 
-- Volumes **1-44** complete
-- **969** journal PDFs triaged
-- **432** relevant or contextual close reads
-- **158** evidence findings (`F-001` through `F-158`)
+- Volumes **1-45** complete
+- **984** journal PDFs triaged
+- **443** relevant or contextual close reads
+- **168** evidence findings (`F-001` through `F-168`)
 - **18** reconciled article gaps: 8 partially present, 7 apparently missing, and 3 challenges
-- Next unit: **volume 45, 15 PDFs** (all in issue 1)
+- Primary assigned corpus: **complete, 984 journal PDFs plus 8 standalone sources**
 
-The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-V44-RESEARCH-REPORT.md`](recovered/COMMUNITIES-V44-RESEARCH-REPORT.md).
+The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recovered/COMMUNITIES-RESEARCH-STATE.md). The latest source-level account is [`recovered/COMMUNITIES-STANDALONE-RESEARCH-REPORT.md`](recovered/COMMUNITIES-STANDALONE-RESEARCH-REPORT.md).
 
 ## Repository layout
 
@@ -25,14 +25,14 @@ The authoritative handoff is [`recovered/COMMUNITIES-RESEARCH-STATE.md`](recover
 
 ## Verification
 
-With the exact local source corpus restored beneath `recovered/corpus-v44/`, run:
+With the exact local source corpora restored beneath `recovered/corpus-v45/` and `recovered/corpus-standalone/`, run:
 
 ```bash
-python recovered/test_v44_workflow.py
-python recovered/verify_v44.py
+python recovered/test_standalone_workflow.py
+python recovered/verify_standalone.py
 ```
 
-The verifier checks all 33 PDF hashes, page counts, and text extractions, inventory dispositions, sequential finding IDs, gap references, report coverage, cumulative counts, byte-for-byte preservation of the shared archive row, and the volume-45 boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
+The verifier checks all eight standalone source sizes and hashes, seven PDF page counts, EPUB integrity, nonempty extracted text, inventory dispositions, sequential finding IDs, gap references, discovery coverage, report coverage, cumulative counts, preservation of all non-standalone inventory rows, and completion of the 984-journal-plus-8-standalone boundary. Source PDFs, ZIP containers, extracted full text, keyword contexts, and child-proximity contexts are intentionally excluded from Git.
 
 ## Evidence rules
 
@@ -42,3 +42,4 @@ The verifier checks all 33 PDF hashes, page counts, and text extractions, invent
 - Keep the dangerous-child branch bounded: a null within processed sources is not a claim of historical absence.
 - Do not diagnose historical actors from conduct descriptions.
 - Do not convert historical punishment, banishment, institutionalization, or state custody directly into modern recommendations.
+

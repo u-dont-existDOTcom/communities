@@ -14,8 +14,8 @@ This repository is P0 research unless the owner explicitly authorizes article ed
 
 For an active checkpoint branch:
 
-- Regression suite: `python recovered/test_v44_workflow.py` (or the current volume-specific successor)
-- Full source verification: `python recovered/verify_v44.py` with the exact local corpus restored
+- Regression suite: `python recovered/test_standalone_workflow.py` (or the current volume-specific successor)
+- Full source verification: `python recovered/verify_standalone.py` with the exact local corpus restored
 - Syntax: `python -m compileall recovered`
 - Patch hygiene: `git diff --check`
 
@@ -42,3 +42,4 @@ Do not commit copyrighted PDFs, extracted full text, private Drive identifiers, 
 - Do not diagnose historical actors or convert historical punishment, banishment, institutionalization, or custody directly into modern recommendations.
 
 Treat chat as disposable working memory. A fresh worker must recover the exact checkpoint and next boundary from Git.
+
