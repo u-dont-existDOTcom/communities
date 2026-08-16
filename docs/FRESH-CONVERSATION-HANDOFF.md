@@ -1,180 +1,203 @@
 # Fresh-conversation handoff: intentional-communities research
 
-Generated: 2026-08-15 (Africa/Dakar)
+Updated: 2026-08-16 12:40 UTC
 
-Use this file to recover the project in a new conversation without reconstructing it from chat history. The GitHub repository is the durable authority; this handoff is an orientation layer, not a substitute for the ledgers and reports.
+## First instruction
 
-## Opening directive for the fresh worker
+The **cross-repo Creative Tail handoff is now the primary continuation packet**:
 
-Continue Joel Rosenblum's intentional-communities research from the completed checkpoint in `u-dont-existDOTcom/communities`. Do not repeat the *Communal Societies* review, the eight-source standalone pass, the five adjacent-source units, the autonomy/legal-pluralism correction, or the Escuelita descendant audit. Read the authoritative files below, preserve the user's arguments without silently weakening them, and execute the new request as the next bounded unit. Do not edit the published article unless Joel explicitly authorizes an editorial phase.
+`u-dont-existDOTcom/creativeTailSampling/docs/FRESH-CONVERSATION-HANDOFF.md`
 
-## Durable location
+Read that first, then use this file plus `docs/COMMUNITIES-WORKFLOW-ARCHITECTURE.md` for the communities-specific authority map.
 
-- Repository: `https://github.com/u-dont-existDOTcom/communities`
-- Working branch: `agent/final-research-synthesis`
-- Draft pull request: `https://github.com/u-dont-existDOTcom/communities/pull/10`
-- PR base: `agent/adjacent-fair-separation` (stacked on PR #9)
-- Resolve the current branch head at the start of a new session. Do not rely on a SHA copied from an old conversation because other bounded research and practical-lessons batches may have advanced the branch.
-- Copyrighted PDFs, EPUBs, source ZIPs, extracted full text, private Drive identifiers, and browser/session data are intentionally outside Git.
+The older 2026-08-15 statement that there was no active research lane is superseded. A bounded **post-corpus Creative Tail / article-gap lane is active** and has already produced G-021 through G-025.
 
-## Owner's project and argument
+GitHub remains authoritative; resolve current heads at the start of every fresh conversation.
 
-The published article is *Building Healing Community “Escuelitas” to Save the World*. It asks why communities fail and proposes a four-domain pl/ork/container model plus an Escuelita-style replication strategy. `pl/ork` means play plus work and is Joel's replacement for “inner work” when discussing therapy.
+---
 
-Joel's thesis must be stated as his thesis, not softened into a generic claim: **communal living is a return to our evolved ancestral pattern; large societies breed anomie and capture by psychopaths.** Empirical statements offered in support of that thesis still require evidence, and contrary or limiting evidence must remain visible.
+## Current durable checkpoint
 
-The mission is not merely to make one pleasant or durable settlement. It is to help save people from social sickness and spread better ways to live and love. Success therefore includes:
+Repository: `u-dont-existDOTcom/communities`
 
-1. whether a community is safe and humane for people living there;
-2. whether children are happier and better protected than outside it;
-3. whether members retain autonomy, dissent, remedy, and usable exit;
-4. whether the material system remains viable;
-5. whether the community can teach and reproduce rather than remain a rare flagship;
-6. whether daughter communities or adaptations themselves persist and reproduce; and
-7. whether later human outcomes confirm the success story.
+Current branch at this checkpoint:
+- `agent/final-research-synthesis`
+- head `6cac77aa606fd4fef157c45a37c1385be300ab48`
 
-Joel treats the Zapatistas as the leading positive example because he regards them as unusually successful and unusually likely to generate worldwide communal innovation. The original design commitment is Escuelita-like: invite outsiders to live inside communities and learn autonomy through participation, not merely recruit permanent residents. Learners may then leave, adapt what they learned, and begin another experiment.
+Completed foundational research remains unchanged:
+- *Communal Societies* volumes 1–45 complete;
+- 984 journal PDFs triaged;
+- eight standalone substantive sources complete;
+- 198 promoted findings, F-001 through F-198;
+- final horizontal synthesis complete;
+- five adjacent units complete;
+- autonomy/legal-pluralism correction complete;
+- Escuelita descendant audit complete;
+- original article-gap bank G-001 through G-020 complete.
 
-Relevant biographical anchors are that Joel grew up visiting intentional communities with his father, lived with the Love Israel community from 1999 through 2001, and visited the Zapatista caracol at Oventik in 2005. These are context, not independent evidence for empirical claims.
+Do **not** reopen or repeat those programs without a specific falsification/retrieval reason.
 
-## Interaction and editorial constraints
+Post-corpus work now extends through:
+- `COMMUNITY-DEVELOPMENT-LESSONS-TAIL-BATCH-62.md`
+- `COMMUNITY-DEVELOPMENT-LESSONS-TAIL-BATCH-63.md`
+- `COMMUNITY-DEVELOPMENT-LESSONS-TAIL-BATCH-64.md`
+- `recovered/COMMUNITIES-ARTICLE-GAP-ADDENDUM-2026-08-16.md`
 
-- Continue through routine next steps without asking for approval. Stop only for a genuinely consequential choice, missing authority, or missing information that changes the result.
-- Save reusable research architecture, state, and validation in GitHub so chat is disposable.
-- For long deliverables, provide downloadable files or a ZIP rather than a long HTML preview.
-- Never silently weaken, redirect, or replace Joel's argument. If evidence conflicts with it, state the conflict directly and preserve both the owner's claim and the evidentiary result.
-- Keep research, article implications, and article prose distinct. The current repository mode is P0 research only.
-- If article editing is later authorized, use the article-gap bank as the change specification, the final synthesis as the comprehension layer, and the evidence ledger for claim provenance. Do not infer the article's native links, embeds, headings, or media from the PDF comparator.
+The temporary addendum contains G-021–G-025 and must eventually be reconciled into the main gap bank rather than becoming a second permanent authority.
 
-## Completed checkpoint
+---
 
-- *Communal Societies* volumes 1–45 are complete.
-- 984 journal PDFs were triaged: 443 relevant/contextual close reads, 207 title/keyword triages, and 334 metadata triages.
-- Eight of eight standalone substantive sources were recovered, verified, and dispositioned.
-- The cumulative evidence ledger contains 198 findings, F-001 through F-198.
-- The crosswalk maps all 198 findings across 13 themes and synthesis claims S-01 through S-18.
-- The adjacent-source inventory contains 47 records.
-- The article-gap bank contains 20 reconciled items: 9 B, 7 C, and 4 D.
-- Three findings do not appear in article-facing gap rows but are included in the synthesis: F-027, F-030, and F-032.
-- The five-unit adjacent roadmap is complete: child response; assessment/review; durable treatment/transition; official correction; and fair separation/pooled risk/planned fission.
-- The autonomy/legal-pluralism correction is complete: LP-001 through LP-009 and F-187 through F-192.
-- The Escuelita descendant audit is complete: ES-001 through ES-018 and F-193 through F-198.
-- No published article prose has been revised in this research phase.
-- A public-facing transparency report now exists at `docs/PUBLIC-RESEARCH-REPORT.md`, with a research-only future appendix-link handoff at `docs/ARTICLE-APPENDIX-RESEARCH-LINK.md`. These are derivative research artifacts, not article edits.
+## Current authoritative read order
 
-## What the research currently says
-
-### Recurring failure mechanism
-
-Across otherwise different communities, a legitimate authority in one domain often becomes unreviewable control over other domains. The same person or faction can control records, remedies, assets, work, care, family contact, membership, and the public narrative. Expensive exit and captured evidence channels can then turn cohesion, longevity, or survival into false success signals.
-
-The model-assisted counterdesign is bounded and replaceable authority, direct rights, independent intake and review, preserved evidence, recusal, usable exit and fission, and later human-outcome measurement. No single source validates that complete package.
-
-### State and legal-system correction
-
-The evidence falsifies the equation `independent correction = outside the community = nation-state`.
-
-The strongest contrast is implicated authority versus competent non-self-review. The relevant layer may be a neighboring community, autonomous municipality, regional Indigenous council, movement federation, professional body, public agency, court, state, or international forum. Use the lowest competent layer that is not reviewing itself, has sufficient scale and enforceability, preserves direct rights and bypass routes, and is itself accountable.
-
-Zapatista autonomy, Cherán's hybrid order, CRAC-PC's regional federation, and UNDRIP's rights boundary must not be collapsed into a generic voluntary-community exemption. Indigenous territorial and juridical authority is its own evidence lane.
-
-### Escuelita outcome
-
-Some Escuelita seeds demonstrably sprouted, primarily as alumni relations, solidarity circuits, political education, and reported practice transfer.
-
-Use the six-level lineage ladder:
-
-1. encounter;
-2. continued alumni relation;
-3. practice transfer;
-4. new organization;
-5. durable shared-life or governing institution; and
-6. measured human outcomes.
-
-Evidence reaches levels 2 and 3 strongly. **Espacio de Coordinación Grietas en el Muro** is the strongest level-4 candidate: a 2016 record explicitly includes Escuelita students in the mixed group creating an alternate CompArte site, and the named coordination space remains publicly visible through a 2024 CNI signatory record.
-
-Do not promote that result into a replicated Zapatista municipality or residential commune. Its lineage is mixed, internal governance is not documented, and human outcomes are unmeasured. A named former student, Levi Gahman, supplies an individual participation-to-organizing trace but not a cohort-level causal result.
-
-Pre-2013 controls are essential. Activists taking Zapatismo home, Casa del Pueblo, and Universidad de la Tierra Califas predate the Escuelita. Later resemblance can represent older roots, reinforcement, or grafting rather than descent from the 2013–2014 school.
-
-The bounded search found no public alumni registry, longitudinal cohort, counted adoption or failure rate, directly descended residential commune or autonomous federation, or safety, child-wellbeing, autonomy, retention, material-viability, and relational-outcome panel. This is a limit of the located public evidence, not proof that no descendants exist.
-
-The defensible conclusion is that Zapatismo is strongly supported as a **movement school and network generator**. The stronger claim that the Escuelita is a verified commune-replication engine remains unproven.
-
-### Persistently dangerous children
-
-The primary intentional-community and standalone searches did not locate a complete case sequence for a child who remained gravely dangerous despite ordinary care and accountability: allegation or conduct record, assessment, intervention, review, and later outcome.
-
-Adjacent child and youth evidence supplies professional process and outcome contrasts, not an internal intentional-community solution and not a lay danger screen. Keep the result as a bounded null. Do not infer that communities never faced such children, and do not convert tribal killing, abandonment, banishment, armed policing, institutionalization, or state custody directly into a modern prescription.
-
-Joel does not want difficult cases reflexively outsourced to the state. Research autonomous, federated, neighboring-community, professional, public, and state capacities by function rather than assuming either local monopoly or state monopoly. That owner preference is not evidence that every necessary function can already be performed internally.
-
-## Evidence and transfer rules
-
-1. Keep source fact, author interpretation, reviewer report, alternative interpretation, process, outcome, and transferability separate.
-2. Promote only materially distinct evidence. Corroboration and theory receive explicit non-promotion dispositions.
-3. Search scores determine reading priority, never evidence strength.
-4. Keep intentional-community, traditional-society, Indigenous autonomous-governance, clinical, professional, public, and state/legal evidence in separate lanes until a transfer argument is made.
-5. Do not diagnose historical actors with ASPD or psychopathy unless an appropriate clinical source does so; describe conduct and mechanisms.
-6. Do not treat contribution, charisma, productivity, therapeutic fluency, cohesion, long residence, criminal history, poverty, distress, nonconformity, whole-home compliance, or an administrator's suitability label as validated safety proxies.
-7. Distinguish permission to exit from information, money, housing, transport, safety, family continuity, records, and portable benefits that make exit usable.
-8. Distinguish an institutional endpoint—expulsion, conviction, license removal, settlement, founder replacement, treatment completion, fission—from later human outcomes.
-9. Treat success as a non-nettable vector. Benefit in one dimension does not erase severe harm in another.
-10. For diffusion claims, credit only the highest demonstrated lineage level. Inspiration, alumni continuity, organization creation, communal replication, and measured success are different claims.
-
-## Authoritative read order
-
-Read these from the current branch, in order:
-
-1. `docs/FRESH-CONVERSATION-HANDOFF.md`
-2. `README.md`
-3. `recovered/COMMUNITIES-RESEARCH-STATE.md`
-4. `recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`
-5. `COMMUNITY-DEVELOPMENT-LESSONS.md`
-6. `recovered/COMMUNITIES-AUTONOMY-LEGAL-PLURALISM-REPORT.md`
-7. `recovered/COMMUNITIES-ESCUELITA-SEED-OUTCOMES-REPORT.md`
-8. `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
-9. `recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
+1. `u-dont-existDOTcom/creativeTailSampling/docs/FRESH-CONVERSATION-HANDOFF.md`
+2. this file
+3. `docs/COMMUNITIES-WORKFLOW-ARCHITECTURE.md`
+4. `recovered/COMMUNITIES-RESEARCH-STATE.md`
+5. `recovered/COMMUNITIES-FINAL-SYNTHESIS-REPORT.md`
+6. `recovered/COMMUNITIES-SYNTHESIS-CROSSWALK.csv`
+7. relevant rows in `recovered/COMMUNITIES-EVIDENCE-LEDGER.csv`
+8. `COMMUNITY-DEVELOPMENT-LESSONS.md`
+9. Batches 62–64
 10. `recovered/COMMUNITIES-ARTICLE-GAP-BANK.md`
-11. `recovered/COMMUNITIES-ADJACENT-SOURCE-INVENTORY.csv`
-12. the active updater, verifier, regression test, and relevant plan under `docs/superpowers/plans/`.
+11. `recovered/COMMUNITIES-ARTICLE-GAP-ADDENDUM-2026-08-16.md`
 
-The gap bank is not the complete findings report. The final synthesis is the comprehension layer; the crosswalk proves finding-level coverage; the ledger retains claim-level evidence and limits.
+The final synthesis is the comprehension layer; the ledger is source-level authority; the gap bank/addendum are article-facing change specifications; practical tail batches retain useful ideas even when originality fails.
 
-## Resume and update protocol
+---
 
-1. Resolve the current remote branch and inspect recent commits before writing; other work may have advanced the same branch.
-2. Read the state file and relevant unit report before opening new sources.
-3. For a new research question, define a bounded plan, evidence lanes, inclusion criteria, attribution controls, finding-promotion rule, and completion rule.
-4. Search or recover only what the bounded question requires. Do not reopen completed primary corpora without a specific falsification or retrieval reason.
-5. Update the unit source inventory and unit ledger first, then cumulative source inventory, evidence ledger, crosswalk, synthesis report, article-gap bank, operational lessons where applicable, state, README, and index.
-6. Supply an idempotent updater, repository-contained verifier, and regression test for every material unit.
-7. Run the updater twice, verifier, regression test, Python compilation, patch-hygiene check, forbidden-artifact scan, and exact Git-object comparison before claiming completion.
-8. Rebase or merge concurrent branch changes instead of overwriting them. Preserve unrelated work.
-9. Commit the architecture and findings to the existing draft PR unless Joel specifies another repository or branch.
-10. Give Joel a downloadable ZIP for a long handoff or report.
+## Owner thesis and constraints
 
-Current repository-contained checks:
+Preserve Joel's thesis as his thesis rather than silently weakening it: communal living is a return toward our evolved social pattern; large-scale society produces anomie and enables psychopathic/captured systems. Empirical support and contrary evidence remain separate from the thesis.
 
-```bash
-python recovered/test_escuelita_seed_outcomes_workflow.py
-python recovered/verify_escuelita_seed_outcomes.py
-python recovered/test_public_research_report_workflow.py
-python recovered/verify_public_research_report.py
-python -m compileall -q recovered
-git diff --check
-```
+The project is not just about one pleasant settlement. It seeks communities that are safe, humane, good for children, materially viable, autonomous without becoming uncorrectable, and capable of spreading better ways to live and love.
 
-Source-dependent predecessor checks require the exact private/local corpora recorded in the state file. Missing copyrighted sources must be reported as unavailable, never fabricated.
+Joel treats Zapatismo as the strongest positive reference case for autonomy plus outward teaching, while the research carefully distinguishes movement-school diffusion from demonstrated residential-community replication.
 
-## Current boundary and next request
+Interaction rules:
+- continue routine next steps automatically;
+- do not make Joel manually reject obvious ideas;
+- never silently soften his argument;
+- separate research from article prose;
+- current mode is P0 research unless Joel explicitly authorizes editing;
+- GitHub is durable state; chat is disposable working memory.
 
-The public transparency/report unit requested in the fresh-conversation packet is now complete. It adds no new findings and leaves the published article untouched.
+---
 
-The assigned corpus, final horizontal synthesis, five adjacent units, autonomy/legal-pluralism correction, and Escuelita descendant audit are complete. There is no silently authorized unfinished research lane.
+## Retrieval / originality gate now governing Creative Tail work
 
-When this packet accompanies a new user request, execute that request without repeating completed work. The evidence program itself has reached its research stop rule. The recommended next phase is **article integration plus claim-selective publication verification**: first select the gap-bank findings/examples that will actually be used, externally verify those load-bearing publication claims where the ledger requires it, and only then revise from an authoritative article source after Joel explicitly authorizes editing. This is source-hardening inside integration, not a new open-ended research lane.
+Retrieval Ensemble Round 001 in `creativeTailSampling` is complete.
 
-A new research phase remains appropriate only when Joel identifies a separate finite question whose answer could materially change a claim, design, or decision.
+Production rule:
+1. retrieval-free generation;
+2. hostile common-sense / user-familiarity veto;
+3. latest communities-corpus collision;
+4. mandatory Exa semantic collision attack;
+5. Parallel Search optional;
+6. mandatory Parallel Task deep attack before strict originality promotion;
+7. consequence/coherence/testability gate;
+8. promote only surviving residuals.
 
-Do not begin article revision merely because the evidence package is complete. Do not invent an unbounded “more research” pass.
+The benchmark found Exa caught 8/8 historical reject/narrow cases; routine Parallel Search added no recall over Exa; Parallel Task added materially useful evidence on all five deep escalations.
+
+A fresh ChatGPT conversation created **after** Exa/Parallel MCP registration should smoke-test actual MCP execution. Older chats may surface tool schemas yet remain execution-blocked. See:
+
+`u-dont-existDOTcom/universal-dev-architecture/patterns/chatgpt-developer-mcp-chat-lifecycle.md`
+
+Do not mistake `tool visible` for `tool executable`.
+
+Article gaps do not need to be novel theories, but any claim of Creative-Tail originality must pass the full external gate.
+
+---
+
+## Current post-corpus article gaps
+
+### G-021 — B — Institutional R&D before fission
+
+The article already owns forks and relational continuity. Missing residual: communities should often allow nested/nearby institutional experiments before incompatibility forces a full split.
+
+Useful gradient:
+`microexperiment → semi-autonomous project → nearby residential seed sharing infrastructure → independent sister community → distant branch only when needed`.
+
+Louisa/Twin Oaks–Acorn–Living Energy Farm–Mimosa is an empirical analogue, not proof of a single deliberate incubation protocol.
+
+### G-022 — C — Boundary egalitarianism
+
+Internal member equality can coexist with exported hierarchy among volunteers, employees, renters, guests, dependents, contractors, or sister-community workers.
+
+Core rule: **standing should follow exposure, not only membership**. Role-specific rights/voice should track the decisions materially affecting someone without automatically granting full host-community governance power.
+
+Target: **shared infrastructure without exported disenfranchisement**.
+
+### G-023 — C — Federation anti-starvation
+
+FEC records from 2024–2026 show a federation can become operationally absent while member communes remain viable: neglected paperwork, missing delegates, unattended calls, and local crises consuming attention.
+
+Article implication: federation maintenance needs reserved capacity, succession/backups, minimum-operating-state checks, and restart capability rather than leftover volunteer time.
+
+### G-024 — B — Modular critical federation services
+
+Critical shared functions should not necessarily all fail with the general federation layer. Consider bounded separate governance for pooled health, records, safeguarding, appeals, finance, etc.
+
+PEACH's independent governance is an architecture lead only; it is not established causal proof of resilience.
+
+### G-025 — C — Federation membership lifecycle / requalification
+
+FEC's `Re-forming Community` policy shows that community accreditation itself needs a lifecycle after major turnover, family-dominated remnants, or drift from defining institutional rules.
+
+Track separately:
+- people;
+- site/land;
+- legal entity/control;
+- governance/economic system;
+- mission;
+- federation accreditation.
+
+Material change should trigger review rather than automatic inheritance of federation trust.
+
+---
+
+## Exact next research lane
+
+Primary question:
+
+> What important failure modes or design requirements emerge only when multiple reasonably healthy communes share people, services, businesses, review, money, or infrastructure—and are missing or materially underdeveloped in Joel's article?
+
+Prefer **actual federation/cluster histories, failures, and adaptations** over abstract theory. The FEC reconstruction was more productive than generic brainstorming.
+
+Next actions:
+
+1. Start in a fresh post-MCP-registration chat and smoke-test Exa Search + Parallel Task execution.
+2. Resolve current GitHub heads.
+3. Continue the federation/experimental-ecology lane from G-025.
+4. Generate a broad candidate batch privately; aggressively eliminate anything reducible to common sense before showing Joel.
+5. Search the communities corpus before external retrieval.
+6. For tail-generated survivors, run Exa; if still eligible as strict originality, run Parallel Task before presenting/promoting the survivor.
+7. Prefer bounded empirical questions. Priority first source family: deeper FEC failure/rebuild history—shared enterprises, labor exchange, intercommunity obligations, switching/migration, mutual aid, disputes, and which federation functions actually survived.
+8. Compare another federation only when it resolves a specific mechanism raised by FEC/Louisa; do not start an unbounded federation literature survey.
+9. Continue article-gap numbering at G-026 in the temporary addendum.
+10. Stop this lane when a serious full pass produces no material new article gap.
+11. Then regenerate the main gap bank, fold in G-021+, retire the temporary addendum, and update the Mermaid map/state if needed.
+12. Article editing comes only after explicit authorization; then use the reconciled gap bank as the change specification and externally verify load-bearing publication claims selected for use.
+
+---
+
+## Do-not-repeat / rejection frontier
+
+Do not present these as discoveries:
+- generic `centralization can capture`;
+- generic free-rider/coordination-cost problems;
+- `have backups`;
+- `increment responsibility gradually`;
+- corrigibility / respond well to feedback;
+- `pilot before spending a lot`;
+- `preserve diversity / don't put all eggs in one basket`;
+- generic restorative-justice versus exclusion arguments;
+- generic social capital/multiplexity, specialization, bargaining power, survivorship, audits, matching, or privacy theory.
+
+If useful, these may remain practical background. They are not Creative-Tail survivors.
+
+---
+
+## Fresh-chat starter
+
+> Continue my intentional-community Creative Tail / article-gap research from `u-dont-existDOTcom/creativeTailSampling` and `u-dont-existDOTcom/communities`. Read `creativeTailSampling/docs/FRESH-CONVERSATION-HANDOFF.md` first, then follow the current communities read order and resolve all remote heads. This is a fresh post-registration chat, so smoke-test actual Exa Search and Parallel Task execution immediately. Continue from Batch 64 and article gaps G-021–G-025, focusing on federation/experimental-ecology failure modes that are genuinely missing from my article. Privately reject common-sense ideas before showing me anything. Use the communities corpus, mandatory Exa, and mandatory Parallel Task before presenting a strict Creative-Tail survivor. Save durable results to GitHub and continue automatically through routine next steps. Research only unless I explicitly authorize article editing.
