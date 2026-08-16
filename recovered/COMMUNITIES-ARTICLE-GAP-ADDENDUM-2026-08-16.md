@@ -118,6 +118,83 @@ Potential material-change triggers include major membership turnover, merger/fis
 
 **Evidence/status:** Post-corpus empirical gap from FEC `Re-forming Community` policy. Classification **C** because the individual-membership and succession roots are present, but federation-level requalification is not.
 
+---
+
+## Batch 65 evidence updates to G-023–G-025
+
+### G-023 update — federation dispute functions also starve without standing capacity
+
+A 2019 FEC/Commune Life account is a useful prehistory to the 2024 federation crisis. The FEC was described as a coordination network rather than a governing body, yet people repeatedly brought member-community harms and conflicts to it. The assembly discussed creating both a mediation/conflict team and a separate harm/abuse response team. The same account says commune workloads made it difficult for such initiatives to become durable without people who had the time and energy to carry them.
+
+An exact East Wind participant interview has also been located. The uploader's chaptering identifies its long 2018 FEC segment as addressing conflict within and across communities, justice, bylaws, expulsions, burnout, racism, and later mediation. The transcript itself was not available through the current connector, so this addendum does not reconstruct disputed events from the interview.
+
+By the 2024 participant account, grievances involving Acorn/Twin Oaks and resentment about the 2018 East Wind assembly were still part of the federation-level legitimacy problem. This does not establish which side was right. It does strengthen the operational point: if the federation is expected to receive cross-community disputes, the jurisdiction, staffing, handoff, and remedy architecture cannot remain an aspirational volunteer project.
+
+### G-024 update — the federation entity is not the entire intercommunity network
+
+The 2026 official FEC site still presents PEACH as independently governed and lists Exchange Trips as active during the rebuilding phase. At the same time, local/bilateral ties show that useful cooperation can remain live even when the general federation is weak or membership relationships rupture.
+
+During the March 2024 Twin Oaks wildfire, nearby Acorn sheltered Twin Oaks evacuees and animals. Historical records show the reverse pattern after an Acorn fire, plus labor exchanges and business cooperation. Current Twin Oaks material still describes income from work with its sister community through Southern Exposure Seed Exchange after Acorn had left the FEC.
+
+The practical topology is therefore at least three-layered:
+
+1. bilateral/local-cluster relations;
+2. function-specific shared institutions such as PEACH;
+3. the general federation/corporate coordination layer.
+
+Do not force every useful relation through one organizational choke point. Conversely, do not infer that the network is healthy merely because bilateral ties remain healthy.
+
+The old FEC archive also described a Community Loan Fund and Mutual Aid Scholarship Fund. Targeted searches of the rebuilt 2026 official site did not locate current versions of those programs. Their status is **unresolved**; absence from the current public initiative list is not treated as proof that they were formally terminated.
+
+### G-025 update — distinguish transitional affiliation from stable non-convergent affiliation
+
+The current 2026 official site has three displayed relationship categories:
+
+- Full Member Communities;
+- Communities in Dialogue, explicitly working toward full criteria and membership;
+- Friends of the FEC, like-minded communities that either do not meet full-member criteria or choose not to pursue membership.
+
+This current `Friends` category is the descendant of the older problem that produced Allied Community status: some communities wanted durable cooperation without converging on the FEC full-member institutional template. A lifecycle model should therefore include both **transitional** and **stable non-convergent** relationship states.
+
+The rebuild also supplies a live transition: a May 2025 FEC delegate update described Alpha Farm as a Community in Dialogue, while the current 2026 official site lists Alpha Farm as a Full Member Community. The current policy page also exposes a Member Community Dissolution Policy. These are useful signs that federation status is an actively managed lifecycle rather than a one-time badge.
+
+---
+
+## G-026 — B — Federation mobility needs interoperability, not merely permission
+
+**What the article currently says:** The article already treats usable exit and portable benefits as important (G-012), and its continuity/fork architecture names intercommunity migration as one possible way relationships can continue (G-016). The experimental-ecology lane assumes that nearby autonomous communities can make movement between institutional variants easier than a single-community world.
+
+**What the newer evidence adds:** FEC/Twin Oaks dual-membership and labor-exchange documents show that `members can move between communities` is not itself an operational mobility system.
+
+Twin Oaks' dual-member policy required a primary community for tax, property, citizenship/membership, and related legal purposes. Changing official residence required coordination across labor, taxes, accounting, health, and PEACH. PEACH expenses were reconciled between communities. Most importantly, the policy explicitly allowed either community to limit how often a dual member changed residence if money or labor accounting became too burdensome.
+
+Labor exchange created another reconciliation layer. Historical Twin Oaks rules tracked whether another community owed Twin Oaks labor and could restrict outgoing labor exchange to a community with a large outstanding labor debt. East Wind dual-membership/economic agreements similarly had to allocate work, health/emergency costs, residence, and home/secondary-community responsibilities.
+
+The current 2026 FEC still runs Exchange Trips, so intercommunity movement is not merely a historical curiosity.
+
+The design requirement is **administrative interoperability for mobility**. Before treating neighboring/federated communities as a meaningful choice set, specify at least:
+
+- which community has primary responsibility during each transition stage;
+- how membership/status is recognized and whether a new probationary state applies;
+- how labor balances, reciprocal obligations, and debts are settled or carried;
+- who pays health/medical costs and how pooled programs such as PEACH are reconciled;
+- tax/accounting responsibility;
+- consent-bounded record transfer;
+- housing/queue access and notice;
+- intercommunity reimbursement rules;
+- a grace period preventing gaps in basic needs, coverage, or role-specific standing;
+- a forum for disputes created by the transition itself.
+
+Measure the mobility system rather than assuming it works. Useful indicators include administrative hours per transfer, delayed/aborted moves, switching restrictions, benefit/coverage gaps, unresolved reciprocal balances, and cases in which a person remains in a poor local fit because moving is procedurally expensive.
+
+**Why a reader would care:** A federation can advertise several autonomous communities while real member choice remains largely nominal. If switching creates enough accounting, health, housing, tax, or labor friction, the federation may have institutional diversity without practical mobility between its experiments.
+
+**Likely destination:** Federation/shared-infrastructure section; forks/continuity; exit and member mobility.
+
+**Evidence/status:** Historical FEC/Twin Oaks/East Wind dual-membership and labor-exchange rules, plus current FEC Exchange Trips. This survives collision with G-012/G-016 because those cover portable exit/continuity but do not specify cross-community interoperability. Classification **B**.
+
+**Strict Creative-Tail status:** Not promoted as a strict originality survivor. Exa Search and Parallel Search executed successfully in this fresh chat, but mandatory Parallel Task is not exposed in the current harness and the repo fallback requires unavailable `parallel-cli` + `PARALLEL_API_KEY`. Strict novelty adjudication therefore remains blocked by the production gate.
+
 ## Maintenance rule
 
-When the main gap bank is next regenerated rather than manually edited, reconcile G-021 through G-025 into it and retire this addendum rather than maintaining two permanent competing canonical gap lists.
+When the main gap bank is next regenerated rather than manually edited, reconcile G-021 through G-026 into it and retire this addendum rather than maintaining two permanent competing canonical gap lists.
