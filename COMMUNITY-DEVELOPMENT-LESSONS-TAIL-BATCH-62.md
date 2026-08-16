@@ -29,8 +29,48 @@ This is materially closer to the proposed architecture than classical Hutterite 
 Sources to verify further:
 - Twin Oaks, `Leaves of Twin Oaks #125` web archive: first-party statement that Twin Oaks helped start Acorn to accommodate its waiting list and that Louisa communities maintain labor exchange and dense social ties.
 - Foundation for Intentional Community, `Fifty Years of Commune Life`: retrospective quoting Kat Kinkade on the 1993 Acorn founding process.
+- Foundation for Intentional Community, `An Interview with Ira Wallace`: first-person Acorn founding account; recalls asking Twin Oaks for a large startup loan and working through objections until the proposal became acceptable.
 - Richmond Magazine, `A Cultivated Community` (2013): reports 1,000 hours of Twin Oaks labor contributed to Living Energy Farm's establishment.
 - Federation of Egalitarian Communities, Mimosa listing: reports rented plots from Twin Oaks and work connected to Acorn's seed-business ecosystem.
+
+## Louisa case reconstruction checkpoint
+
+### Acorn: a genuine nearby institutional branch, not merely overflow housing
+
+- Acorn was founded in 1993 after Twin Oaks again developed a long waiting list. Kat Kinkade's retrospective says an informal committee worked for about eight months to get the new community started; Twin Oaks allowed gatherings of potential members. Ira Wallace later described the founders proposing substantial Twin Oaks financing and working through members' concerns until the plan became acceptable. A later Richmond Magazine account says Twin Oaks helped Acorn purchase its property.
+- Acorn did not simply copy Twin Oaks governance. Twin Oaks retained its Planner-Manager governance and detailed labor-credit sheets; Acorn adopted consensus and historically did not require members to fill out labor sheets, despite similar weekly work expectations. This makes Acorn evidence of nearby institutional divergence, not just geographic replication.
+- For the first years Acorn supported itself partly by making hammocks for Twin Oaks. Acorn acquired Southern Exposure Seed Exchange in 1999. By 2009 the direction of dependence had partly reversed: Acorn reported hiring Twin Oakers during rapid SESE growth and explicitly described this as historical reciprocity. Twin Oaks currently describes SESE-related work as an important income stream, and Twin Oaks grows seed and operates the wholesale seed-rack division for Acorn's business.
+- A retrospective `commune life` history says Acorn at one point fell to six members and later to two, and quotes a long-time member attributing survival partly to Ira Wallace and partly to Twin Oaks support. This is secondary/anecdotal evidence, but it makes early demographic trough support an important reconstruction target.
+
+### Living Energy Farm: technical/ecological divergence with parent labor support
+
+- Living Energy Farm began planning around 2010 and living together around 2012. Richmond Magazine reported that Twin Oaks members contributed 1,000 hours of free labor to help establish it.
+- LEF's mature institutional/technical package is substantially different from Twin Oaks: it is an off-grid community and appropriate-technology development center explicitly organized around dramatically reducing or eliminating fossil-fuel and conventional-grid dependence. Its current materials describe a DC microgrid, solar thermal, biogas/solar/wood cooking, organic farming, and technology outreach.
+- The Foundation for Intentional Community listed LEF as established and open to members in July 2026, so this seed clearly persisted beyond startup.
+
+### Mimosa: human-capital spinout without economic severance
+
+- Southern Exposure's current grower profile says Edmund Frost left Twin Oaks and started Mimosa nearby while continuing seed growing.
+- Mimosa describes itself as located halfway between Twin Oaks and Acorn, doing seed production and service work in the Southern Exposure ecosystem, while renting some small agricultural parcels from Twin Oaks and other neighbors.
+- This is a particularly clean instance of a member leaving the parent residential unit without leaving the local economic/skill ecology.
+
+### Cambia: a useful failure/transformation case
+
+- FEC pages still list Cambia as a small Louisa community, but a March 2026 `commune life` retrospective calls it a defunct income-sharing commune, and its current Hipcamp description says the site now operates as a family homestead focused on education and hospitality after attempts at intentional community.
+- Therefore the cluster did not make every seed persist as an income-sharing commune. Cambia should be treated as a failure/transformation case, and stale directory status is a warning against using listings alone for survival coding.
+
+## What the case supports now
+
+The Louisa evidence supports a practical **communal-incubator ecology** more strongly than it supports any novel theory:
+
+1. A mature parent can lower startup barriers with land-purchase finance, jobs, free labor, skills, business relationships, and social continuity.
+2. Nearby seeds can diverge institutionally rather than merely replicate the parent.
+3. Support can later become reciprocal: Acorn moved from doing Twin Oaks hammock work to providing seed-business work and income opportunities to Twin Oaks.
+4. Geographic/social proximity can allow residential separation without severing friendship, romance, labor exchange, business, and skill networks.
+5. The ecology permits failure or transformation; Cambia is evidence against interpreting clustering as guaranteed survival.
+6. A project that survives only because of continuing shared infrastructure is not necessarily a failed experiment if the intended mature form is federated interdependence rather than autarky.
+
+None of these points should be promoted as a strict Creative Tail novelty finding merely because the Louisa cluster instantiates them. The important value here is empirical: a real community ecosystem appears to have done much of what the user's proposed architecture calls for.
 
 ## Research lane opened by the lead
 
