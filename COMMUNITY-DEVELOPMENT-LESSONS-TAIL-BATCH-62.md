@@ -20,14 +20,31 @@ Do not make a large irreversible resource transfer merely because a faction prop
 
 ## Empirical analogue lead: Twin Oaks -> Acorn / Louisa network
 
-A first-party Twin Oaks historical account says that in the early 1990s Twin Oaks helped start Acorn Community roughly eight miles away to accommodate a waiting list of about 25 people. The same account describes later Louisa-area communities as highly interconnected, including labor-exchange agreements and cross-community friendships and romances. A Foundation for Intentional Community retrospective also describes Twin Oaks directly influencing Acorn's 1993 founding.
+A first-party Twin Oaks historical account says that in the early 1990s Twin Oaks helped start Acorn Community roughly eight miles away to accommodate a waiting list of about 25 people. The same account describes later Louisa-area communities as highly interconnected, including labor-exchange agreements and cross-community friendships and romances. A Foundation for Intentional Community retrospective quotes Kat Kinkade describing the 1993 Acorn founding effort and says Twin Oaks directly influenced Acorn.
 
-This is materially closer to the proposed architecture than classical Hutterite fission because it suggests nearby communal multiplication without social or economic severance. However, the located evidence does **not** yet establish that Acorn began as a small internal institutional experiment, that resource support was contingent on proof milestones, or that Twin Oaks used a deliberate seed-incubator protocol. Treat this as an empirical lead requiring source-level reconstruction, not validation of the full architecture.
+The analogue is broader than Acorn. A 2013 Richmond Magazine profile reported that Twin Oaks contributed 1,000 hours of free labor to help Living Energy Farm get established. Living Energy Farm was explicitly organized around a substantially different experiment: off-grid living without fossil-fuel dependence. Mimosa, another nearby collective, reports renting agricultural parcels from Twin Oaks while doing production and service work in the Southern Exposure Seed Exchange ecosystem centered at Acorn. Current community descriptions also show continuing affiliations among Living Energy Farm, Acorn, Twin Oaks, and Cambia.
+
+This is materially closer to the proposed architecture than classical Hutterite fission because it suggests nearby communal multiplication with retained economic and social interfaces, and at least some institutional/technical divergence among the resulting communities. However, the located evidence does **not** establish a single deliberate incubation protocol, proof-contingent graduation rules, or the causal effect of parent support on descendant survival. Treat the Louisa cluster as a high-priority empirical case rather than validation of the whole architecture.
 
 Sources to verify further:
 - Twin Oaks, `Leaves of Twin Oaks #125` web archive: first-party statement that Twin Oaks helped start Acorn to accommodate its waiting list and that Louisa communities maintain labor exchange and dense social ties.
 - Foundation for Intentional Community, `Fifty Years of Commune Life`: retrospective quoting Kat Kinkade on the 1993 Acorn founding process.
+- Richmond Magazine, `A Cultivated Community` (2013): reports 1,000 hours of Twin Oaks labor contributed to Living Energy Farm's establishment.
+- Federation of Egalitarian Communities, Mimosa listing: reports rented plots from Twin Oaks and work connected to Acorn's seed-business ecosystem.
+
+## Research lane opened by the lead
+
+Reconstruct the Louisa cluster as a genealogy of communal incubation rather than treating each community as an isolated case. For each descendant/nearby experiment, record:
+- founder/member provenance from older communities;
+- land, capital, labor, business, childcare, transport, records, training, and social support received from parent/sister communities;
+- whether support was gift, loan, exchange, rent, or continuing shared infrastructure;
+- which institutions/practices intentionally diverged from the parent;
+- whether the project remained nested, became autonomous, dissolved, or fed innovations back into older communities;
+- later population, continuity, replication, and member outcomes;
+- whether nearby clustering reduced the cost of exit or community-switching without forcing loss of the larger social network.
+
+A useful comparison would be nearby Louisa descendants/experiments versus more geographically separated descendants influenced by Twin Oaks, while preserving the severe small-N and selection limits.
 
 ## Relation to existing research
 
-The completed corpus already supports planned fission, translocal federation, role-specific governance, reversible trials, and C003 asset-gated cultural mutation. Hutterite daughter-colony practice supplies a nearby empirical analogue for preparing a daughter site before the final split, but not for deliberately incubating divergent institutional experiments. The Twin Oaks/Acorn lead may be closer to nearby networked multiplication, but still does not establish the full seed-experiment model. This lesson should therefore remain an operational synthesis rather than a promoted evidence claim.
+The completed corpus already supports planned fission, translocal federation, role-specific governance, reversible trials, and C003 asset-gated cultural mutation. Hutterite daughter-colony practice supplies a nearby empirical analogue for preparing a daughter site before the final split, but not for deliberately incubating divergent institutional experiments. The Twin Oaks/Acorn/Louisa lead is closer to nearby networked multiplication, but still does not establish the full seed-experiment model. This lesson should therefore remain an operational synthesis and research lead rather than a promoted evidence claim.
