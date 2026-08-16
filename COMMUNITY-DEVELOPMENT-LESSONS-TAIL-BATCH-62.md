@@ -18,6 +18,16 @@ Do not make a large irreversible resource transfer merely because a faction prop
 3. **Graduation hold-up.** If seed members invest substantial labor before the parent decides ex post whether demonstrated success earns further resources or autonomy, specify important graduation criteria/resource options early enough to avoid an avoidable bargaining bottleneck, subject to safety and fiduciary overrides.
 4. **Interface learning.** An adjacent partially autonomous seed can expose the real boundary problems a later federation will face: shared land and tools, money, childcare, records, dispute jurisdiction, labor exchange, family ties, and other cross-unit dependencies.
 
+## Empirical analogue lead: Twin Oaks -> Acorn / Louisa network
+
+A first-party Twin Oaks historical account says that in the early 1990s Twin Oaks helped start Acorn Community roughly eight miles away to accommodate a waiting list of about 25 people. The same account describes later Louisa-area communities as highly interconnected, including labor-exchange agreements and cross-community friendships and romances. A Foundation for Intentional Community retrospective also describes Twin Oaks directly influencing Acorn's 1993 founding.
+
+This is materially closer to the proposed architecture than classical Hutterite fission because it suggests nearby communal multiplication without social or economic severance. However, the located evidence does **not** yet establish that Acorn began as a small internal institutional experiment, that resource support was contingent on proof milestones, or that Twin Oaks used a deliberate seed-incubator protocol. Treat this as an empirical lead requiring source-level reconstruction, not validation of the full architecture.
+
+Sources to verify further:
+- Twin Oaks, `Leaves of Twin Oaks #125` web archive: first-party statement that Twin Oaks helped start Acorn to accommodate its waiting list and that Louisa communities maintain labor exchange and dense social ties.
+- Foundation for Intentional Community, `Fifty Years of Commune Life`: retrospective quoting Kat Kinkade on the 1993 Acorn founding process.
+
 ## Relation to existing research
 
-The completed corpus already supports planned fission, translocal federation, role-specific governance, reversible trials, and C003 asset-gated cultural mutation. Hutterite daughter-colony practice supplies a nearby empirical analogue for preparing a daughter site before the final split, but not for deliberately incubating divergent institutional experiments. This lesson should therefore remain an operational synthesis rather than a promoted evidence claim.
+The completed corpus already supports planned fission, translocal federation, role-specific governance, reversible trials, and C003 asset-gated cultural mutation. Hutterite daughter-colony practice supplies a nearby empirical analogue for preparing a daughter site before the final split, but not for deliberately incubating divergent institutional experiments. The Twin Oaks/Acorn lead may be closer to nearby networked multiplication, but still does not establish the full seed-experiment model. This lesson should therefore remain an operational synthesis rather than a promoted evidence claim.
