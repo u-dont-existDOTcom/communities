@@ -1,112 +1,75 @@
 # Communities article repair state — 2026-08-17
 
-Mode: article harmonization authorized; **owner-comment correction review in progress**; humanization not started.
+Mode: article harmonization authorized; **r02 owner-accepted**; Substack transfer helper built; humanization not started.
 
-## Authority boundary
+## Authority / accepted revision
 
-The uploaded raw Substack editor HTML remains the article baseline. Neither r01 nor r02 is owner-approved article authority. r02 is the current correction candidate responding to Joel's first six review comments.
+Joel reviewed r01, supplied six substantive corrections, reviewed the r02 response, then replied `good give me the clipboard helper`. Treat that as owner acceptance of the r02 research-repair revision for the current article-transfer task.
 
-## Completed research-repair foundation
-
-- Dedicated branch: `agent/article-repair-20260816`, based on research head `f344d979f7b8f1c2991408b969240d3ed482d4a3`.
-- Canonical research change specification reconciled through G-001–G-028.
-- The owner's selective-membership/ejection thesis and autonomous-governance correction remain explicit; the repair does not impose universal inclusion or state-monopoly correction.
-- Current FEC publication claims and the March 2026 Sénégal Article 319 correction were source-hardened before proposal review.
-- Fail-closed raw-HTML patch architecture and tests remain durable in this branch.
-
-## Raw baseline
-
-Current-conversation upload: `Pasted text(1).txt`.
-
-SHA-256:
-
-`0062af91b00b637482217755276db3c2b7379f1fb52952e8a1bc39ed90062e86`
-
-This raw editor HTML is the sole authority for links, hierarchy, captions, source order, and native-object identity/placement.
-
-## r01 review checkpoint
-
-r01 candidate SHA-256:
-
-`73fba9d8fc486b9a6a6a66994ac339b0d1718d594ea6a160896a05d0dca92fbf`
-
-Joel returned six substantive comments covering:
-
-1. simpler outside/expert referral wording;
-2. a less pie-in-the-sky adulthood-exit/freedom model;
-3. federation exchange without internal money;
-4. no-money treatment wherever repair prose assumed finances;
-5. moving the whole article toward the author's money-free-society goal;
-6. linking Joel's own community research to `https://commune-research.u-dont-exist.com/`.
-
-Durable reconciliation:
-
-`recovered/COMMUNITIES-ARTICLE-REPAIR-R02-COMMENT-RESPONSE-2026-08-17.md`
-
-## Current r02 correction candidate
-
-r02 candidate SHA-256:
+Accepted r02 archival/editor source SHA-256:
 
 `207f9e1d1ff5473e6684c0916f3c1d4557d98307b3bec417f99087d281998da8`
 
-The r02 correction pass makes 27 local changes relative to r01. The main architecture change is explicit: the desired long-term direction is a community that does not use money internally, while recognizing that moneylessness does not abolish scarcity, allocation power, obligations, or an external currency interface.
+Original uploaded raw Substack editor baseline SHA-256:
 
-### Child-freedom correction
+`0062af91b00b637482217755276db3c2b7379f1fb52952e8a1bc39ed90062e86`
 
-r02 rejects the r01 guaranteed transition-package framing. It states that every upbringing creates path dependence; poor/money-free communities may rightly prioritize food, medical care, and survival; and the realistic obligation is not unlimited exploration but avoiding artificially impossible departure. Children raised without money should still learn enough about jobs, rent, contracts, banking, scams, identification, transport, and outside institutions not to be helpless if they leave.
+The accepted r02 preserves the raw Substack editor structure/native-object source order and incorporates the research repair through G-001–G-028 plus Joel's r01 corrections, including the money-free-society architecture and `https://commune-research.u-dont-exist.com/` links.
 
-### Money-free architecture correction
+Durable r01→r02 owner-comment reconciliation:
 
-Repair language is generalized from `money/finance` to shared resources and material obligations where appropriate:
+`recovered/COMMUNITIES-ARTICLE-REPAIR-R02-COMMENT-RESPONSE-2026-08-17.md`
 
-- container and founder-power audit;
-- medical interface;
-- federation maintenance and intercommunity exchange;
-- capacity budget;
-- land/resource rights and exit;
-- membership and premove simulation;
-- boundary standing;
-- removal and dissolution;
-- Black Tax / outside-currency interface.
+## Native-object source validation
 
-Existing autobiographical or historical money references remain where money is actually the subject.
+`html_islands.py inventory` found 26 semantic/native objects in r01 and r02; ordered `(object type, exact source SHA-256)` sequence remained identical before owner acceptance.
 
-### Research-link correction
+This proves source-level identity/order, not destination reconstruction.
 
-Joel-authored references to his own community research now point to:
+## Substack clipboard helper
 
-`https://commune-research.u-dont-exist.com/`
+Durable transfer record:
 
-Current placements: Escuelita descendant audit, autonomy/legal-pluralism correction, and appendix public research report.
+`recovered/COMMUNITIES-ARTICLE-R02-SUBSTACK-TRANSFER-2026-08-17.md`
 
-## Native-object validation
+Helper file delivered to Joel:
 
-`html_islands.py inventory` on r01 and r02 found 26 semantic/native objects in each. Ordered `(object type, exact source SHA-256)` sequences are identical.
+`community-research-repair-r02-clipboard-helper.html`
 
-This proves source-level native-object identity/order only, not final clipboard/Substack destination reconstruction.
+Helper SHA-256:
 
-## r02 correction-review verification
+`a96da9420af92071b877f4de2704f966396a33fb6381ad964da435f1b5af9de9`
 
-The previous-delivery-vs-corrected review contains:
+Transfer payload SHA-256:
 
-- 29 changed rows;
-- 55 commentable old/new cells;
-- `joel-commentable-diff-review-v4` metadata;
-- baseline = r01 candidate;
-- proposal = r02 owner-comment response candidate.
+`66e5cd6b7938a65487369673adc15b5b3e51b96a219a2e87ac8cee7e8b2cd26a`
 
-Headless Chromium `set_content` QA passed Keep decisions, rhetoric slider, comments, search, review drawer, JSON export and Markdown export with 0 page errors and 0 console errors.
+### Current video rule applied
+
+The accepted r02 contains no standalone native Substack-uploaded video object. Its two literal `<video>` elements are inside Substack **video-post digest embeds**. Per Joel's current correction, these do not split the helper; the transfer payload leaves each canonical post URL at its source position so Substack can reconstruct it. The non-video digest preview remains rich HTML.
+
+After conversion there are no `<video>` elements in the payload, so no manual native-video reinsertion step is required for this article.
+
+### Static helper regression
+
+PASS:
+
+- one visible `Copy Article` control;
+- exact `<div dir="auto" class="body markup">` wrapper;
+- raw editor root excluded;
+- immediate `ClipboardItem` / `navigator.clipboard.write()` path;
+- silent off-screen `contenteditable` + `execCommand("copy")` fallback;
+- both video-post canonical URLs present once in position;
+- non-video digest, YouTube, Instagram, images, Share and Subscribe retained on their assigned paths;
+- native editor locks removed from transferable object start tags only;
+- no paywall/comment-card marker detected.
+
+Instagram and Subscribe remain destination-sensitive and must be checked in the actual Substack draft.
 
 ## Exact next action
 
-Joel reviews `community-research-repair-r02-commentable-correction-diff.html` and returns any further comments/decisions.
+Joel opens the downloaded helper directly in Opera, clicks `Copy Article`, pastes into a disposable/target Substack draft, and checks object types independently: images/captions, non-video digest preview, both reconstructed video-post URLs, YouTube, Share, Subscribe, Instagram, links, and source order.
 
-Do **not** promote r02 to article authority yet. After the r02 correction review:
+Do not treat a successful clipboard operation alone as destination success.
 
-1. reconcile every remaining owner comment;
-2. run semantic/coherence cold audits on the complete repaired article;
-3. flatten the accepted repair into a single raw-baseline operation set;
-4. generate authoritative archival HTML;
-5. verify native-object source fidelity;
-6. build/retest the Substack transfer helper from that exact accepted archival HTML;
-7. only afterward begin humanization/detector work.
+After destination verification, preserve that result durably. Humanization/detector work, if requested, starts from this accepted r02 and must preserve the accepted research repair and native-object placement.
