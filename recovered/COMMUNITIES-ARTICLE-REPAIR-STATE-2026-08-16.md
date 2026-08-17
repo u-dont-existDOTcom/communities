@@ -1,75 +1,156 @@
 # Communities article repair state — 2026-08-17
 
-Mode: article harmonization authorized; **r02 owner-accepted**; Substack transfer helper built; humanization not started.
+Mode: article harmonization authorized; **r05 architecture/dedup candidate committed for owner review**; detector/humanization not started.
 
-## Authority / accepted revision
+## Current owner baseline
 
-Joel reviewed r01, supplied six substantive corrections, reviewed the r02 response, then replied `good give me the clipboard helper`. Treat that as owner acceptance of the r02 research-repair revision for the current article-transfer task.
+Joel supplied fresh raw Substack editor HTML after manually replacing two broken Instagram native embeds with ordinary Instagram post links because Substack's Instagram embed behavior had failed.
 
-Accepted r02 archival/editor source SHA-256:
+Owner raw source SHA-256:
 
-`207f9e1d1ff5473e6684c0916f3c1d4557d98307b3bec417f99087d281998da8`
+`d4e46ce84636ab038b1e3b80f1a6f6246242b8e482d43ed648b51595d441eab5`
 
-Original uploaded raw Substack editor baseline SHA-256:
+Those two ordinary links are now source authority for this task:
 
-`0062af91b00b637482217755276db3c2b7379f1fb52952e8a1bc39ed90062e86`
+- `https://instagram.com/p/DVyl1a2lAuZ/`
+- `https://instagram.com/p/DaLvZV2qIk2/`
 
-The accepted r02 preserves the raw Substack editor structure/native-object source order and incorporates the research repair through G-001–G-028 plus Joel's r01 corrections, including the money-free-society architecture and `https://commune-research.u-dont-exist.com/` links.
+Do not reconstruct native Instagram embeds from them.
 
-Durable r01→r02 owner-comment reconciliation:
+## Prior accepted checkpoint
 
-`recovered/COMMUNITIES-ARTICLE-REPAIR-R02-COMMENT-RESPONSE-2026-08-17.md`
+r02 was owner-accepted during the earlier research-repair/comment cycle. Later r03/r04 local passes integrated the Zapatista, money-free-community, Auroville, couple-problem, Liedloff, and directory-scope corrections. r05 starts from Joel's newly supplied raw Substack source, not from an older helper.
 
-## Native-object source validation
+## r05 article candidate
 
-`html_islands.py inventory` found 26 semantic/native objects in r01 and r02; ordered `(object type, exact source SHA-256)` sequence remained identical before owner acceptance.
+Article SHA-256:
 
-This proves source-level identity/order, not destination reconstruction.
+`ccdbca020251e9fab8d60c5ce343d8e42347581e9f13a63e568a0154eb6098bc`
 
-## Substack clipboard helper
+Main architecture repairs:
 
-Durable transfer record:
+1. consolidated the early `How Much Attention Do You Actually Have for Other People?` setup into `The Math of Absorption, and Who This Isn’t For`;
+2. removed repeated escuelita explanations while preserving opening definition and Zapatista evidence/payoff;
+3. separated the Zapatista example from Joel's own movement design under new H1 `From One Community to a Movement`;
+4. moved `Please Choose the Values Before Falling in Love With the View` into the forming-group branch;
+5. moved the sexuality/gender compatibility paragraph into that values section, restoring the antecedent of `that list`;
+6. promoted `Resources, Land, and Exit Terms` to H2;
+7. moved `Practice Comes Before Property / If You Can’t Move / What to Do This Month` out of the Sénégal branch;
+8. moved the Bruderhof/transmission reflection after the one-month action steps so it is the article's true ending;
+9. promoted Appendix to H1 with H2 subsections.
 
-`recovered/COMMUNITIES-ARTICLE-R02-SUBSTACK-TRANSFER-2026-08-17.md`
+Owner-supplied Instagram links were not altered.
 
-Helper file delivered to Joel:
+## Article native-object fidelity
 
-`community-research-repair-r02-clipboard-helper.html`
+Baseline and r05 each contain 26 inventoried native/source objects.
+
+Ordered `(object type, exact source SHA-256)` sequences are identical between Joel's owner raw baseline and r05. The final organization pass therefore changes prose/heading topology without mutating or reordering the inventoried native-object sequence.
+
+This proves source-level object identity/order only, not destination reconstruction.
+
+## r05 research companion
+
+Ghost-card SHA-256:
+
+`d90b7904ad1c4460b7ad426ab116f71db3b83d5b3c97f5e9fc9537ce692bf6d2`
+
+Markdown companion SHA-256:
+
+`9edaf117487cf5ae00364ef3cd4b9666839db10f231ff9cd5fc0d85184456760`
+
+The r04 report had three competing organizational spines:
+
+- why the desired intersection disappears;
+- what earlier books changed;
+- twelve design conclusions.
+
+r05 keeps one reader path:
+
+1. target;
+2. method;
+3. selective living-case sweep;
+4. Zapatistas as closest integrated example;
+5. why the full combination is hard;
+6. recurring systems failure;
+7. evidence-supported conclusions vs Joel's chosen design commitments;
+8. design implications grouped by dependency;
+9. staged formation toward a money-free community;
+10. model risks;
+11. unknowns;
+12. conclusion;
+13. source map.
+
+Shared inner purpose now has one explanatory home. Couple dynamics have one explanatory home. Federation's meaning function is not reintroduced every time federation appears. Money-free economics and practice-before-property are one formation sequence. The final literal duplicate from that consolidation was removed in the second cold audit.
+
+## Mermaid control maps
+
+Article architecture:
+
+`recovered/BUILDING-HEALING-COMMUNITY-R05-ARCHITECTURE.md`
+
+Report architecture:
+
+`recovered/COMMUNITY-RESEARCH-REPORT-R05-ARCHITECTURE.md`
+
+The maps are visual indexes over this r05 candidate, not authority over Joel's supplied source or future owner corrections.
+
+## Report/Ghost QA
+
+- 13 top-level H2 branches;
+- desktop and mobile TOCs resolve to the same 13 targets;
+- six report tables;
+- first table column is ~216.3 px desktop and 210 px mobile across all six tables;
+- no duplicate IDs;
+- no external script or stylesheet dependencies;
+- headless Chromium `set_content` QA: zero page errors and zero console errors.
+
+This does not prove a real Ghost-host destination result.
+
+## r05 Substack clipboard helper
 
 Helper SHA-256:
 
-`a96da9420af92071b877f4de2704f966396a33fb6381ad964da435f1b5af9de9`
+`690a3aeacd8c7bc0826b6fc1dbdf068d8603695f28498c607b8bd74152a70856`
 
-Transfer payload SHA-256:
+The helper is rebuilt from the exact r05 archival/editor article.
 
-`66e5cd6b7938a65487369673adc15b5b3e51b96a219a2e87ac8cee7e8b2cd26a`
+Transfer treatment:
 
-### Current video rule applied
+- one rich-HTML payload; no standalone native uploaded-video object exists;
+- two Substack video-post digest embeds become their canonical post URLs in place;
+- non-video digest, YouTube, images, Share, and Subscribe remain rich HTML on their established paths;
+- the two Instagram items remain Joel's ordinary links;
+- editor root excluded;
+- only transferable native-object locks are removed.
 
-The accepted r02 contains no standalone native Substack-uploaded video object. Its two literal `<video>` elements are inside Substack **video-post digest embeds**. Per Joel's current correction, these do not split the helper; the transfer payload leaves each canonical post URL at its source position so Substack can reconstruct it. The non-video digest preview remains rich HTML.
+Headless Chromium primary ClipboardItem path and forced silent `execCommand('copy')` fallback both passed. Real Opera → Substack destination reconstruction remains unverified.
 
-After conversion there are no `<video>` elements in the payload, so no manual native-video reinsertion step is required for this article.
+## Durable files in this r05 checkpoint
 
-### Static helper regression
+Exact large HTML artifacts are stored losslessly as bzip2-compressed base64 so GitHub's text-contents connector does not have to reserialize or truncate fragile raw editor markup:
 
-PASS:
+- `recovered/BUILDING-HEALING-COMMUNITY-R05-ARTICLE.bz2.base64`
+  - reconstruct: `base64 -d ... | bzip2 -dc > BUILDING-HEALING-COMMUNITY-R05-ARTICLE.html`
+  - reconstructed SHA-256: `ccdbca020251e9fab8d60c5ce343d8e42347581e9f13a63e568a0154eb6098bc`
+- `recovered/COMMUNITY-RESEARCH-REPORT-R05-GHOST.bz2.base64`
+  - reconstruct: `base64 -d ... | bzip2 -dc > COMMUNITY-RESEARCH-REPORT-R05-GHOST.html`
+  - reconstructed SHA-256: `d90b7904ad1c4460b7ad426ab116f71db3b83d5b3c97f5e9fc9537ce692bf6d2`
+- `recovered/BUILDING-HEALING-COMMUNITY-R05-ARCHITECTURE.md`
+- `recovered/COMMUNITY-RESEARCH-REPORT-R05-ARCHITECTURE.md`
+- `recovered/COMMUNITY-R05-ORGANIZATION-CHANGELOG.md`
+- `recovered/COMMUNITY-R05-QA.md`
 
-- one visible `Copy Article` control;
-- exact `<div dir="auto" class="body markup">` wrapper;
-- raw editor root excluded;
-- immediate `ClipboardItem` / `navigator.clipboard.write()` path;
-- silent off-screen `contenteditable` + `execCommand("copy")` fallback;
-- both video-post canonical URLs present once in position;
-- non-video digest, YouTube, Instagram, images, Share and Subscribe retained on their assigned paths;
-- native editor locks removed from transferable object start tags only;
-- no paywall/comment-card marker detected.
+The exact Substack helper remains in the delivered local artifact family and can be added with the same compressed representation if another worker needs repository-only reconstruction. The article/report content and topology themselves are durable here.
 
-Instagram and Subscribe remain destination-sensitive and must be checked in the actual Substack draft.
+The existing technical `docs/PUBLIC-RESEARCH-REPORT.md` is deliberately not overwritten in this checkpoint; it remains the evidence-transparency layer. r05 is the reader-facing companion/research narrative.
 
 ## Exact next action
 
-Joel opens the downloaded helper directly in Opera, clicks `Copy Article`, pastes into a disposable/target Substack draft, and checks object types independently: images/captions, non-video digest preview, both reconstructed video-post URLs, YouTube, Share, Subscribe, Instagram, links, and source order.
+Joel reviews r05 article/report organization. If accepted:
 
-Do not treat a successful clipboard operation alone as destination success.
-
-After destination verification, preserve that result durably. Humanization/detector work, if requested, starts from this accepted r02 and must preserve the accepted research repair and native-object placement.
+1. record r05 owner acceptance;
+2. run only requested/surgical prose corrections;
+3. perform a real Opera → Substack destination test before claiming helper success;
+4. test the Ghost card in the actual Ghost HTML-card destination before claiming hosted success;
+5. begin detector/humanization work only if explicitly requested, using the r05 architecture maps as a blocking topology check.
